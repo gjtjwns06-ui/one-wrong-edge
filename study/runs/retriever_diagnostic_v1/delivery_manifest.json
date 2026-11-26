@@ -1,0 +1,75 @@
+{
+  "original_delivery_files_unchanged": true,
+  "original_files_checked": 70,
+  "local_report_links_valid": true,
+  "files": {
+    "RETRIEVER_FAILURE_ANALYSIS.md": {
+      "bytes": 17293,
+      "sha256": "8ea62dc2cb3fb5d747125c4211c9ac1f4c1e1d088624b3558e6fe53d7cd3ca67"
+    },
+    "RETRIEVER_DIAGNOSTIC_PROTOCOL.md": {
+      "bytes": 3633,
+      "sha256": "409046a4107c935322c82f4df45f6d015d1a55c9b13afba65e6f730e0a514093"
+    },
+    "owe/diagnose_retriever.py": {
+      "bytes": 15354,
+      "sha256": "be7d296de6d4dfcc9c0315bdcaa448d28aa10b3f1d73c959425a5d1d77101763"
+    },
+    "owe/audit_retriever_diagnosis.py": {
+      "bytes": 4612,
+      "sha256": "17eac8e22330d3f8fea45925c81948720d24a489bba890a7214336cad959c9aa"
+    },
+    "runs/retriever_diagnostic_v1/diagnostic_checks.json": {
+      "bytes": 469,
+      "sha256": "671ed25b05ad153c4adf0f5fda3fad6c9dae26665deb37ec44b651f5d525dcfb"
+    },
+    "runs/retriever_diagnostic_v1/euler_and_failure_examples.json": {
+      "bytes": 379438,
+      "sha256": "8a556eacf21b604183ccb414892250f82e47c4d1150be98956fe5deb30f163a6"
+    },
+    "runs/retriever_diagnostic_v1/failure_decomposition.png": {
+      "bytes": 76965,
+      "sha256": "d62dd804ac3e99218845f8991592bbe8c6a2250c27b6705ea59cefd1a1d63639"
+    },
+    "runs/retriever_diagnostic_v1/failure_decomposition.svg": {
+      "bytes": 50783,
+      "sha256": "7069e811f40bdf311d488cdaf481f73e7d69b18046ed0b971a3b32dfc431e43f"
+    },
+    "runs/retriever_diagnostic_v1/gold_global_ranks.csv": {
+      "bytes": 815842,
+      "sha256": "4a21d7cda6dee743dd02919d36c5af7d57d0d88bfa1967d969b972bd31cc7046"
+    },
+    "runs/retriever_diagnostic_v1/gold_type_contributions.csv": {
+      "bytes": 206,
+      "sha256": "57e06ef5db23135abbd707622d637d449b86aeae0537a96f1f51ab911e95ffec"
+    },
+    "runs/retriever_diagnostic_v1/manifest.json": {
+      "bytes": 760,
+      "sha256": "dfba4e516493faa080cc34075d13a0e1e948d6e884754ccc9114d7f323abd574"
+    },
+    "runs/retriever_diagnostic_v1/mechanism_ablations.csv": {
+      "bytes": 1073837,
+      "sha256": "4a7565481fe1760420c5a153959d60808111a8e61cfc81c84bed36498da563f9"
+    },
+    "runs/retriever_diagnostic_v1/mechanism_summary.csv": {
+      "bytes": 2163,
+      "sha256": "9380b2aaaadcaf9d53e504842ec205d8d2ac8f94421fbbc79af125981b99c0f8"
+    },
+    "runs/retriever_diagnostic_v1/profile.json": {
+      "bytes": 1175,
+      "sha256": "f1a8f1bc259a05ea273be5ca9539ed42ded8037574c1d2283b7b6d1974d70209"
+    },
+    "runs/retriever_diagnostic_v1/seed_types.csv": {
+      "bytes": 263824,
+      "sha256": "4b1f5af7c378819b7c0df9aa8d4ed6483e763b065762f46aff6c78fc9a50e829"
+    },
+    "runs/retriever_diagnostic_v1/stage_decomposition.csv": {
+      "bytes": 886644,
+      "sha256": "49b029e6f02957fcbc09b4d5505599092ae0c356605af033785042c99c9af464"
+    },
+    "runs/retriever_diagnostic_v1/stage_summary.csv": {
+      "bytes": 5912,
+      "sha256": "53d8f7378008d6b699f8d6cc9c1ce83ff735058f4bd30f7be7cf81a8e4ec413e"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "learned1": {
+    "model": "boost",
+    "budget": 1,
+    "threshold": 0.002,
+    "validation_gain": 0.0016831428511068225,
+    "validation_mean_deletions": 0.4900497512437811
+  },
+  "learned3": {
+    "model": "boost",
+    "budget": 3,
+    "threshold": 0.0,
+    "validation_gain": 0.003333948159381879,
+    "validation_mean_deletions": 1.7027363184079602
+  },
+  "edge_only1": {
+    "model": "edge_only_boost",
+    "budget": 1,
+    "threshold": 0.005,
+    "validation_gain": 0.0005336538824804165,
+    "validation_mean_deletions": 0.16293532338308458
+  }
+}

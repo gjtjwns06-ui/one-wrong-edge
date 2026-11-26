@@ -1,0 +1,9 @@
+{
+  "local_document_links_valid": true,
+  "raw_source_checksums_valid": true,
+  "original_execution_code_hashes_valid": true,
+  "automated_tests_passed": 7,
+  "separate_BFS_audit_passed": true,
+  "scientific_figures_visually_reviewed": 3,
+  "raw_source_not_in_archive": "Reacquire immutable sources with data/raw/manifest.json and owe.acquire; full-library parse cache also omitted."
+}

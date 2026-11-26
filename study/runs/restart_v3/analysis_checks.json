@@ -1,0 +1,15 @@
+{
+  "unique_query_condition_method_budget": true,
+  "all_output_caps_respected": true,
+  "finite_metrics": true,
+  "metrics_in_unit_interval": true,
+  "action_rate_bounded_by_mean_deletions": true,
+  "wrong_deletions_bounded_by_all_deletions": true,
+  "fresh_test_signature_overlap_zero": true,
+  "clean_gold_mass_accounting_sums_to_one": true,
+  "single_oracle_nonnegative_at20": true,
+  "stored_deltas_match_paired_recall": true,
+  "utility_matched_action_counts_equal": true,
+  "wrongness_matched_action_counts_equal": true,
+  "source_verification_restores_clean_for_additions": true
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 24,
+    "threshold": 0.5,
+    "validation_gain": -0.0043272503512417,
+    "validation_mean_deletions": 21.61318407960199
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 24,
+    "threshold": 0.7,
+    "validation_gain": -0.002299894044522665,
+    "validation_mean_deletions": 18.98134328358209
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 24,
+    "threshold": 0.9,
+    "validation_gain": -9.479735593532334e-05,
+    "validation_mean_deletions": 2.716417910447761
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 24,
+    "threshold": 1.01,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 64,
+    "threshold": 0.5,
+    "validation_gain": -0.0034193781720662122,
+    "validation_mean_deletions": 50.259328358208954
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 64,
+    "threshold": 0.7,
+    "validation_gain": -0.0016548363657160586,
+    "validation_mean_deletions": 37.240671641791046
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 64,
+    "threshold": 0.9,
+    "validation_gain": -9.479735593532334e-05,
+    "validation_mean_deletions": 2.7238805970149254
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 64,
+    "threshold": 1.01,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 128,
+    "threshold": 0.5,
+    "validation_gain": -0.0005417137280863241,
+    "validation_mean_deletions": 82.60572139303483
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 128,
+    "threshold": 0.7,
+    "validation_gain": -0.0008544169228307515,
+    "validation_mean_deletions": 51.63059701492537
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 128,
+    "threshold": 0.9,
+    "validation_gain": -9.479735593532334e-05,
+    "validation_mean_deletions": 2.7238805970149254
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "scope": "all_traversed",
+    "budget": 128,
+    "threshold": 1.01,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  }
+]

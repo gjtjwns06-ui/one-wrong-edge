@@ -1,0 +1,32 @@
+{
+  "analysis": "post-hoc mechanism diagnosis; no model tuning",
+  "source_run": "runs\\scoped_v1",
+  "source_commit": "7d1aa054166171211aa5c3f5e497024031bdbd27",
+  "diagnostic_code_sha256": "be7d296de6d4dfcc9c0315bdcaa448d28aa10b3f1d73c959425a5d1d77101763",
+  "protocol_sha256": "409046a4107c935322c82f4df45f6d015d1a55c9b13afba65e6f730e0a514093",
+  "input_dataset_sha256": "94348c49325d59c0838d5c4ba988eaf703286e884b0e8004aa707b09efc6987e",
+  "vectorizer": {
+    "analyzer": "word tokens split by whitespace",
+    "ngrams": [
+      1,
+      2
+    ],
+    "dimensions": 2314,
+    "lowercase": false
+  },
+  "seed_grid": [
+    1,
+    4,
+    8,
+    16,
+    20
+  ],
+  "hop_grid": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    "all"
+  ]
+}

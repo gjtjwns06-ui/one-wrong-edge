@@ -1,0 +1,9 @@
+condition,unique_edges,wrong_edges,ROC_AUC,average_precision,note
+clean,4554,0,,,"Unique-edge mean query score; descriptive, without independent-edge significance claims"
+hard20_s419,4763,724,0.8215824577770057,0.48255588711847563,"Unique-edge mean query score; descriptive, without independent-edge significance claims"
+hard20_s421,4746,759,0.8305180241582244,0.5193454651217912,"Unique-edge mean query score; descriptive, without independent-edge significance claims"
+local8_s439,4737,253,0.3315847651553349,0.049279221216045416,"Unique-edge mean query score; descriptive, without independent-edge significance claims"
+missing20_s431,4286,0,,,"Unique-edge mean query score; descriptive, without independent-edge significance claims"
+mixed20_s433,4572,418,0.8082933841365789,0.3614901176412767,"Unique-edge mean query score; descriptive, without independent-edge significance claims"
+random20_s401,4768,774,0.6617471426778411,0.2730439672032237,"Unique-edge mean query score; descriptive, without independent-edge significance claims"
+random20_s409,4760,732,0.6654207772369369,0.25090072542690445,"Unique-edge mean query score; descriptive, without independent-edge significance claims"

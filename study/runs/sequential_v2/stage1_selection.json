@@ -1,0 +1,20 @@
+{
+  "variant": {
+    "name": "hybrid64_h2",
+    "lexical": 64,
+    "prior": 32,
+    "seed_pool": 128,
+    "expandable_seeds": 16,
+    "lexical_seeds": 8,
+    "hops": 2
+  },
+  "validation": {
+    "variant": "hybrid64_h2",
+    "coverage": 0.6223643369086944,
+    "ceiling20": 0.6155166708888146,
+    "candidates": 256.0,
+    "transitions": 324.85074626865674,
+    "lexical256_coverage": 0.38287210091353496
+  },
+  "selected_before_stage2": true
+}

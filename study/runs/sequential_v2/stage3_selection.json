@@ -1,0 +1,48 @@
+{
+  "policies": {
+    "utility1": {
+      "model": "utility_boost",
+      "kind": "utility",
+      "budget": 1,
+      "threshold": 0.0,
+      "validation_gain": 0.00088760625357874,
+      "validation_mean_deletions": 0.9203980099502488
+    },
+    "utility3": {
+      "model": "utility_boost",
+      "kind": "utility",
+      "budget": 3,
+      "threshold": 0.0,
+      "validation_gain": 0.000738908901417426,
+      "validation_mean_deletions": 2.5478855721393034
+    },
+    "wrongness1": {
+      "model": "wrongness_boost",
+      "kind": "wrongness",
+      "budget": 1,
+      "threshold": 0.9,
+      "validation_gain": 0.0001446242717590498,
+      "validation_mean_deletions": 0.08084577114427861
+    },
+    "wrongness3": {
+      "model": "wrongness_boost",
+      "kind": "wrongness",
+      "budget": 3,
+      "threshold": 0.9,
+      "validation_gain": 0.0001446242717590498,
+      "validation_mean_deletions": 0.09017412935323384
+    },
+    "wrongness_filter": {
+      "model": "wrongness_boost",
+      "kind": "wrongness",
+      "scope": "all_traversed",
+      "budget": 24,
+      "threshold": 1.01,
+      "validation_gain": 0.0,
+      "validation_mean_deletions": 0.0
+    }
+  },
+  "seconds": 319.51351630000863,
+  "stage2_selection_sha256": "4c46ca1ca733de2689134c6c112f9ed27bc72805122d5825b9767d7e5c00a595",
+  "selected_before_test": true
+}

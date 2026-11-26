@@ -1,0 +1,568 @@
+qid,group,topic,recall_new,recall_old,difference
+difjust,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.2,0.0,0.2
+dfdif2,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+eldif,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.125,0.0,0.125
+eldifd,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,1.0,0.5,0.5
+eldifad,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+eldifbd,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+elneeldif,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.3333333333333333,0.1666666666666666,0.1666666666666667
+velcomp,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.0,0.0,0.0
+dfdif3,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.0,0.1666666666666666,-0.1666666666666666
+difeq1,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.0,0.0,0.0
+difeq2,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.0,0.2,-0.2
+difeq12,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+difeq1i,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,1.0,0.0,1.0
+difeq2i,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,1.0,0.5,0.5
+difeq12i,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.6666666666666666,0.6666666666666666,0.0
+difeq1d,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.5,0.0,0.5
+difeq2d,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,1.0,0.0,1.0
+difeq12d,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.6666666666666666,0.6666666666666666,0.0
+difeqri,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+nfdif,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.1666666666666666,0.0,0.1666666666666666
+eldifi,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.5,0.5,0.0
+eldifn,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.5,0.5,0.0
+elndif,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.5,0.0,0.5
+neldif,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.5,0.25,0.25
+difdif,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.1428571428571428,0.0,0.1428571428571428
+difss,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.5,0.0,0.5
+difssd,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,1.0,0.5,0.5
+difss2,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+difss2d,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,1.0,1.0,0.0
+ssdifss,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+ddif,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-0,sets_relations_functions,0.1666666666666666,0.1666666666666666,0.0
+ineq2,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+ineq12,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+ineq1i,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,1.0,0.0,1.0
+ineq2i,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,1.0,0.0,1.0
+ineq12i,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,1.0,0.0,1.0
+ineq1d,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.5,0.0,0.5
+ineq2d,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.5,0.0,0.5
+ineq12d,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.5,0.0,0.5
+ineqan12d,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.5,0.0,0.5
+sseqin2,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+nfin,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.2,0.0,0.2
+rabbi2dva,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.0,0.3333333333333333,-0.3333333333333333
+inidm,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.5,0.0,0.5
+inass,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.1428571428571428,0.0,0.1428571428571428
+in12,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.5,0.5,0.0
+in32,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.75,0.5,0.25
+in13,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+in31,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.6666666666666666,0.0,0.6666666666666666
+inrot,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.6666666666666666,0.6666666666666666,0.0
+in4,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.5,0.25,0.25
+inindi,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.5,0.25,0.25
+inindir,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.25,0.0,0.25
+inss1,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.5,0.0,0.5
+inss2,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.3333333333333333,0.6666666666666666,-0.3333333333333333
+ssin,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.1111111111111111,0.0,0.1111111111111111
+ssini,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.6666666666666666,0.6666666666666666,0.0
+ssind,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+ssrin,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.0,0.0,0.0
+sslin,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+ssrind,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,1.0,0.0,1.0
+ss2in,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+ssinss1,ZF Set Theory - start with the Axiom of Extensionality / Basic operations on classes / block-2,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+dfnul4,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.3333333333333333,0.1666666666666666,0.1666666666666667
+dfnul2,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.5,0.1666666666666666,0.33333333333333337
+dfnul3,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.5714285714285714,0.4285714285714285,0.1428571428571429
+noel,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.3,0.0,0.3
+nel02,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+n0i,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,1.0,0.5,0.5
+ne0i,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.5,0.5,0.0
+ne0d,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,1.0,0.5,0.5
+n0ii,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,1.0,0.0,1.0
+ne0ii,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,1.0,0.0,1.0
+vn0,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.1428571428571428,0.0714285714285714,0.0714285714285714
+eq0f,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.3333333333333333,0.1666666666666666,0.1666666666666667
+neq0f,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.5,0.25,0.25
+n0f,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+eq0,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.1428571428571428,0.0,0.1428571428571428
+neq0,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.75,0.25,0.5
+n0,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+n0limd,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+nel0,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.5,0.5,0.0
+reximdva0,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.625,0.0,0.625
+rspn0,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.2857142857142857,0.2857142857142857,0.0
+n0rex,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.5,0.1666666666666666,0.33333333333333337
+ssn0rex,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+n0moeu,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.0,0.2,-0.2
+rex0,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.6666666666666666,0.6666666666666666,0.0
+reu0,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+rmo0,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-0,sets_relations_functions,0.25,0.25,0.0
+ralidmw,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-6,sets_relations_functions,0.4,0.0,0.4
+ralidm,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-6,sets_relations_functions,0.2307692307692307,0.0769230769230769,0.1538461538461538
+raaan,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-6,sets_relations_functions,0.0,0.0,0.0
+raaanv,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-6,sets_relations_functions,0.0,0.0,0.0
+sbss,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-6,sets_relations_functions,0.0,0.0,0.0
+sbcssg,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-6,sets_relations_functions,0.3,0.1,0.19999999999999998
+raaan2,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-6,sets_relations_functions,0.0625,0.0,0.0625
+2reu4lem,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-6,sets_relations_functions,0.1282051282051282,0.0,0.1282051282051282
+2reu4,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-6,sets_relations_functions,0.2,0.1,0.1
+csbdif,ZF Set Theory - start with the Axiom of Extensionality / The empty set / block-6,sets_relations_functions,0.0714285714285714,0.0,0.0714285714285714
+xpeq1,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.2,0.0,0.2
+xpss12,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.0,0.0,0.0
+xpss,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+inxpssres,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.625,0.25,0.375
+relxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+xpss1,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+xpss2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+xpeq2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.2,0.0,0.2
+elxpi,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.125,0.125,0.0
+elxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.25,0.0,0.25
+elxp2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.4,0.2,0.2
+xpeq12,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+xpeq1i,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,1.0,0.0,1.0
+xpeq2i,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,1.0,0.0,1.0
+xpeq12i,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,1.0,0.5,0.5
+xpeq1d,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,1.0,0.0,1.0
+xpeq2d,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.5,0.0,0.5
+xpeq12d,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,1.0,0.0,1.0
+nfxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.8,0.2,0.6000000000000001
+0nelxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.1428571428571428,0.0,0.1428571428571428
+0nelelxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.1428571428571428,0.0,0.1428571428571428
+opelxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.1875,0.0625,0.125
+opelxpi,ZF Set Theory - add the Axiom of Power Sets / Relations / block-0,sets_relations_functions,0.5,0.5,0.0
+relsnop,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,1.0,0.5,0.5
+copsex2gb,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.1666666666666666,0.3333333333333333,-0.1666666666666667
+copsex2ga,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.4,0.2,0.2
+elopaba,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+xpsspw,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.04,0.0,0.04
+unixpss,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.25,0.25,0.0
+relun,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.5,0.25,0.25
+relin1,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+relin2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+relinxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+reldif,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+reliun,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.5,0.25,0.25
+reliin,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.25,0.25,0.0
+reluni,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.5,0.5,0.0
+relint,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.5,0.5,0.0
+relopabiv,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.5,0.0,0.5
+relopabvOLD,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.5,0.5,0.0
+relopabi,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.2068965517241379,0.0,0.2068965517241379
+relopab,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.0,0.5,-0.5
+mptrel,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,1.0,0.0,1.0
+reli,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,1.0,0.0,1.0
+rele,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.5,0.0,0.5
+opabid2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.2,0.2,0.0
+inopab,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.2727272727272727,0.0,0.2727272727272727
+difopab,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.1538461538461538,0.0,0.1538461538461538
+inxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.5,0.0,0.5
+xpindi,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.25,0.25,0.0
+xpindir,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.25,0.0,0.25
+xpiindi,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.1578947368421052,0.0,0.1578947368421052
+xpriindi,ZF Set Theory - add the Axiom of Power Sets / Relations / block-4,sets_relations_functions,0.1818181818181818,0.0909090909090909,0.0909090909090909
+opelco2g,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.4,0.4,0.0
+brcogw,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.3,0.0,0.3
+brcoi,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.6666666666666666,0.0,0.6666666666666666
+eqbrrdva,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.1,0.2,-0.1
+brco,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.0,0.0,0.0
+opelco,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+cnvss,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.25,0.0,0.25
+cnveq,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.5,0.25,0.25
+cnveqi,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,1.0,0.5,0.5
+cnveqd,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,1.0,0.5,0.5
+elcnv,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.25,0.0,0.25
+elcnv2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.8,0.4,0.4
+nfcnv,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.6,0.2,0.39999999999999997
+brcnvg,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.5,0.5,0.0
+opelcnvg,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+opelcnv,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,1.0,1.0,0.0
+brcnv,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,1.0,0.0,1.0
+cnv0,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.4,0.0,0.4
+cnvi,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.25,0.25,0.0
+csbcnv,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.2307692307692307,0.1538461538461538,0.0769230769230769
+csbcnvgALTOLD,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.2727272727272727,0.0909090909090909,0.18181818181818182
+cnvco,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.2727272727272727,0.0,0.2727272727272727
+cnvuni,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.3076923076923077,0.0,0.3076923076923077
+dfdm3,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.8,0.2,0.6000000000000001
+dfrn2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.2857142857142857,0.1428571428571428,0.1428571428571429
+dfrn3,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,1.0,0.2,0.8
+elrn2g,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.4,0.2,0.2
+elrng,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,0.75,0.25,0.5
+elrn2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,1.0,0.5,0.5
+elrn,ZF Set Theory - add the Axiom of Power Sets / Relations / block-6,sets_relations_functions,1.0,0.0,1.0
+elima2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,1.0,0.3333333333333333,0.6666666666666667
+elima3,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.8,0.2,0.6000000000000001
+nfima,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.25,0.5,-0.25
+nfimad,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.3636363636363636,0.5454545454545454,-0.18181818181818182
+dfrn7,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.2,0.2,0.0
+imadmrn,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.5,0.25,0.25
+imassrnOLD,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.0,0.0,0.0
+mptima,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.25,0.25,0.0
+mptimass,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.5,0.3333333333333333,0.16666666666666669
+imai,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.3076923076923077,0.0769230769230769,0.2307692307692308
+rnresi,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+resiima,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.1666666666666666,0.0,0.1666666666666666
+ima0,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.2,0.2,0.0
+csbima12,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.2,0.0666666666666666,0.13333333333333341
+imadisj,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.1428571428571428,0.2857142857142857,-0.1428571428571429
+imadisjlnd,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.5,0.25,0.25
+cnvimassrndm,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.6666666666666666,0.1666666666666666,0.5
+cnvimarndm,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+imasng,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.1428571428571428,0.0,0.1428571428571428
+relimasn,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.25,0.125,0.125
+elrelimasn,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.625,0.25,0.375
+elimasng1,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.0,0.0,0.0
+elimasn1,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,1.0,0.5,0.5
+elimasng,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,1.0,0.6666666666666666,0.33333333333333337
+elimasn,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,1.0,0.5,0.5
+elimasni,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.0714285714285714,0.0,0.0714285714285714
+args,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.4285714285714285,0.0,0.4285714285714285
+elinisegg,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.3333333333333333,0.6666666666666666,-0.3333333333333333
+eliniseg,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.5,0.5,0.0
+epin,ZF Set Theory - add the Axiom of Power Sets / Relations / block-13,sets_relations_functions,0.2,0.2,0.0
+djudisj,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.0,0.1666666666666666,-0.1666666666666666
+xpdifid,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.078125,0.0625,0.015625
+xpdifcnvepel,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.0952380952380952,0.0634920634920634,0.0317460317460318
+resdisj,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.2,0.4,-0.2
+rnxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.3333333333333333,0.1666666666666666,0.1666666666666667
+dmxpss,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.0909090909090909,0.2727272727272727,-0.18181818181818182
+rnxpss,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.8,0.6,0.20000000000000007
+rnxpid,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.0,0.4444444444444444,-0.4444444444444444
+ssxpb,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.125,0.0625,0.0625
+xp11,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.2,0.1,0.1
+xpcan,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.12,0.0,0.12
+xpcan2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.12,0.12,0.0
+ssrnres,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.12,0.04,0.07999999999999999
+rninxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.4444444444444444,0.0,0.4444444444444444
+dminxp,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.3076923076923077,0.0769230769230769,0.2307692307692308
+imainrect,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.217391304347826,0.0434782608695652,0.1739130434782608
+xpima,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.217391304347826,0.217391304347826,0.0
+xpima1,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+xpima2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.6666666666666666,0.0,0.6666666666666666
+xpimasn,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.1666666666666666,0.0,0.1666666666666666
+sossfld,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.0625,0.0625,0.0
+sofld,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.088235294117647,0.0588235294117647,0.029411764705882297
+cnvcnv3,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.8,0.8,0.0
+dfrel2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.3333333333333333,0.2222222222222222,0.1111111111111111
+dfrel4v,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.4,0.2,0.2
+dfrel4,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.5,0.5,0.0
+cnvcnv,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.3333333333333333,0.25,0.08333333333333331
+cnvcnv2,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,1.0,0.3333333333333333,0.6666666666666667
+cnvcnvss,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+cnvrescnv,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.3157894736842105,0.1578947368421052,0.1578947368421053
+cnvssb,ZF Set Theory - add the Axiom of Power Sets / Relations / block-16,sets_relations_functions,0.2307692307692307,0.2307692307692307,0.0
+funi,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.5555555555555556,0.3333333333333333,0.22222222222222227
+nfunv,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.6666666666666666,0.6666666666666666,0.0
+funopg,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.0754716981132075,0.0566037735849056,0.018867924528301903
+funopab,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.5,0.1,0.4
+funopabeq,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.6666666666666666,0.0,0.6666666666666666
+funopab4,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.2,0.2,0.0
+funmpt,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.5,0.0,0.5
+funmpt2,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+funco,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.25,0.25,0.0
+funresfunco,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.4285714285714285,0.1428571428571428,0.2857142857142857
+funres,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+funresd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,1.0,1.0,0.0
+funssres,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.0666666666666666,0.0666666666666666,0.0
+fun2ssres,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.1666666666666666,0.3333333333333333,-0.1666666666666667
+funun,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.125,0.0,0.125
+fununmo,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.3333333333333333,0.1666666666666666,0.1666666666666667
+fununfun,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.2,0.0,0.2
+fundif,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+funcnvsn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.3333333333333333,0.0666666666666666,0.2666666666666667
+funsng,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.4,0.2,0.2
+fnsng,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.2,0.2,0.0
+funsn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,1.0,0.5,0.5
+funprg,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.1428571428571428,0.2142857142857142,-0.0714285714285714
+funtpg,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.2,0.05,0.15000000000000002
+funpr,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+funtp,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.3157894736842105,0.2631578947368421,0.05263157894736842
+fnsn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.5,0.5,0.0
+fnprg,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.2,0.2,0.0
+fntpg,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.2857142857142857,0.0476190476190476,0.23809523809523808
+fntp,ZF Set Theory - add the Axiom of Power Sets / Functions / block-1,sets_relations_functions,0.25,0.5,-0.25
+feq123d,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,1.0,0.6666666666666666,0.33333333333333337
+feq123,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.25,0.25,0.0
+feq1i,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.5,0.5,0.0
+feq2i,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,1.0,0.5,0.5
+feq12i,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+feq23i,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.5,0.0,0.5
+feq23d,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.0,0.0,0.0
+nff,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.3333333333333333,0.1666666666666666,0.1666666666666667
+sbcfng,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.3333333333333333,0.0833333333333333,0.25
+sbcfg,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.5,0.0833333333333333,0.4166666666666667
+elimf,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.0,0.5,-0.5
+ffn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,1.0,0.5,0.5
+ffnd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,1.0,1.0,0.0
+dffn2,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.5,0.25,0.25
+ffun,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.5,0.5,0.0
+ffund,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,1.0,1.0,0.0
+frel,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+freld,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,1.0,1.0,0.0
+frn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.5,0.5,0.0
+frnd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,1.0,0.5,0.5
+fdm,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.5,0.0,0.5
+fdmd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,1.0,1.0,0.0
+fdmi,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,1.0,0.5,0.5
+dffn3,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.5,0.25,0.25
+ffrn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.6666666666666666,0.0,0.6666666666666666
+ffrnb,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,1.0,0.5,0.5
+ffrnbd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+fss,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.1666666666666666,0.1666666666666666,0.0
+fssd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.5,0.0,0.5
+fssdmd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.0,0.5,-0.5
+fssdm,ZF Set Theory - add the Axiom of Power Sets / Functions / block-5,sets_relations_functions,0.0,0.5,-0.5
+elfvexd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,1.0,0.5,0.5
+eliman0,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.0,0.1,-0.1
+nfvres,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.0,0.0,0.0
+nfunsn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.2352941176470588,0.0588235294117647,0.1764705882352941
+fvfundmfvn0,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.25,0.25,0.0
+0fv,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.3333333333333333,0.3333333333333333,0.0
+fv2prc,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.75,0.5,0.25
+elfv2ex,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.1428571428571428,0.1428571428571428,0.0
+fveqres,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.0,0.1428571428571428,-0.1428571428571428
+csbfv12,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.1875,0.1875,0.0
+csbfv2g,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.75,0.25,0.5
+csbfv,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.375,0.125,0.25
+funbrfv,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.0714285714285714,0.2142857142857142,-0.1428571428571428
+funopfv,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.3333333333333333,0.6666666666666666,-0.3333333333333333
+fnbrfvb,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.1875,0.0625,0.125
+fnopfvb,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.6666666666666666,0.6666666666666666,0.0
+fvelima2,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.2941176470588235,0.2352941176470588,0.05882352941176469
+funbrfvb,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+funopfvb,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+fnbrfvb2,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.0,0.0,0.0
+fdmeu,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.25,0.125,0.125
+funbrfv2b,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.375,0.25,0.125
+dffn5,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.0476190476190476,0.1904761904761904,-0.1428571428571428
+fnrnfv,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.5,0.0,0.5
+fvelrnb,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.1818181818181818,0.1818181818181818,0.0
+foelcdmi,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.4285714285714285,0.0,0.4285714285714285
+dfimafn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.1111111111111111,0.1111111111111111,0.0
+dfimafn2,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.1111111111111111,0.1111111111111111,0.0
+funimass4,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.125,0.0,0.125
+fvelima,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.0,0.0,0.0
+funimassd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.2666666666666666,0.2,0.0666666666666666
+fvelimad,ZF Set Theory - add the Axiom of Power Sets / Functions / block-12,sets_relations_functions,0.1612903225806451,0.032258064516129,0.1290322580645161
+xpsntpg,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.25,0.1666666666666666,0.0833333333333334
+f1o2sn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.4,0.2,0.2
+residpr,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.5384615384615384,0.0,0.5384615384615384
+dfmpt,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.5,0.3333333333333333,0.16666666666666669
+fnasrn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.25,0.375,-0.125
+funiun,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.5,0.3333333333333333,0.16666666666666669
+funopsn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.2,0.0285714285714285,0.1714285714285715
+funop,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.2,0.2,0.0
+funopdmsn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.1904761904761904,0.0,0.1904761904761904
+funsndifnop,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.1153846153846153,0.0384615384615384,0.0769230769230769
+funsneqopb,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.0909090909090909,0.1818181818181818,-0.0909090909090909
+ressnop0,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.25,0.25,0.0
+fpr,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.1538461538461538,0.2307692307692307,-0.0769230769230769
+fprg,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.1428571428571428,0.0952380952380952,0.04761904761904759
+ftpg,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.2068965517241379,0.0344827586206896,0.1724137931034483
+ftp,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.3333333333333333,0.0,0.3333333333333333
+fnressn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.1428571428571428,0.0,0.1428571428571428
+funressn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.2307692307692307,0.0769230769230769,0.1538461538461538
+fressnfv,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.2222222222222222,0.037037037037037,0.1851851851851852
+fvrnressn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.0833333333333333,0.1666666666666666,-0.0833333333333333
+fvressn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.0,0.0,0.0
+fvconst,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.6666666666666666,0.3333333333333333,0.3333333333333333
+fnsnr,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.125,0.25,-0.125
+fnsnbg,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.2,0.15,0.05000000000000002
+fnsnb,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,1.0,0.0,1.0
+fmptsn,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.0,0.0,0.0
+fmptsng,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.1379310344827586,0.0344827586206896,0.10344827586206899
+fmptsnd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.1538461538461538,0.0512820512820512,0.1025641025641026
+fmptap,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.2,0.0,0.2
+fmptapd,ZF Set Theory - add the Axiom of Power Sets / Functions / block-19,sets_relations_functions,0.1666666666666666,0.0,0.1666666666666666
+grastruct,Vertices and edges / Vertices and indexed edges / block-1,graph,0.1666666666666666,0.3333333333333333,-0.1666666666666667
+gropd,Vertices and edges / Vertices and indexed edges / block-1,graph,0.3125,0.0,0.3125
+grstructd,Vertices and edges / Vertices and indexed edges / block-1,graph,0.2,0.0,0.2
+gropeld,Vertices and edges / Vertices and indexed edges / block-1,graph,0.6666666666666666,0.3333333333333333,0.3333333333333333
+grstructeld,Vertices and edges / Vertices and indexed edges / block-1,graph,0.3333333333333333,0.3333333333333333,0.0
+setsvtx,Vertices and edges / Vertices and indexed edges / block-1,graph,0.1428571428571428,0.0714285714285714,0.0714285714285714
+setsiedg,Vertices and edges / Vertices and indexed edges / block-1,graph,0.2142857142857142,0.0714285714285714,0.1428571428571428
+snstrvtxval,Vertices and edges / Vertices and indexed edges / block-1,graph,0.2,0.1,0.1
+snstriedgval,Vertices and edges / Vertices and indexed edges / block-1,graph,0.1739130434782608,0.0,0.1739130434782608
+vtxval0,Vertices and edges / Vertices and indexed edges / block-1,graph,0.0,0.0,0.0
+iedgval0,Vertices and edges / Vertices and indexed edges / block-1,graph,0.0,0.0,0.0
+vtxvalsnop,Vertices and edges / Vertices and indexed edges / block-1,graph,0.0,0.2,-0.2
+iedgvalsnop,Vertices and edges / Vertices and indexed edges / block-1,graph,0.0,0.2,-0.2
+vtxval3sn,Vertices and edges / Vertices and indexed edges / block-1,graph,0.5,0.25,0.25
+iedgval3sn,Vertices and edges / Vertices and indexed edges / block-1,graph,0.5,0.25,0.25
+vtxvalprc,Vertices and edges / Vertices and indexed edges / block-1,graph,0.3333333333333333,0.3333333333333333,0.0
+iedgvalprc,Vertices and edges / Vertices and indexed edges / block-1,graph,0.3333333333333333,0.3333333333333333,0.0
+upgr0eop,Undirected graphs / Undirected pseudographs and multigraphs / block-1,graph,0.3333333333333333,0.3333333333333333,0.0
+upgr1eop,Undirected graphs / Undirected pseudographs and multigraphs / block-1,graph,0.25,0.0833333333333333,0.16666666666666669
+upgrun,Undirected graphs / Undirected pseudographs and multigraphs / block-1,graph,0.5333333333333333,0.4666666666666667,0.06666666666666665
+upgrunop,Undirected graphs / Undirected pseudographs and multigraphs / block-1,graph,0.4444444444444444,0.5555555555555556,-0.11111111111111116
+umgrun,Undirected graphs / Undirected pseudographs and multigraphs / block-1,graph,0.3571428571428571,0.4285714285714285,-0.0714285714285714
+umgrunop,Undirected graphs / Undirected pseudographs and multigraphs / block-1,graph,0.3333333333333333,0.5555555555555556,-0.22222222222222227
+umgrislfupgrlem,Undirected graphs / Loop-free graphs / block-0,graph,0.054054054054054,0.027027027027027,0.027027027027027
+umgrislfupgr,Undirected graphs / Loop-free graphs / block-0,graph,0.2727272727272727,0.1363636363636363,0.1363636363636364
+lfgredgge2,Undirected graphs / Loop-free graphs / block-0,graph,0.3,0.0,0.3
+lfgrnloop,Undirected graphs / Loop-free graphs / block-0,graph,0.1666666666666666,0.0833333333333333,0.0833333333333333
+isuspgr,Undirected graphs / Undirected simple graphs / block-0,graph,0.4761904761904761,0.2857142857142857,0.1904761904761904
+isusgr,Undirected graphs / Undirected simple graphs / block-0,graph,0.4761904761904761,0.3809523809523809,0.09523809523809523
+uspgrf,Undirected graphs / Undirected simple graphs / block-0,graph,1.0,0.5,0.5
+usgrf,Undirected graphs / Undirected simple graphs / block-0,graph,1.0,0.5,0.5
+isusgrs,Undirected graphs / Undirected simple graphs / block-0,graph,0.4,0.4,0.0
+usgrfs,Undirected graphs / Undirected simple graphs / block-0,graph,1.0,0.5,0.5
+usgrfun,Undirected graphs / Undirected simple graphs / block-0,graph,0.75,0.25,0.5
+usgredgss,Undirected graphs / Undirected simple graphs / block-0,graph,0.5714285714285714,0.1428571428571428,0.4285714285714286
+edgusgr,Undirected graphs / Undirected simple graphs / block-0,graph,0.6,0.4,0.19999999999999996
+isuspgrop,Undirected graphs / Undirected simple graphs / block-0,graph,0.4166666666666667,0.5,-0.08333333333333331
+isusgrop,Undirected graphs / Undirected simple graphs / block-0,graph,0.2727272727272727,0.2727272727272727,0.0
+usgrop,Undirected graphs / Undirected simple graphs / block-0,graph,0.4285714285714285,0.4285714285714285,0.0
+isausgr,Undirected graphs / Undirected simple graphs / block-0,graph,0.0,0.0,0.0
+ausgrusgrb,Undirected graphs / Undirected simple graphs / block-0,graph,0.1388888888888889,0.0277777777777777,0.11111111111111119
+usgrausgri,Undirected graphs / Undirected simple graphs / block-0,graph,0.4,0.2,0.2
+ausgrumgri,Undirected graphs / Undirected simple graphs / block-0,graph,0.15,0.05,0.09999999999999999
+ausgrusgri,Undirected graphs / Undirected simple graphs / block-0,graph,0.12,0.0,0.12
+usgrausgrb,Undirected graphs / Undirected simple graphs / block-0,graph,0.3333333333333333,0.3333333333333333,0.0
+usgredgop,Undirected graphs / Undirected simple graphs / block-0,graph,0.1666666666666666,0.0,0.1666666666666666
+usgrf1o,Undirected graphs / Undirected simple graphs / block-0,graph,0.5,0.25,0.25
+usgrf1,Undirected graphs / Undirected simple graphs / block-0,graph,0.6666666666666666,0.3333333333333333,0.3333333333333333
+uspgrf1oedg,Undirected graphs / Undirected simple graphs / block-0,graph,0.6,0.1,0.5
+usgrss,Undirected graphs / Undirected simple graphs / block-0,graph,0.4285714285714285,0.2857142857142857,0.1428571428571428
+uspgredgiedg,Undirected graphs / Undirected simple graphs / block-0,graph,0.375,0.0,0.375
+uspgriedgedg,Undirected graphs / Undirected simple graphs / block-0,graph,0.2,0.0,0.2
+uspgrushgr,Undirected graphs / Undirected simple graphs / block-0,graph,0.1111111111111111,0.2222222222222222,-0.1111111111111111
+uspgrupgr,Undirected graphs / Undirected simple graphs / block-0,graph,0.2857142857142857,0.2857142857142857,0.0
+uspgrupgrushgr,Undirected graphs / Undirected simple graphs / block-0,graph,0.3571428571428571,0.2857142857142857,0.0714285714285714
+usgruspgr,Undirected graphs / Undirected simple graphs / block-0,graph,0.1666666666666666,0.0,0.1666666666666666
+usgrumgr,Undirected graphs / Undirected simple graphs / block-0,graph,0.5,0.1666666666666666,0.33333333333333337
+spthonprop,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.75,0.25,0.5
+pthonispth,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.75,0.25,0.5
+pthontrlon,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.75,0.25,0.5
+pthonpth,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.4615384615384615,0.3076923076923077,0.1538461538461538
+isspthonpth,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.2631578947368421,0.1578947368421052,0.10526315789473689
+spthonisspth,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.75,1.0,-0.25
+spthonpthon,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.1818181818181818,0.0909090909090909,0.0909090909090909
+spthonepeq,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.2,0.1,0.1
+uhgrwkspthlem1,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.4,0.3,0.10000000000000003
+uhgrwkspthlem2,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.25,0.05,0.2
+uhgrwkspth,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.2258064516129032,0.064516129032258,0.16129032258064518
+usgr2wlkneq,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.1590909090909091,0.0909090909090909,0.06818181818181819
+usgr2wlkspthlem1,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.25,0.1,0.15
+usgr2wlkspthlem2,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.1538461538461538,0.0384615384615384,0.11538461538461539
+usgr2wlkspth,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.21875,0.0625,0.15625
+usgr2trlncl,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.196078431372549,0.0392156862745098,0.15686274509803919
+usgr2trlspth,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.2,0.04,0.16
+usgr2pthspth,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.2,0.4,-0.2
+usgr2pthlem,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.127906976744186,0.0,0.127906976744186
+usgr2pth,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.1935483870967742,0.0161290322580645,0.1774193548387097
+usgr2pth0,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.15,0.05,0.09999999999999999
+pthdlem1,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.127906976744186,0.0116279069767441,0.1162790697674419
+pthdlem2lem,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.1956521739130435,0.0217391304347826,0.1739130434782609
+pthdlem2,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.1458333333333333,0.0208333333333333,0.12499999999999999
+pthd,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.1111111111111111,0.0,0.1111111111111111
+subgrpth,"Walks, paths and cycles / Paths and simple paths / block-1",graph,0.0,0.4,-0.4
+clwlks,"Walks, paths and cycles / Closed walks / block-0",graph,1.0,0.3333333333333333,0.6666666666666667
+isclwlk,"Walks, paths and cycles / Closed walks / block-0",graph,0.6,0.3,0.3
+clwlkiswlk,"Walks, paths and cycles / Closed walks / block-0",graph,1.0,0.0,1.0
+clwlkwlk,"Walks, paths and cycles / Closed walks / block-0",graph,0.0,0.0,0.0
+clwlkswks,"Walks, paths and cycles / Closed walks / block-0",graph,0.5,0.5,0.0
+isclwlke,"Walks, paths and cycles / Closed walks / block-0",graph,0.2857142857142857,0.1428571428571428,0.1428571428571429
+isclwlkupgr,"Walks, paths and cycles / Closed walks / block-0",graph,0.5,0.1666666666666666,0.33333333333333337
+clwlkcomp,"Walks, paths and cycles / Closed walks / block-0",graph,0.2222222222222222,0.1111111111111111,0.1111111111111111
+clwlkcompim,"Walks, paths and cycles / Closed walks / block-0",graph,0.1666666666666666,0.0,0.1666666666666666
+upgrclwlkcompim,"Walks, paths and cycles / Closed walks / block-0",graph,0.2727272727272727,0.1818181818181818,0.09090909090909091
+clwlkcompbp,"Walks, paths and cycles / Closed walks / block-0",graph,0.0625,0.0625,0.0
+clwlkl1loop,"Walks, paths and cycles / Closed walks / block-0",graph,0.1111111111111111,0.1666666666666666,-0.0555555555555555
+crcts,"Walks, paths and cycles / Circuits and cycles / block-0",graph,1.0,0.6666666666666666,0.33333333333333337
+cycls,"Walks, paths and cycles / Circuits and cycles / block-0",graph,1.0,0.6666666666666666,0.33333333333333337
+iscrct,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.7,0.2,0.49999999999999994
+iscycl,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.4,0.2,0.2
+crctprop,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.5,0.5,0.0
+cyclprop,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.5,0.5,0.0
+crctisclwlk,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.5,0.1666666666666666,0.33333333333333337
+crctistrl,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.5,0.5,0.0
+crctiswlk,"Walks, paths and cycles / Circuits and cycles / block-0",graph,1.0,0.3333333333333333,0.6666666666666667
+cyclispth,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.5,0.5,0.0
+subgrcycl,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.0,0.25,-0.25
+cycliswlk,"Walks, paths and cycles / Circuits and cycles / block-0",graph,1.0,0.3333333333333333,0.6666666666666667
+cycliscrct,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.0,0.0,0.0
+cyclnumvtx,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.131578947368421,0.0657894736842105,0.0657894736842105
+cyclnspth,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.1333333333333333,0.0,0.1333333333333333
+pthisspthorcycl,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.1428571428571428,0.0,0.1428571428571428
+pthspthcyc,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.2,0.6,-0.39999999999999997
+spthcycl,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.0769230769230769,0.1025641025641025,-0.025641025641025605
+cyclispthon,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.125,0.375,-0.25
+lfgrn1cycl,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.2727272727272727,0.0454545454545454,0.2272727272727273
+usgr2trlncrct,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.25,0.0833333333333333,0.16666666666666669
+umgrn1cycl,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.4,0.0,0.4
+uspgrn2crct,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.1363636363636363,0.0,0.1363636363636363
+usgrn2cycl,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.5,0.25,0.25
+crctcshwlkn0lem1,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.2941176470588235,0.0588235294117647,0.2352941176470588
+crctcshwlkn0lem2,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.2083333333333333,0.0,0.2083333333333333
+crctcshwlkn0lem3,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.0983606557377049,0.0,0.0983606557377049
+crctcshwlkn0lem4,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.146067415730337,0.0449438202247191,0.10112359550561789
+crctcshwlkn0lem5,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.1192660550458715,0.036697247706422,0.08256880733944949
+crctcshwlkn0lem6,"Walks, paths and cycles / Circuits and cycles / block-0",graph,0.15,0.0375,0.11249999999999999
+wwlks,"Walks, paths and cycles / Walks as words / block-0",graph,0.1379310344827586,0.0344827586206896,0.10344827586206899
+iswwlks,"Walks, paths and cycles / Walks as words / block-0",graph,0.2142857142857142,0.1428571428571428,0.0714285714285714
+wwlksn,"Walks, paths and cycles / Walks as words / block-0",graph,0.2,0.15,0.05000000000000002
+iswwlksn,"Walks, paths and cycles / Walks as words / block-0",graph,0.2,0.2,0.0
+wwlksnprcl,"Walks, paths and cycles / Walks as words / block-0",graph,0.6666666666666666,0.1666666666666666,0.5
+iswwlksnx,"Walks, paths and cycles / Walks as words / block-0",graph,0.35,0.05,0.3
+wwlkbp,"Walks, paths and cycles / Walks as words / block-0",graph,0.4,0.2,0.2
+wwlknbp,"Walks, paths and cycles / Walks as words / block-0",graph,0.3076923076923077,0.0769230769230769,0.2307692307692308
+wwlknp,"Walks, paths and cycles / Walks as words / block-0",graph,0.217391304347826,0.0434782608695652,0.1739130434782608
+wwlknbp1,"Walks, paths and cycles / Walks as words / block-0",graph,0.4,0.2,0.2
+wwlknvtx,"Walks, paths and cycles / Walks as words / block-0",graph,0.2666666666666666,0.0666666666666666,0.2
+wwlknllvtx,"Walks, paths and cycles / Walks as words / block-0",graph,0.3333333333333333,0.1333333333333333,0.2
+wwlknlsw,"Walks, paths and cycles / Walks as words / block-0",graph,0.0833333333333333,0.0833333333333333,0.0
+wspthsn,"Walks, paths and cycles / Walks as words / block-0",graph,0.0588235294117647,0.0,0.0588235294117647
+iswspthn,"Walks, paths and cycles / Walks as words / block-0",graph,0.25,0.0,0.25
+wspthnp,"Walks, paths and cycles / Walks as words / block-0",graph,0.125,0.125,0.0
+wwlksnon,"Walks, paths and cycles / Walks as words / block-0",graph,0.3125,0.0,0.3125
+wspthsnon,"Walks, paths and cycles / Walks as words / block-0",graph,0.125,0.0,0.125
+iswwlksnon,"Walks, paths and cycles / Walks as words / block-0",graph,0.1388888888888889,0.0277777777777777,0.11111111111111119
+wwlksnon0,"Walks, paths and cycles / Walks as words / block-0",graph,0.0,0.0,0.0
+wwlksonvtx,"Walks, paths and cycles / Walks as words / block-0",graph,0.2307692307692307,0.0,0.2307692307692307
+iswspthsnon,"Walks, paths and cycles / Walks as words / block-0",graph,0.1538461538461538,0.0,0.1538461538461538
+wwlknon,"Walks, paths and cycles / Walks as words / block-0",graph,0.375,0.0,0.375
+wspthnon,"Walks, paths and cycles / Walks as words / block-0",graph,0.2,0.6,-0.39999999999999997
+wspthnonp,"Walks, paths and cycles / Walks as words / block-0",graph,0.2352941176470588,0.0588235294117647,0.1764705882352941
+wspthneq1eq2,"Walks, paths and cycles / Walks as words / block-0",graph,0.2857142857142857,0.0714285714285714,0.2142857142857143
+wwlksn0s,"Walks, paths and cycles / Walks as words / block-0",graph,0.25,0.0625,0.1875
+upgr1wlkdlem2,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.2,0.0,0.2
+upgr1wlkd,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.25,0.25,0.0
+upgr1trld,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.25,0.25,0.0
+upgr1pthd,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.25,0.25,0.0
+upgr1pthond,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.25,0.75,-0.5
+lppthon,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.2857142857142857,0.1428571428571428,0.1428571428571429
+lp1cycl,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.25,0.1666666666666666,0.0833333333333334
+loop1cycl,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.1176470588235294,0.0441176470588235,0.0735294117647059
+2cycld,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.4444444444444444,0.0555555555555555,0.38888888888888895
+umgr2cycllem,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.1666666666666666,0.0714285714285714,0.0952380952380952
+umgr2cycl,"Walks, paths and cycles / Examples for walks, trails and paths / block-1",graph,0.0967741935483871,0.032258064516129,0.06451612903225809
+dfconngr1,"Walks, paths and cycles / Connected graphs / block-0",graph,0.1538461538461538,0.0384615384615384,0.11538461538461539
+isconngr,"Walks, paths and cycles / Connected graphs / block-0",graph,0.0625,0.0,0.0625
+isconngr1,"Walks, paths and cycles / Connected graphs / block-0",graph,0.1666666666666666,0.0,0.1666666666666666
+cusconngr,"Walks, paths and cycles / Connected graphs / block-0",graph,0.3684210526315789,0.1578947368421052,0.21052631578947373
+0conngr,"Walks, paths and cycles / Connected graphs / block-0",graph,0.8571428571428571,0.7142857142857143,0.1428571428571428
+0vconngr,"Walks, paths and cycles / Connected graphs / block-0",graph,0.6666666666666666,0.0,0.6666666666666666
+1conngr,"Walks, paths and cycles / Connected graphs / block-0",graph,0.2692307692307692,0.0384615384615384,0.2307692307692308
+conngrv2edg,"Walks, paths and cycles / Connected graphs / block-0",graph,0.0967741935483871,0.0,0.0967741935483871
+vdn0conngrumgrv2,"Walks, paths and cycles / Connected graphs / block-0",graph,0.2666666666666666,0.0,0.2666666666666666
+eupth2lem3lem3,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.1111111111111111,0.0,0.1111111111111111
+eupth2lem3lem4,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.1272727272727272,0.0181818181818181,0.1090909090909091
+eupth2lem3lem5,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.25,0.0,0.25
+eupth2lem3lem6,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.075,0.0,0.075
+eupth2lem3lem7,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.125,0.1875,-0.0625
+eupthvdres,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.1904761904761904,0.0952380952380952,0.0952380952380952
+eupth2lem3,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.3,0.0333333333333333,0.2666666666666667
+eupth2lemb,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.2307692307692307,0.1153846153846153,0.1153846153846154
+eupth2lems,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.1132075471698113,0.0188679245283018,0.0943396226415095
+eupth2,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.1142857142857142,0.1142857142857142,0.0
+eulerpathpr,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.3076923076923077,0.0,0.3076923076923077
+eulerpath,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.2307692307692307,0.0769230769230769,0.1538461538461538
+eulercrct,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.3,0.0,0.3
+eucrctshift,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.1034482758620689,0.0344827586206896,0.0689655172413793
+eucrct2eupth1,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.1538461538461538,0.0769230769230769,0.0769230769230769
+eucrct2eupth,Eulerian paths and the Konigsberg Bridge problem / Eulerian paths / block-1,graph,0.1351351351351351,0.036036036036036,0.09909909909909909
+konigsbergvtx,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.4285714285714285,0.2857142857142857,0.1428571428571428
+konigsbergiedg,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.4285714285714285,0.1428571428571428,0.2857142857142857
+konigsbergiedgw,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.0714285714285714,0.0357142857142857,0.0357142857142857
+konigsbergssiedgwpr,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.25,0.25,0.0
+konigsbergssiedgw,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.2307692307692307,0.0769230769230769,0.1538461538461538
+konigsbergumgr,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.5,0.3,0.2
+konigsberglem1,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.1346153846153846,0.0384615384615384,0.0961538461538462
+konigsberglem2,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.1071428571428571,0.0357142857142857,0.0714285714285714
+konigsberglem3,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.087719298245614,0.0175438596491228,0.0701754385964912
+konigsberglem4,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.1481481481481481,0.1111111111111111,0.03703703703703701
+konigsberglem5,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.1,0.0333333333333333,0.06666666666666671
+konigsberg,Eulerian paths and the Konigsberg Bridge problem / The K&ouml;nigsberg Bridge problem / block-0,graph,0.28,0.04,0.24000000000000002

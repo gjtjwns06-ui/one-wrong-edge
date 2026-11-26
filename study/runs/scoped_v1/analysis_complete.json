@@ -1,0 +1,11 @@
+{
+  "summary_rows": 351,
+  "single_candidate_effects": 87806,
+  "query_conditioning": {
+    "reused_edge_condition_pairs": 18634,
+    "both_positive_and_negative": 101,
+    "positive_and_zero": 1068,
+    "negative_and_zero": 1055
+  },
+  "code_sha256": "5e342e49f0f0651f4b9c5392d0b7b0d5c8c2137c2932a59a6cbf546104f8367b"
+}

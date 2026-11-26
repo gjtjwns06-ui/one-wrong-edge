@@ -1,0 +1,17 @@
+{
+  "selection_hashes": {
+    "stage1_selection.json": "b798a29df0fb316d911a3d47ee881a006b2a3832878902cb467e1d79b61f5404",
+    "stage2_selection.json": "4c46ca1ca733de2689134c6c112f9ed27bc72805122d5825b9767d7e5c00a595",
+    "stage3_selection.json": "89f1377069419ebc31693b1d5db3301887b0e8618b536bfd6b61674a00fa2f90"
+  },
+  "code_hashes": {
+    "owe\\sequential_infer.py": "2f295a5f188ae0149c37f86e81b848c979ac1bb86f1a91fec5340959c29d67a3",
+    "owe\\sequential_interventions.py": "7f9452938f7b68a775c1cb7c54f12d589e94a59df78c739eec84f0fcbd848472",
+    "owe\\sequential_retriever.py": "6d4f7d285d38766ce36bdc1a147980dd76355038725cba1d9b3f357874fbf0ef",
+    "owe\\sequential_stage12.py": "1e8fce5878d1a0249c3924b04c4d95b9e404bed37b0f6bb992cf33514a917530",
+    "owe\\sequential_stage3.py": "bb584a1561ce395f5d7e8f73e3f82fc8fb51b4967fb4b10f3a4ebf1c3a96102d",
+    "owe\\sequential_workers.py": "53c0b3bfaa28ee5c087009f4a85ac0174a85c5fabdb4a2201704f33364a70ee8"
+  },
+  "intervention_workers": 3,
+  "test_reuse_is_exploratory": true
+}

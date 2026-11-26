@@ -1,0 +1,15 @@
+{
+  "model": "boost_31",
+  "validation": {
+    "model": "boost_31",
+    "recall20": 0.30528320207529047,
+    "complete": 0.056592039800995024,
+    "ndcg": 0.2944444276816197,
+    "fit_and_validation_seconds": 17.672182899987092
+  },
+  "selected_before_stage3": true,
+  "training_candidate_pairs": 328345,
+  "training_positive_pairs": 32281,
+  "stage1_selection_sha256": "b798a29df0fb316d911a3d47ee881a006b2a3832878902cb467e1d79b61f5404",
+  "seconds": 173.0811006000149
+}

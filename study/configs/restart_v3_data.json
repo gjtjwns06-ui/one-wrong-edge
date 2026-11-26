@@ -1,0 +1,29 @@
+{
+  "version": "restart-v3",
+  "source_commit": "7d1aa054166171211aa5c3f5e497024031bdbd27",
+  "source_file": "data/raw/set.mm",
+  "source_manifest": "data/raw/manifest.json",
+  "prior_dataset": "data/processed/scoped/dataset.pkl",
+  "development_scope_config": "configs/scoped_v1.json",
+  "output": "data/processed/restart_v3",
+  "fresh_test_chapters": [
+    "Reflexive and transitive closures of relations",
+    "Words over a set"
+  ],
+  "fresh_test_zf_sections": [
+    "Equivalence relations and classes",
+    "Partial and total orderings",
+    "Relations and functions (cont.)"
+  ],
+  "boundary_depth": 1,
+  "source_block_size": 32,
+  "split_seed": 20261125,
+  "development_split_names": ["rank_train", "policy_train", "validation"],
+  "development_split_fractions": [0.6, 0.2, 0.2],
+  "query_min_premises": 2,
+  "primary_budget": 20,
+  "test_signature_novelty": "absent_from_all_prior_indexed_nodes",
+  "hide_all_fresh_topic_core_outgoing_proofs": true,
+  "boundary_from_public_proofs_only": true,
+  "retain_unindexed_gold_in_recall_denominator": true
+}

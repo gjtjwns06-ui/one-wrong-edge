@@ -1,0 +1,52 @@
+[
+  {
+    "condition": "clean",
+    "source": "un00",
+    "target": "eqtrdi",
+    "source_supported": true,
+    "positive_query": "ima0",
+    "positive_benefit": 0.2000000029802322,
+    "negative_query": "xpima",
+    "negative_benefit": -0.0434782616794109
+  },
+  {
+    "condition": "clean",
+    "source": "rnsnopg",
+    "target": "dmsnopg",
+    "source_supported": true,
+    "positive_query": "funsng",
+    "positive_benefit": 0.2000000029802322,
+    "negative_query": "funprg",
+    "negative_benefit": -0.0714285746216774
+  },
+  {
+    "condition": "clean",
+    "source": "f1oprg",
+    "target": "f1osng",
+    "source_supported": true,
+    "positive_query": "xpsntpg",
+    "positive_benefit": 0.1666666716337204,
+    "negative_query": "fprg",
+    "negative_benefit": -0.095238097012043
+  },
+  {
+    "condition": "clean",
+    "source": "fveq2",
+    "target": "breq1",
+    "source_supported": true,
+    "positive_query": "isusgr",
+    "positive_benefit": 0.0476190485060215,
+    "negative_query": "eliman0",
+    "negative_benefit": -0.1000000014901161
+  },
+  {
+    "condition": "clean",
+    "source": "upgrss",
+    "target": "sselid",
+    "source_supported": true,
+    "positive_query": "uspgriedgedg",
+    "positive_benefit": 0.1000000014901161,
+    "negative_query": "usgrss",
+    "negative_benefit": -0.1428571492433548
+  }
+]

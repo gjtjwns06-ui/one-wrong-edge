@@ -1,0 +1,28 @@
+{
+  "all_passed": true,
+  "old_files_unchanged": 186,
+  "data_checks": {
+    "queries": {
+      "rank_train": 2306,
+      "policy_train": 735,
+      "validation": 639,
+      "test": 582
+    },
+    "fresh_test_signatures_absent_all_prior_index_nodes": 582,
+    "split_group_and_signature_disjoint": true,
+    "hidden_sources": 2205,
+    "reference_edges_checked": 29862,
+    "public_boundary_provenance_records_checked": 2223,
+    "full_gold_and_unindexed_denominators_verified": true,
+    "unindexed_gold_counts": {
+      "rank_train": 0,
+      "policy_train": 286,
+      "validation": 197,
+      "test": 597
+    },
+    "fresh_raw_verification_receipt_present": true
+  },
+  "audit_scope": "data_only",
+  "audit_script_sha256": "18e4573c4215b54abaeadfb5b2d61693f4a6b25e9dffbda30f5b4b13180f9a64",
+  "audit_seconds": 3.590167999998812
+}

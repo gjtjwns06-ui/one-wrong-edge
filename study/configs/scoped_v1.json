@@ -1,0 +1,43 @@
+{
+  "version": "scoped-v1",
+  "source_commit": "7d1aa054166171211aa5c3f5e497024031bdbd27",
+  "scope_set_sections": [
+    "Subclasses and subsets, proper subclasses and subsets",
+    "Basic operations on classes", "The empty set",
+    "Singletons, unordered pairs, unordered triples", "Ordered pairs and triples",
+    "Binary relations", "Relations", "Functions", "Finite sets", "Finite sets (cont.)"
+  ],
+  "scope_graph_chapters": [
+    "Vertices and edges", "Undirected graphs", "Walks, paths and cycles",
+    "Eulerian paths and the Konigsberg Bridge problem"
+  ],
+  "boundary_depth": 1,
+  "source_block_size": 32,
+  "split_seed": 20261123,
+  "split_fractions": [0.6, 0.2, 0.2],
+  "query_min_premises": 2,
+  "seed_count": 4,
+  "hops": 2,
+  "output_budgets": [10, 20, 40],
+  "primary_budget": 20,
+  "candidate_cap": 48,
+  "candidate_relevant_fraction": 0.6666666667,
+  "conditions": [
+    {"name": "clean", "mode": "clean", "rate": 0.0, "seed": 17},
+    {"name": "random05_s17", "mode": "random", "rate": 0.05, "seed": 17},
+    {"name": "random20_s17", "mode": "random", "rate": 0.2, "seed": 17},
+    {"name": "random20_s29", "mode": "random", "rate": 0.2, "seed": 29},
+    {"name": "random20_s43", "mode": "random", "rate": 0.2, "seed": 43},
+    {"name": "hard20_s17", "mode": "hard", "rate": 0.2, "seed": 17},
+    {"name": "missing20_s17", "mode": "missing", "rate": 0.2, "seed": 17}
+  ],
+  "training_conditions": ["clean", "random20_s17"],
+  "ridge_alphas": [1.0, 10.0],
+  "boosting_iterations": 160,
+  "boosting_leaf_nodes": 15,
+  "thresholds": [0.0, 0.002, 0.005, 0.01, 0.02, 0.05, 0.1, 1.0],
+  "batch_deletion_budgets": [1, 3],
+  "bootstrap_repetitions": 2000,
+  "bootstrap_seed": 811,
+  "finite_graph_max_vertices": 6
+}

@@ -1,0 +1,22 @@
+{
+  "policies": {
+    "utility": {
+      "model": "utility_boost",
+      "kind": "utility",
+      "budget": 1,
+      "threshold": 0.002,
+      "validation_gain": 0.00022898516853339483,
+      "validation_mean_deletions": 0.4480959833072509
+    },
+    "wrongness": {
+      "model": "wrongness_boost",
+      "kind": "wrongness",
+      "budget": 1,
+      "threshold": 0.8,
+      "validation_gain": 0.0001898676537882865,
+      "validation_mean_deletions": 0.3776734480959833
+    }
+  },
+  "selected_before_test": true,
+  "stage2_sha256": "2870edf724eaddaab0d6044717eefae5336450c49364754990f406a939407289"
+}

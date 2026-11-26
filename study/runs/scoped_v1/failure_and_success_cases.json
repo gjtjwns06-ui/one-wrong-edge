@@ -1,0 +1,314 @@
+[
+  {
+    "kind": "harm",
+    "qid": "usgrfs",
+    "condition": "missing20_s17",
+    "delta_recall20": -0.5,
+    "gold_count": 2,
+    "topic": "graph",
+    "query": "GOAL |- ( VAR_class_0 e. USGraph -> VAR_class_1 : dom VAR_class_1 -1-1-> { VAR_setvar_0 e. ~P VAR_class_2 | ( # ` VAR_setvar_0 ) = 2 } ) HYP |- VAR_class_2 = ( Vtx ` VAR_class_0 ) HYP |- VAR_class_1 = ( iEdg ` VAR_class_0 ) DISTINCT VAR_class_0 VAR_setvar_0 DISTINCT VAR_class_2 VAR_setvar_0",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L456898",
+    "actions": [
+      {
+        "source": "umgrf",
+        "target": "isumgrs",
+        "source_supported": true
+      },
+      {
+        "source": "umgrf",
+        "target": "ibi",
+        "source_supported": true
+      },
+      {
+        "source": "isumgrs",
+        "target": "isumgr",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "ibi"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "harm",
+    "qid": "usgrf",
+    "condition": "missing20_s17",
+    "delta_recall20": -0.5,
+    "gold_count": 2,
+    "topic": "graph",
+    "query": "GOAL |- ( VAR_class_0 e. USGraph -> VAR_class_1 : dom VAR_class_1 -1-1-> { VAR_setvar_0 e. ( ~P VAR_class_2 \\ { (/) } ) | ( # ` VAR_setvar_0 ) = 2 } ) HYP |- VAR_class_2 = ( Vtx ` VAR_class_0 ) HYP |- VAR_class_1 = ( iEdg ` VAR_class_0 ) DISTINCT VAR_class_0 VAR_setvar_0 DISTINCT VAR_class_2 VAR_setvar_0",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L456879",
+    "actions": [
+      {
+        "source": "upgrf",
+        "target": "ibi",
+        "source_supported": true
+      },
+      {
+        "source": "umgrf",
+        "target": "ibi",
+        "source_supported": true
+      },
+      {
+        "source": "isumgrs",
+        "target": "isumgr",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "ibi"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "harm",
+    "qid": "fvconst",
+    "condition": "missing20_s17",
+    "delta_recall20": -0.3333333333333333,
+    "gold_count": 3,
+    "topic": "sets_relations_functions",
+    "query": "GOAL |- ( ( VAR_class_0 : VAR_class_1 --> { VAR_class_2 } /\\ VAR_class_3 e. VAR_class_1 ) -> ( VAR_class_0 ` VAR_class_3 ) = VAR_class_2 )",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L69337",
+    "actions": [
+      {
+        "source": "foconst",
+        "target": "sssn",
+        "source_supported": true
+      },
+      {
+        "source": "relrn0",
+        "target": "dm0rn0",
+        "source_supported": true
+      },
+      {
+        "source": "ffvelcdmda",
+        "target": "ffvelcdm",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "elsni"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "harm",
+    "qid": "vtxvalprc",
+    "condition": "random20_s43",
+    "delta_recall20": -0.3333333333333333,
+    "gold_count": 3,
+    "topic": "graph",
+    "query": "GOAL |- ( VAR_class_0 e/ _V -> ( Vtx ` VAR_class_0 ) = (/) )",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L455332",
+    "actions": [
+      {
+        "source": "fvprc",
+        "target": "tz6.12-2",
+        "source_supported": true
+      },
+      {
+        "source": "fvprcALT",
+        "target": "tz6.12-2",
+        "source_supported": true
+      },
+      {
+        "source": "brprcneu",
+        "target": "opprc1",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "df-nel"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "harm",
+    "qid": "iedgvalprc",
+    "condition": "random20_s43",
+    "delta_recall20": -0.3333333333333333,
+    "gold_count": 3,
+    "topic": "graph",
+    "query": "GOAL |- ( VAR_class_0 e/ _V -> ( iEdg ` VAR_class_0 ) = (/) )",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L455338",
+    "actions": [
+      {
+        "source": "fvprc",
+        "target": "tz6.12-2",
+        "source_supported": true
+      },
+      {
+        "source": "fvprcALT",
+        "target": "tz6.12-2",
+        "source_supported": true
+      },
+      {
+        "source": "brprcneu",
+        "target": "opprc1",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "df-nel"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "benefit",
+    "qid": "pthontrlon",
+    "condition": "clean",
+    "delta_recall20": 0.75,
+    "gold_count": 4,
+    "topic": "graph",
+    "query": "GOAL |- ( VAR_class_0 ( VAR_class_1 ( PathsOn ` VAR_class_2 ) VAR_class_3 ) VAR_class_4 -> VAR_class_0 ( VAR_class_1 ( TrailsOn ` VAR_class_2 ) VAR_class_3 ) VAR_class_4 )",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L465633",
+    "actions": [
+      {
+        "source": "pthsonprop",
+        "target": "wksonproplem",
+        "source_supported": true
+      },
+      {
+        "source": "trlsonprop",
+        "target": "wksonproplem",
+        "source_supported": true
+      },
+      {
+        "source": "trlsonwlkon",
+        "target": "eqid",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [],
+    "gained_gold": [
+      "syl",
+      "simp3l",
+      "eqid"
+    ]
+  },
+  {
+    "kind": "benefit",
+    "qid": "elimasn1",
+    "condition": "hard20_s17",
+    "delta_recall20": 0.5,
+    "gold_count": 2,
+    "topic": "sets_relations_functions",
+    "query": "GOAL |- ( VAR_class_0 e. ( VAR_class_1 \" { VAR_class_2 } ) <-> VAR_class_2 VAR_class_1 VAR_class_0 ) HYP |- VAR_class_2 e. _V HYP |- VAR_class_0 e. _V",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L58714",
+    "actions": [
+      {
+        "source": "brelrn",
+        "target": "brelrng",
+        "source_supported": true
+      },
+      {
+        "source": "prss",
+        "target": "prssg",
+        "source_supported": true
+      },
+      {
+        "source": "brelrng",
+        "target": "brcnvg",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [],
+    "gained_gold": [
+      "mp2an"
+    ]
+  },
+  {
+    "kind": "benefit",
+    "qid": "brcnv",
+    "condition": "hard20_s17",
+    "delta_recall20": 0.5,
+    "gold_count": 2,
+    "topic": "sets_relations_functions",
+    "query": "GOAL |- ( VAR_class_0 `' VAR_class_1 VAR_class_2 <-> VAR_class_2 VAR_class_1 VAR_class_0 ) HYP |- VAR_class_0 e. _V HYP |- VAR_class_2 e. _V",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L56757",
+    "actions": [
+      {
+        "source": "prss",
+        "target": "prssg",
+        "source_supported": true
+      },
+      {
+        "source": "preq12b",
+        "target": "preqr2",
+        "source_supported": true
+      },
+      {
+        "source": "opthpr",
+        "target": "preq12b",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [],
+    "gained_gold": [
+      "mp2an"
+    ]
+  },
+  {
+    "kind": "benefit",
+    "qid": "fnsn",
+    "condition": "hard20_s17",
+    "delta_recall20": 0.5,
+    "gold_count": 2,
+    "topic": "sets_relations_functions",
+    "query": "GOAL |- { <. VAR_class_0 , VAR_class_1 >. } Fn { VAR_class_0 } HYP |- VAR_class_0 e. _V HYP |- VAR_class_1 e. _V",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L63646",
+    "actions": [
+      {
+        "source": "dmsnop",
+        "target": "dmsnopg",
+        "source_supported": true
+      },
+      {
+        "source": "cnvsn",
+        "target": "cnvsng",
+        "source_supported": true
+      },
+      {
+        "source": "dmsnopg",
+        "target": "vex",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [],
+    "gained_gold": [
+      "mp2an"
+    ]
+  },
+  {
+    "kind": "benefit",
+    "qid": "uspgrf",
+    "condition": "clean",
+    "delta_recall20": 0.5,
+    "gold_count": 2,
+    "topic": "graph",
+    "query": "GOAL |- ( VAR_class_0 e. USPGraph -> VAR_class_1 : dom VAR_class_1 -1-1-> { VAR_setvar_0 e. ( ~P VAR_class_2 \\ { (/) } ) | ( # ` VAR_setvar_0 ) <_ 2 } ) HYP |- VAR_class_2 = ( Vtx ` VAR_class_0 ) HYP |- VAR_class_1 = ( iEdg ` VAR_class_0 ) DISTINCT VAR_class_0 VAR_setvar_0 DISTINCT VAR_class_2 VAR_setvar_0",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L456871",
+    "actions": [
+      {
+        "source": "upgrf",
+        "target": "isupgr",
+        "source_supported": true
+      },
+      {
+        "source": "upgrf",
+        "target": "ibi",
+        "source_supported": true
+      },
+      {
+        "source": "ushgrf",
+        "target": "isushgr",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [],
+    "gained_gold": [
+      "ibi"
+    ]
+  }
+]

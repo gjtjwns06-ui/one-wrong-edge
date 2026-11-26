@@ -1,0 +1,10 @@
+{
+  "all_checks_passed": true,
+  "sampled_graph_query_cases": 250,
+  "single_edge_interventions_replayed_with_BFS": 5591,
+  "learned_policy_outputs_replayed_with_BFS": 750,
+  "protocol_and_original_code_hashes_match": true,
+  "all_graph_provenance_and_hidden_proof_checks_pass": true,
+  "result_rows": 154791,
+  "random_seed": 9981
+}

@@ -1,0 +1,14 @@
+{
+  "ridge_10": {
+    "finite_predictions": true,
+    "finite_scaler_mean": true,
+    "finite_scaler_scale": true,
+    "minimum_variance": -3.4670205988149384e-35
+  },
+  "utility_boost": {
+    "finite_predictions": true
+  },
+  "wrongness_boost": {
+    "finite_predictions": true
+  }
+}

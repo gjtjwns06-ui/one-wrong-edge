@@ -1,0 +1,583 @@
+qid,topic,group,gold_count,retrieved_count,out_of_index_count,indexed_but_ineligible_count,eligible_but_outside_pool_count,capacity20_count,avoidable_within_pool_count,retrieved_fraction,out_of_index_fraction,indexed_but_ineligible_fraction,eligible_but_outside_pool_fraction,capacity20_fraction,avoidable_within_pool_fraction
+poeq1,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,8,2,0,0,4,0,2,0.25,0.0,0.0,0.5,0.0,0.25
+poeq12d,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,4,3,0,0,0,0,1,0.75,0.0,0.0,0.0,0.0,0.25
+nfpo,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,8,2,0,0,0,0,6,0.25,0.0,0.0,0.0,0.0,0.75
+nfso,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,9,5,1,0,0,0,3,0.5555555555555556,0.1111111111111111,0.0,0.0,0.0,0.3333333333333333
+pocl,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,14,0,0,0,7,0,7,0.0,0.0,0.0,0.5,0.0,0.5
+ispod,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,5,1,0,0,1,0,3,0.2,0.0,0.0,0.2,0.0,0.6
+swopolem,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,10,1,0,0,5,0,4,0.1,0.0,0.0,0.5,0.0,0.4
+swopo,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,17,2,2,0,11,0,2,0.11764705882352941,0.11764705882352941,0.0,0.6470588235294118,0.0,0.11764705882352941
+po3nr,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,7,2,1,0,4,0,0,0.2857142857142857,0.14285714285714285,0.0,0.5714285714285714,0.0,0.0
+po2ne,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,11,2,1,0,7,0,1,0.18181818181818182,0.09090909090909091,0.0,0.6363636363636364,0.0,0.09090909090909091
+pofun,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,33,1,1,0,24,0,7,0.030303030303030304,0.030303030303030304,0.0,0.7272727272727273,0.0,0.21212121212121213
+soeq1,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,8,1,0,0,3,0,4,0.125,0.0,0.0,0.375,0.0,0.5
+soeq2,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,6,2,0,0,3,0,1,0.3333333333333333,0.0,0.0,0.5,0.0,0.16666666666666666
+soeq12d,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,4,3,0,0,0,0,1,0.75,0.0,0.0,0.0,0.0,0.25
+sotrd,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,3,0,0,0,3,0,0,0.0,0.0,0.0,1.0,0.0,0.0
+solin,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,17,0,2,0,9,0,6,0.0,0.11764705882352941,0.0,0.5294117647058824,0.0,0.35294117647058826
+so3nr,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-0,3,1,0,0,1,0,1,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333
+soasym,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-1,3,1,1,0,1,0,0,0.3333333333333333,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0
+sotr2,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-1,12,4,0,0,6,0,2,0.3333333333333333,0.0,0.0,0.5,0.0,0.16666666666666666
+issod,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-1,3,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,1.0
+issoi,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-1,4,1,0,0,2,0,1,0.25,0.0,0.0,0.5,0.0,0.25
+isso2i,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-1,21,3,2,0,13,0,3,0.14285714285714285,0.09523809523809523,0.0,0.6190476190476191,0.0,0.14285714285714285
+so0,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-1,4,0,0,0,1,0,3,0.0,0.0,0.0,0.25,0.0,0.75
+somo,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-1,21,1,2,0,14,0,4,0.047619047619047616,0.09523809523809523,0.0,0.6666666666666666,0.0,0.19047619047619047
+sotrine,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-1,3,1,1,0,1,0,0,0.3333333333333333,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0
+sotr3,orderings,ZF Set Theory - add the Axiom of Power Sets / Partial and total orderings / block-1,15,3,0,0,7,0,5,0.2,0.0,0.0,0.4666666666666667,0.0,0.3333333333333333
+rnexg,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,7,1,1,0,4,0,1,0.14285714285714285,0.14285714285714285,0.0,0.5714285714285714,0.0,0.14285714285714285
+dmexd,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+fndmexd,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,3,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,1.0
+dmfex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,6,1,0,0,2,0,3,0.16666666666666666,0.0,0.0,0.3333333333333333,0.0,0.5
+fndmexb,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,6,1,0,0,2,0,3,0.16666666666666666,0.0,0.0,0.3333333333333333,0.0,0.5
+fdmexb,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,3,2,0,0,0,0,1,0.6666666666666666,0.0,0.0,0.0,0.0,0.3333333333333333
+iprc,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,5,1,2,0,0,0,2,0.2,0.4,0.0,0.0,0.0,0.4
+imaexg,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,4,0,0,0,1,0,3,0.0,0.0,0.0,0.25,0.0,0.75
+rnexd,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+imaexd,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+exse2,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,12,4,0,0,6,0,2,0.3333333333333333,0.0,0.0,0.5,0.0,0.16666666666666666
+xpexr,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,12,1,0,0,7,0,4,0.08333333333333333,0.0,0.0,0.5833333333333334,0.0,0.3333333333333333
+xpexcnv,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,5,1,0,0,2,0,2,0.2,0.0,0.0,0.4,0.0,0.4
+soex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,21,4,0,0,10,0,7,0.19047619047619047,0.0,0.0,0.47619047619047616,0.0,0.3333333333333333
+elxp4,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,27,5,1,0,10,0,11,0.18518518518518517,0.037037037037037035,0.0,0.37037037037037035,0.0,0.4074074074074074
+elxp5,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,34,4,3,0,12,0,15,0.11764705882352941,0.08823529411764706,0.0,0.35294117647058826,0.0,0.4411764705882353
+cnvex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+relcnvexb,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,6,3,0,0,1,0,2,0.5,0.0,0.0,0.16666666666666666,0.0,0.3333333333333333
+f1oexrnex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,11,4,0,0,4,0,3,0.36363636363636365,0.0,0.0,0.36363636363636365,0.0,0.2727272727272727
+coexg,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,7,0,1,0,3,0,3,0.0,0.14285714285714285,0.0,0.42857142857142855,0.0,0.42857142857142855
+coex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+coexd,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+funcnvuni,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-0,44,6,2,0,24,0,12,0.13636363636363635,0.045454545454545456,0.0,0.5454545454545454,0.0,0.2727272727272727
+fun11uni,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,8,2,0,0,3,0,3,0.25,0.0,0.0,0.375,0.0,0.375
+resf1extb,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,91,8,1,0,52,18,12,0.08791208791208792,0.01098901098901099,0.0,0.5714285714285714,0.1978021978021978,0.13186813186813187
+fex2,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,5,0,1,0,3,0,1,0.0,0.2,0.0,0.6,0.0,0.2
+fabexd,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,9,3,2,0,2,0,2,0.3333333333333333,0.2222222222222222,0.0,0.2222222222222222,0.0,0.2222222222222222
+fabexg,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,7,1,0,0,3,0,3,0.14285714285714285,0.0,0.0,0.42857142857142855,0.0,0.42857142857142855
+fabex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+f1oabexg,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,8,0,0,0,4,0,4,0.0,0.0,0.0,0.5,0.0,0.5
+fiunlem,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,19,6,1,0,8,0,4,0.3157894736842105,0.05263157894736842,0.0,0.42105263157894735,0.0,0.21052631578947367
+fiun,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,46,6,2,0,22,2,14,0.13043478260869565,0.043478260869565216,0.0,0.4782608695652174,0.043478260869565216,0.30434782608695654
+f1iun,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,53,7,1,0,28,4,13,0.1320754716981132,0.018867924528301886,0.0,0.5283018867924528,0.07547169811320754,0.24528301886792453
+fviunfun,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,5,1,1,0,2,0,1,0.2,0.2,0.0,0.4,0.0,0.2
+ffoss,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,15,4,0,0,2,0,9,0.26666666666666666,0.0,0.0,0.13333333333333333,0.0,0.6
+f11o,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,9,3,0,0,2,0,4,0.3333333333333333,0.0,0.0,0.2222222222222222,0.0,0.4444444444444444
+cofunexg,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,15,5,1,0,7,0,2,0.3333333333333333,0.06666666666666667,0.0,0.4666666666666667,0.0,0.13333333333333333
+cofunex2g,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,10,3,0,0,3,0,4,0.3,0.0,0.0,0.3,0.0,0.4
+funexw,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,7,1,1,0,2,0,3,0.14285714285714285,0.14285714285714285,0.0,0.2857142857142857,0.0,0.42857142857142855
+mptexw,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,8,2,0,0,3,0,3,0.25,0.0,0.0,0.375,0.0,0.375
+funrnex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,4,1,0,0,1,0,2,0.25,0.0,0.0,0.25,0.0,0.5
+zfrep6OLD,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,41,3,2,0,30,0,6,0.07317073170731707,0.04878048780487805,0.0,0.7317073170731707,0.0,0.14634146341463414
+focdmex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,9,1,0,0,8,0,0,0.1111111111111111,0.0,0.0,0.8888888888888888,0.0,0.0
+f1dmex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,11,5,0,0,4,0,2,0.45454545454545453,0.0,0.0,0.36363636363636365,0.0,0.18181818181818182
+f1ovv,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,8,4,0,0,2,0,2,0.5,0.0,0.0,0.25,0.0,0.25
+fvclex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,5,0,0,0,2,0,3,0.0,0.0,0.0,0.4,0.0,0.6
+fvresex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,17,6,1,0,8,0,2,0.35294117647058826,0.058823529411764705,0.0,0.47058823529411764,0.0,0.11764705882352941
+abrexexg,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,4,1,1,0,2,0,0,0.25,0.25,0.0,0.5,0.0,0.0
+abrexex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+iunexg,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,6,2,2,0,2,0,0,0.3333333333333333,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0
+abrexex2g,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-1,15,3,0,0,9,0,3,0.2,0.0,0.0,0.6,0.0,0.2
+opabex3rd,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,39,1,2,0,21,0,15,0.02564102564102564,0.05128205128205128,0.0,0.5384615384615384,0.0,0.38461538461538464
+opabex3,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,37,3,3,0,16,0,15,0.08108108108108109,0.08108108108108109,0.0,0.43243243243243246,0.0,0.40540540540540543
+iunex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,3,1,0,0,1,0,1,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333
+abrexex2,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,3,0,0,0,1,0,2,0.0,0.0,0.0,0.3333333333333333,0.0,0.6666666666666666
+abexssex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,9,4,2,0,1,0,2,0.4444444444444444,0.2222222222222222,0.0,0.1111111111111111,0.0,0.2222222222222222
+abexex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,7,3,1,0,2,0,1,0.42857142857142855,0.14285714285714285,0.0,0.2857142857142857,0.0,0.14285714285714285
+wemoiso,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,17,5,1,0,7,0,4,0.29411764705882354,0.058823529411764705,0.0,0.4117647058823529,0.0,0.23529411764705882
+wemoiso2,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,19,6,1,0,6,0,6,0.3157894736842105,0.05263157894736842,0.0,0.3157894736842105,0.0,0.3157894736842105
+oprabexd,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,13,3,3,0,4,0,3,0.23076923076923078,0.23076923076923078,0.0,0.3076923076923077,0.0,0.23076923076923078
+oprabex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,9,0,3,0,3,0,3,0.0,0.3333333333333333,0.0,0.3333333333333333,0.0,0.3333333333333333
+oprabex3,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,11,3,2,0,3,0,3,0.2727272727272727,0.18181818181818182,0.0,0.2727272727272727,0.0,0.2727272727272727
+oprabrexex2,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,11,4,2,0,0,0,5,0.36363636363636365,0.18181818181818182,0.0,0.0,0.0,0.45454545454545453
+ab2rexex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,2,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,1.0
+xpexgALT,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,11,0,0,0,6,0,5,0.0,0.0,0.0,0.5454545454545454,0.0,0.45454545454545453
+offval3,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,15,2,2,0,10,0,1,0.13333333333333333,0.13333333333333333,0.0,0.6666666666666666,0.0,0.06666666666666667
+offres,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,17,2,0,0,9,0,6,0.11764705882352941,0.0,0.0,0.5294117647058824,0.0,0.35294117647058826
+ofmres,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,14,1,4,0,8,0,1,0.07142857142857142,0.2857142857142857,0.0,0.5714285714285714,0.0,0.07142857142857142
+ofmresex,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,3,1,2,0,0,0,0,0.3333333333333333,0.6666666666666666,0.0,0.0,0.0,0.0
+mptcnfimad,relations_functions_cont,ZF Set Theory - add the Axiom of Union / Relations and functions (cont.) / block-2,43,7,0,0,19,4,13,0.16279069767441862,0.0,0.0,0.4418604651162791,0.09302325581395349,0.3023255813953488
+dfer2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,12,4,2,0,1,0,5,0.3333333333333333,0.16666666666666666,0.0,0.08333333333333333,0.0,0.4166666666666667
+dfec2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,3,2,0,0,0,0,1,0.6666666666666666,0.0,0.0,0.0,0.0,0.3333333333333333
+ecexg,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+ecexr,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,9,3,0,0,4,0,2,0.3333333333333333,0.0,0.0,0.4444444444444444,0.0,0.2222222222222222
+dfqs2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,4,3,0,0,0,0,1,0.75,0.0,0.0,0.0,0.0,0.25
+ereq1,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,14,1,0,0,5,0,8,0.07142857142857142,0.0,0.0,0.35714285714285715,0.0,0.5714285714285714
+ereq2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,4,1,0,0,1,0,2,0.25,0.0,0.0,0.25,0.0,0.5
+errel,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,2,0,0,0,1,0,1,0.0,0.0,0.0,0.5,0.0,0.5
+erdm,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,2,0,0,0,1,0,1,0.0,0.0,0.0,0.5,0.0,0.5
+ercl,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,6,3,0,0,1,0,2,0.5,0.0,0.0,0.16666666666666666,0.0,0.3333333333333333
+ersym,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,12,4,0,0,7,0,1,0.3333333333333333,0.0,0.0,0.5833333333333334,0.0,0.08333333333333333
+ercl2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+ersymb,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,4,1,0,0,2,0,1,0.25,0.0,0.0,0.5,0.0,0.25
+ertr,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,20,6,0,0,11,0,3,0.3,0.0,0.0,0.55,0.0,0.15
+ertrd,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,2,1,0,0,1,0,0,0.5,0.0,0.0,0.5,0.0,0.0
+ertr2d,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+ertr3d,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+ertr4d,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+erref,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,9,3,0,0,3,0,3,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333
+ercnv,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,12,3,0,0,6,0,3,0.25,0.0,0.0,0.5,0.0,0.25
+errn,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,6,3,0,0,1,0,2,0.5,0.0,0.0,0.16666666666666666,0.0,0.3333333333333333
+erssxp,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,7,2,0,0,0,0,5,0.2857142857142857,0.0,0.0,0.0,0.0,0.7142857142857143
+erex,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,5,2,1,0,1,0,1,0.4,0.2,0.0,0.2,0.0,0.2
+erexb,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,6,1,0,0,1,0,4,0.16666666666666666,0.0,0.0,0.16666666666666666,0.0,0.6666666666666666
+iserd,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,17,3,0,0,9,0,5,0.17647058823529413,0.0,0.0,0.5294117647058824,0.0,0.29411764705882354
+brinxper,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,28,4,0,0,17,0,7,0.14285714285714285,0.0,0.0,0.6071428571428571,0.0,0.25
+brdifun,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-0,14,4,0,0,3,0,7,0.2857142857142857,0.0,0.0,0.21428571428571427,0.0,0.5
+swoer,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,42,5,3,0,22,0,12,0.11904761904761904,0.07142857142857142,0.0,0.5238095238095238,0.0,0.2857142857142857
+swoord1,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,20,4,0,0,13,0,3,0.2,0.0,0.0,0.65,0.0,0.15
+swoord2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,21,3,0,0,15,0,3,0.14285714285714285,0.0,0.0,0.7142857142857143,0.0,0.14285714285714285
+swoso,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,17,2,1,0,11,0,3,0.11764705882352941,0.058823529411764705,0.0,0.6470588235294118,0.0,0.17647058823529413
+eqerlem,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,15,6,3,0,2,0,4,0.4,0.2,0.0,0.13333333333333333,0.0,0.26666666666666666
+eqer,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,12,3,0,0,5,0,4,0.25,0.0,0.0,0.4166666666666667,0.0,0.3333333333333333
+ider,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,3,3,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+0er,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,9,3,0,0,0,0,6,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+eceq1,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,4,1,0,0,1,0,2,0.25,0.0,0.0,0.25,0.0,0.5
+eceq1d,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+eceq2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+eceq2i,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+eceq2d,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+elecg,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,6,2,0,0,3,0,1,0.3333333333333333,0.0,0.0,0.5,0.0,0.16666666666666666
+ecref,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,6,2,0,0,3,0,1,0.3333333333333333,0.0,0.0,0.5,0.0,0.16666666666666666
+elec,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,2,1,0,0,1,0,0,0.5,0.0,0.0,0.5,0.0,0.0
+relelec,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,8,2,0,0,2,0,4,0.25,0.0,0.0,0.25,0.0,0.5
+elecres,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,5,3,0,0,0,0,2,0.6,0.0,0.0,0.0,0.0,0.4
+elecreseq,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,6,2,0,0,2,0,2,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333
+elecex,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,4,1,0,0,2,0,1,0.25,0.0,0.0,0.5,0.0,0.25
+ecss,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,6,1,0,0,3,0,2,0.16666666666666666,0.0,0.0,0.5,0.0,0.3333333333333333
+ecdmn0,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,13,2,0,0,3,0,8,0.15384615384615385,0.0,0.0,0.23076923076923078,0.0,0.6153846153846154
+ereldm,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,7,2,0,0,1,0,4,0.2857142857142857,0.0,0.0,0.14285714285714285,0.0,0.5714285714285714
+erth,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,24,5,1,0,9,0,9,0.20833333333333334,0.041666666666666664,0.0,0.375,0.0,0.375
+erth2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,5,2,0,0,2,0,1,0.4,0.0,0.0,0.4,0.0,0.2
+erthi,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,3,2,0,0,0,0,1,0.6666666666666666,0.0,0.0,0.0,0.0,0.3333333333333333
+erdisj,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,18,3,0,0,11,0,4,0.16666666666666666,0.0,0.0,0.6111111111111112,0.0,0.2222222222222222
+ecidsn,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,3,2,0,0,1,0,0,0.6666666666666666,0.0,0.0,0.3333333333333333,0.0,0.0
+qseq1,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,4,1,0,0,2,0,1,0.25,0.0,0.0,0.5,0.0,0.25
+qseq2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,6,2,0,0,2,0,2,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333
+qseq2i,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+qseq1d,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-1,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+qseq2d,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+qseq12,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,3,2,0,0,0,0,1,0.6666666666666666,0.0,0.0,0.0,0.0,0.3333333333333333
+0qs,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,4,1,0,0,3,0,0,0.25,0.0,0.0,0.75,0.0,0.0
+elqsg,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,4,3,0,0,1,0,0,0.75,0.0,0.0,0.25,0.0,0.0
+elqs,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+elqsi,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+ecelqs,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,10,3,0,0,2,0,5,0.3,0.0,0.0,0.2,0.0,0.5
+ecelqsw,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,3,2,0,0,1,0,0,0.6666666666666666,0.0,0.0,0.3333333333333333,0.0,0.0
+ecelqsi,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+ecopqsi,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,4,2,0,0,1,0,1,0.5,0.0,0.0,0.25,0.0,0.25
+qsexg,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,3,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0.0,1.0
+qsex,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+uniqs,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,15,2,2,0,5,0,6,0.13333333333333333,0.13333333333333333,0.0,0.3333333333333333,0.0,0.4
+uniqsw,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,3,2,0,0,1,0,0,0.6666666666666666,0.0,0.0,0.3333333333333333,0.0,0.0
+uniqs2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,9,3,0,0,3,0,3,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333
+snecg,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,8,4,0,0,1,0,3,0.5,0.0,0.0,0.125,0.0,0.375
+snec,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,7,2,0,0,0,0,5,0.2857142857142857,0.0,0.0,0.0,0.0,0.7142857142857143
+ecqs,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,4,1,0,0,0,0,3,0.25,0.0,0.0,0.0,0.0,0.75
+ecid,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,6,1,1,0,0,0,4,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.6666666666666666
+qsid,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,10,3,0,0,3,0,4,0.3,0.0,0.0,0.3,0.0,0.4
+ectocld,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,6,0,0,0,2,0,4,0.0,0.0,0.0,0.3333333333333333,0.0,0.6666666666666666
+ectocl,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,4,2,0,0,1,0,1,0.5,0.0,0.0,0.25,0.0,0.25
+elqsn0,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,7,0,0,0,5,0,2,0.0,0.0,0.0,0.7142857142857143,0.0,0.2857142857142857
+ecelqsdm,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,5,2,0,0,1,0,2,0.4,0.0,0.0,0.2,0.0,0.4
+ecelqsdmb,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,6,3,0,0,1,0,2,0.5,0.0,0.0,0.16666666666666666,0.0,0.3333333333333333
+eceldmqs,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,4,1,0,0,2,0,1,0.25,0.0,0.0,0.5,0.0,0.25
+xpider,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,16,1,0,0,8,0,7,0.0625,0.0,0.0,0.5,0.0,0.4375
+iiner,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,44,7,0,0,17,7,13,0.1590909090909091,0.0,0.0,0.38636363636363635,0.1590909090909091,0.29545454545454547
+riiner,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,14,5,2,0,5,0,2,0.35714285714285715,0.14285714285714285,0.0,0.35714285714285715,0.0,0.14285714285714285
+erinxp,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-2,25,3,2,0,9,0,11,0.12,0.08,0.0,0.36,0.0,0.44
+ecinxp,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,15,1,0,0,7,0,7,0.06666666666666667,0.0,0.0,0.4666666666666667,0.0,0.4666666666666667
+qsinxp,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,6,1,0,0,4,0,1,0.16666666666666666,0.0,0.0,0.6666666666666666,0.0,0.16666666666666666
+qsdisj,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,13,3,0,0,8,0,2,0.23076923076923078,0.0,0.0,0.6153846153846154,0.0,0.15384615384615385
+qsdisj2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,8,1,0,0,4,0,3,0.125,0.0,0.0,0.5,0.0,0.375
+qsel,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,14,1,0,0,7,0,6,0.07142857142857142,0.0,0.0,0.5,0.0,0.42857142857142855
+uniinqs,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,28,2,2,0,19,0,5,0.07142857142857142,0.07142857142857142,0.0,0.6785714285714286,0.0,0.17857142857142858
+qliftlem,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,4,0,0,0,2,0,2,0.0,0.0,0.0,0.5,0.0,0.5
+qliftrel,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,2,1,0,0,0,0,1,0.5,0.0,0.0,0.0,0.0,0.5
+qliftel,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,8,0,0,0,1,0,7,0.0,0.0,0.0,0.125,0.0,0.875
+qliftel1,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,2,1,0,0,0,0,1,0.5,0.0,0.0,0.0,0.0,0.5
+qliftfun,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,21,1,0,0,11,0,9,0.047619047619047616,0.0,0.0,0.5238095238095238,0.0,0.42857142857142855
+qliftfund,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,4,3,0,0,1,0,0,0.75,0.0,0.0,0.25,0.0,0.0
+qliftfuns,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,16,5,0,0,1,0,10,0.3125,0.0,0.0,0.0625,0.0,0.625
+qliftf,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,9,2,0,0,3,0,4,0.2222222222222222,0.0,0.0,0.3333333333333333,0.0,0.4444444444444444
+qliftval,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,3,0,0,0,1,0,2,0.0,0.0,0.0,0.3333333333333333,0.0,0.6666666666666666
+ecoptocl,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,11,2,0,0,5,0,4,0.18181818181818182,0.0,0.0,0.45454545454545453,0.0,0.36363636363636365
+2ecoptocl,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,5,5,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+3ecoptocl,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,6,3,0,0,2,0,1,0.5,0.0,0.0,0.3333333333333333,0.0,0.16666666666666666
+brecop,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,34,7,3,0,12,0,12,0.20588235294117646,0.08823529411764706,0.0,0.35294117647058826,0.0,0.35294117647058826
+brecop2,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,11,1,2,0,6,0,2,0.09090909090909091,0.18181818181818182,0.0,0.5454545454545454,0.0,0.18181818181818182
+eroveu,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,50,6,2,0,23,5,14,0.12,0.04,0.0,0.46,0.1,0.28
+erovlem,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,29,5,3,0,10,0,11,0.1724137931034483,0.10344827586206896,0.0,0.3448275862068966,0.0,0.3793103448275862
+erov,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,37,7,1,0,21,0,8,0.1891891891891892,0.02702702702702703,0.0,0.5675675675675675,0.0,0.21621621621621623
+eroprf,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,21,5,3,0,8,0,5,0.23809523809523808,0.14285714285714285,0.0,0.38095238095238093,0.0,0.23809523809523808
+ecopoveq,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,4,0,1,0,2,0,1,0.0,0.25,0.0,0.5,0.0,0.25
+ecopovsym,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,19,3,1,0,6,0,9,0.15789473684210525,0.05263157894736842,0.0,0.3157894736842105,0.0,0.47368421052631576
+ecopovtrn,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,38,1,6,0,16,0,15,0.02631578947368421,0.15789473684210525,0.0,0.42105263157894735,0.0,0.39473684210526316
+ecopover,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,21,3,1,0,9,0,8,0.14285714285714285,0.047619047619047616,0.0,0.42857142857142855,0.0,0.38095238095238093
+eceqoveq,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,48,7,4,0,30,0,7,0.14583333333333334,0.08333333333333333,0.0,0.625,0.0,0.14583333333333334
+ecovcom,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-3,9,0,0,0,8,0,1,0.0,0.0,0.0,0.8888888888888888,0.0,0.1111111111111111
+ecovass,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-4,17,3,0,0,11,0,3,0.17647058823529413,0.0,0.0,0.6470588235294118,0.0,0.17647058823529413
+ecovdi,equivalence_relations,ZF Set Theory - add the Axiom of Union / Equivalence relations and classes / block-4,18,1,1,0,14,0,2,0.05555555555555555,0.05555555555555555,0.0,0.7777777777777778,0.0,0.1111111111111111
+iswrd,words,Words over a set / Definitions and basic theorems / block-0,10,4,0,0,3,0,3,0.4,0.0,0.0,0.3,0.0,0.3
+wrdval,words,Words over a set / Definitions and basic theorems / block-0,9,3,1,0,3,0,2,0.3333333333333333,0.1111111111111111,0.0,0.3333333333333333,0.0,0.2222222222222222
+wrdfd,words,Words over a set / Definitions and basic theorems / block-0,5,3,0,0,1,0,1,0.6,0.0,0.0,0.2,0.0,0.2
+snopiswrd,words,Words over a set / Definitions and basic theorems / block-0,8,1,1,0,3,0,3,0.125,0.125,0.0,0.375,0.0,0.375
+wrdexb,words,Words over a set / Definitions and basic theorems / block-0,16,4,2,0,6,0,4,0.25,0.125,0.0,0.375,0.0,0.25
+iswrddm0,words,Words over a set / Definitions and basic theorems / block-0,4,0,0,0,2,0,2,0.0,0.0,0.0,0.5,0.0,0.5
+wrdsymb,words,Words over a set / Definitions and basic theorems / block-0,6,1,0,0,3,0,2,0.16666666666666666,0.0,0.0,0.5,0.0,0.3333333333333333
+nfwrd,words,Words over a set / Definitions and basic theorems / block-0,6,2,0,0,1,0,3,0.3333333333333333,0.0,0.0,0.16666666666666666,0.0,0.5
+csbwrdg,words,Words over a set / Definitions and basic theorems / block-0,14,3,0,0,5,0,6,0.21428571428571427,0.0,0.0,0.35714285714285715,0.0,0.42857142857142855
+wrdnval,words,Words over a set / Definitions and basic theorems / block-0,19,4,1,0,11,0,3,0.21052631578947367,0.05263157894736842,0.0,0.5789473684210527,0.0,0.15789473684210525
+wrdmap,words,Words over a set / Definitions and basic theorems / block-1,5,2,0,0,2,0,1,0.4,0.0,0.0,0.4,0.0,0.2
+hashwrdn,words,Words over a set / Definitions and basic theorems / block-1,9,1,2,0,4,0,2,0.1111111111111111,0.2222222222222222,0.0,0.4444444444444444,0.0,0.2222222222222222
+wrdsymb0,words,Words over a set / Definitions and basic theorems / block-1,19,1,2,0,10,0,6,0.05263157894736842,0.10526315789473684,0.0,0.5263157894736842,0.0,0.3157894736842105
+wrdlenge1n0,words,Words over a set / Definitions and basic theorems / block-1,6,1,0,0,2,0,3,0.16666666666666666,0.0,0.0,0.3333333333333333,0.0,0.5
+wrdlen1,words,Words over a set / Definitions and basic theorems / block-1,7,1,1,0,0,0,5,0.14285714285714285,0.14285714285714285,0.0,0.0,0.0,0.7142857142857143
+elovmpowrd,words,Words over a set / Definitions and basic theorems / block-1,15,2,2,0,9,0,2,0.13333333333333333,0.13333333333333333,0.0,0.6,0.0,0.13333333333333333
+elovmptnn0wrd,words,Words over a set / Definitions and basic theorems / block-1,10,2,3,0,5,0,0,0.2,0.3,0.0,0.5,0.0,0.0
+lsw0,words,Words over a set / Last symbol of a word / block-0,19,4,2,0,9,0,4,0.21052631578947367,0.10526315789473684,0.0,0.47368421052631576,0.0,0.21052631578947367
+lsw0g,words,Words over a set / Last symbol of a word / block-0,4,1,0,0,1,0,2,0.25,0.0,0.0,0.25,0.0,0.5
+ccatfn,words,Words over a set / Concatenations of words / block-0,4,0,1,0,3,0,0,0.0,0.25,0.0,0.75,0.0,0.0
+ccatfval,words,Words over a set / Concatenations of words / block-0,16,3,0,0,10,0,3,0.1875,0.0,0.0,0.625,0.0,0.1875
+ccatval3,words,Words over a set / Concatenations of words / block-0,16,4,1,0,8,0,3,0.25,0.0625,0.0,0.5,0.0,0.1875
+elfzelfzccat,words,Words over a set / Concatenations of words / block-0,7,1,1,0,3,0,2,0.14285714285714285,0.14285714285714285,0.0,0.42857142857142855,0.0,0.2857142857142857
+ccatvalfn,words,Words over a set / Concatenations of words / block-0,8,1,0,0,4,0,3,0.125,0.0,0.0,0.5,0.0,0.375
+ccatdmss,words,Words over a set / Concatenations of words / block-0,16,2,1,0,7,0,6,0.125,0.0625,0.0,0.4375,0.0,0.375
+ccatsymb,words,Words over a set / Concatenations of words / block-0,54,5,3,0,35,0,11,0.09259259259259259,0.05555555555555555,0.0,0.6481481481481481,0.0,0.2037037037037037
+ccatlid,words,Words over a set / Concatenations of words / block-0,29,2,0,0,19,0,8,0.06896551724137931,0.0,0.0,0.6551724137931034,0.0,0.27586206896551724
+ccatrid,words,Words over a set / Concatenations of words / block-0,16,1,0,0,10,0,5,0.0625,0.0,0.0,0.625,0.0,0.3125
+ccatass,words,Words over a set / Concatenations of words / block-0,60,6,5,0,38,0,11,0.1,0.08333333333333333,0.0,0.6333333333333333,0.0,0.18333333333333332
+ccatrn,words,Words over a set / Concatenations of words / block-0,60,3,8,0,30,2,17,0.05,0.13333333333333333,0.0,0.5,0.03333333333333333,0.2833333333333333
+ccatf1,words,Words over a set / Concatenations of words / block-0,60,9,6,0,30,4,11,0.15,0.1,0.0,0.5,0.06666666666666667,0.18333333333333332
+ccatidid,words,Words over a set / Concatenations of words / block-0,3,1,0,0,1,0,1,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333
+lswccat0lsw,words,Words over a set / Concatenations of words / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+ids1,words,Words over a set / Singleton words / block-0,7,2,0,0,3,0,2,0.2857142857142857,0.0,0.0,0.42857142857142855,0.0,0.2857142857142857
+s1rn,words,Words over a set / Singleton words / block-0,5,2,0,0,2,0,1,0.4,0.0,0.0,0.4,0.0,0.2
+s1eqd,words,Words over a set / Singleton words / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+s1prc,words,Words over a set / Singleton words / block-0,4,3,0,0,0,0,1,0.75,0.0,0.0,0.0,0.0,0.25
+s1nz,words,Words over a set / Singleton words / block-0,4,0,1,0,0,0,3,0.0,0.25,0.0,0.0,0.0,0.75
+s1mapd,words,Words over a set / Singleton words / block-0,10,3,1,0,3,0,3,0.3,0.1,0.0,0.3,0.0,0.3
+s1f1,words,Words over a set / Singleton words / block-0,13,4,0,0,4,0,5,0.3076923076923077,0.0,0.0,0.3076923076923077,0.0,0.38461538461538464
+s1dmALT,words,Words over a set / Singleton words / block-0,4,0,0,0,0,0,4,0.0,0.0,0.0,0.0,0.0,1.0
+lsws1,words,Words over a set / Singleton words / block-0,6,3,0,0,1,0,2,0.5,0.0,0.0,0.16666666666666666,0.0,0.3333333333333333
+eqs1,words,Words over a set / Singleton words / block-0,23,7,0,0,8,0,8,0.30434782608695654,0.0,0.0,0.34782608695652173,0.0,0.34782608695652173
+s111,words,Words over a set / Singleton words / block-0,13,2,2,0,5,0,4,0.15384615384615385,0.15384615384615385,0.0,0.38461538461538464,0.0,0.3076923076923077
+ccatws1clv,words,Words over a set / Concatenations with singleton words / block-0,4,1,0,0,1,0,2,0.25,0.0,0.0,0.25,0.0,0.5
+ccat2s1cl,words,Words over a set / Concatenations with singleton words / block-0,3,2,0,0,0,0,1,0.6666666666666666,0.0,0.0,0.0,0.0,0.3333333333333333
+ccat2s1len,words,Words over a set / Concatenations with singleton words / block-0,8,3,0,0,2,0,3,0.375,0.0,0.0,0.25,0.0,0.375
+ccat2s1p1,words,Words over a set / Concatenations with singleton words / block-0,10,2,1,0,3,0,4,0.2,0.1,0.0,0.3,0.0,0.4
+ccat2s1p2,words,Words over a set / Concatenations with singleton words / block-0,18,2,1,0,11,0,4,0.1111111111111111,0.05555555555555555,0.0,0.6111111111111112,0.0,0.2222222222222222
+ccatw2s1ass,words,Words over a set / Concatenations with singleton words / block-0,5,1,0,0,1,0,3,0.2,0.0,0.0,0.2,0.0,0.6
+swrdnznd,words,Words over a set / Subwords/substrings / block-0,5,0,0,0,3,0,2,0.0,0.0,0.0,0.6,0.0,0.4
+swrdval,words,Words over a set / Subwords/substrings / block-0,28,4,1,0,20,0,3,0.14285714285714285,0.03571428571428571,0.0,0.7142857142857143,0.0,0.10714285714285714
+swrd00,words,Words over a set / Subwords/substrings / block-0,28,3,1,0,18,0,6,0.10714285714285714,0.03571428571428571,0.0,0.6428571428571429,0.0,0.21428571428571427
+swrdcl,words,Words over a set / Subwords/substrings / block-0,32,3,3,0,22,0,4,0.09375,0.09375,0.0,0.6875,0.0,0.125
+swrdval2,words,Words over a set / Subwords/substrings / block-0,17,1,1,0,12,0,3,0.058823529411764705,0.058823529411764705,0.0,0.7058823529411765,0.0,0.17647058823529413
+swrdlen,words,Words over a set / Subwords/substrings / block-0,12,2,3,0,5,0,2,0.16666666666666666,0.25,0.0,0.4166666666666667,0.0,0.16666666666666666
+swrdfv,words,Words over a set / Subwords/substrings / block-0,7,2,0,0,3,0,2,0.2857142857142857,0.0,0.0,0.42857142857142855,0.0,0.2857142857142857
+swrdfv0,words,Words over a set / Subwords/substrings / block-0,13,1,1,0,8,0,3,0.07692307692307693,0.07692307692307693,0.0,0.6153846153846154,0.0,0.23076923076923078
+swrdf,words,Words over a set / Subwords/substrings / block-0,8,2,0,0,2,0,4,0.25,0.0,0.0,0.25,0.0,0.5
+swrdf1,words,Words over a set / Subwords/substrings / block-0,37,4,5,0,18,0,10,0.10810810810810811,0.13513513513513514,0.0,0.4864864864864865,0.0,0.2702702702702703
+swrdvalfn,words,Words over a set / Subwords/substrings / block-0,2,1,0,0,1,0,0,0.5,0.0,0.0,0.5,0.0,0.0
+swrdrn,words,Words over a set / Subwords/substrings / block-0,2,1,0,0,0,0,1,0.5,0.0,0.0,0.0,0.0,0.5
+swrdrn3,words,Words over a set / Subwords/substrings / block-0,45,3,5,0,28,0,9,0.06666666666666667,0.1111111111111111,0.0,0.6222222222222222,0.0,0.2
+swrdlend,words,Words over a set / Subwords/substrings / block-0,18,3,1,0,10,0,4,0.16666666666666666,0.05555555555555555,0.0,0.5555555555555556,0.0,0.2222222222222222
+swrdnd,words,Words over a set / Subwords/substrings / block-0,45,7,4,0,25,0,9,0.15555555555555556,0.08888888888888889,0.0,0.5555555555555556,0.0,0.2
+swrdnd2,words,Words over a set / Subwords/substrings / block-0,28,5,3,0,17,0,3,0.17857142857142858,0.10714285714285714,0.0,0.6071428571428571,0.0,0.10714285714285714
+swrdnnn0nd,words,Words over a set / Subwords/substrings / block-0,43,6,4,0,26,0,7,0.13953488372093023,0.09302325581395349,0.0,0.6046511627906976,0.0,0.16279069767441862
+swrdnd0,words,Words over a set / Subwords/substrings / block-0,51,8,4,0,35,0,4,0.1568627450980392,0.0784313725490196,0.0,0.6862745098039216,0.0,0.0784313725490196
+swrd0,words,Words over a set / Subwords/substrings / block-0,48,0,3,0,32,0,13,0.0,0.0625,0.0,0.6666666666666666,0.0,0.2708333333333333
+swrdrlen,words,Words over a set / Subwords/substrings / block-0,6,3,0,0,2,0,1,0.5,0.0,0.0,0.3333333333333333,0.0,0.16666666666666666
+swrdlen2,words,Words over a set / Subwords/substrings / block-0,14,2,2,0,8,0,2,0.14285714285714285,0.14285714285714285,0.0,0.5714285714285714,0.0,0.14285714285714285
+swrdfv2,words,Words over a set / Subwords/substrings / block-0,37,4,5,0,16,0,12,0.10810810810810811,0.13513513513513514,0.0,0.43243243243243246,0.0,0.32432432432432434
+swrdwrdsymb,words,Words over a set / Subwords/substrings / block-0,42,3,4,0,23,0,12,0.07142857142857142,0.09523809523809523,0.0,0.5476190476190477,0.0,0.2857142857142857
+swrdsb0eq,words,Words over a set / Subwords/substrings / block-0,9,0,0,0,5,0,4,0.0,0.0,0.0,0.5555555555555556,0.0,0.4444444444444444
+swrdsbslen,words,Words over a set / Subwords/substrings / block-0,30,2,3,0,18,0,7,0.06666666666666667,0.1,0.0,0.6,0.0,0.23333333333333334
+swrds1,words,Words over a set / Subwords/substrings / block-0,35,3,6,0,19,0,7,0.08571428571428572,0.17142857142857143,0.0,0.5428571428571428,0.0,0.2
+swrdlsw,words,Words over a set / Subwords/substrings / block-0,23,4,0,0,15,0,4,0.17391304347826086,0.0,0.0,0.6521739130434783,0.0,0.17391304347826086
+ccatswrd,words,Words over a set / Subwords/substrings / block-0,54,4,5,0,35,0,10,0.07407407407407407,0.09259259259259259,0.0,0.6481481481481481,0.0,0.18518518518518517
+swrdccat2,words,Words over a set / Subwords/substrings / block-0,34,3,4,0,20,0,7,0.08823529411764706,0.11764705882352941,0.0,0.5882352941176471,0.0,0.20588235294117646
+pfxnndmnd,words,Words over a set / Prefixes of a word / block-0,2,0,0,0,2,0,0,0.0,0.0,0.0,1.0,0.0,0.0
+pfx00,words,Words over a set / Prefixes of a word / block-0,13,1,1,0,5,0,6,0.07692307692307693,0.07692307692307693,0.0,0.38461538461538464,0.0,0.46153846153846156
+pfx0,words,Words over a set / Prefixes of a word / block-0,13,0,1,0,5,0,7,0.0,0.07692307692307693,0.0,0.38461538461538464,0.0,0.5384615384615384
+pfxval0,words,Words over a set / Prefixes of a word / block-0,10,4,0,0,4,0,2,0.4,0.0,0.0,0.4,0.0,0.2
+pfxmpt,words,Words over a set / Prefixes of a word / block-0,18,2,1,0,12,0,3,0.1111111111111111,0.05555555555555555,0.0,0.6666666666666666,0.0,0.16666666666666666
+pfxf,words,Words over a set / Prefixes of a word / block-0,10,4,0,0,4,0,2,0.4,0.0,0.0,0.4,0.0,0.2
+pfxfn,words,Words over a set / Prefixes of a word / block-0,2,1,0,0,1,0,0,0.5,0.0,0.0,0.5,0.0,0.0
+pfxid,words,Words over a set / Prefixes of a word / block-0,13,2,0,0,7,0,4,0.15384615384615385,0.0,0.0,0.5384615384615384,0.0,0.3076923076923077
+pfxrn,words,Words over a set / Prefixes of a word / block-0,2,1,0,0,1,0,0,0.5,0.0,0.0,0.5,0.0,0.0
+pfxnd,words,Words over a set / Prefixes of a word / block-0,12,0,1,0,9,0,2,0.0,0.08333333333333333,0.0,0.75,0.0,0.16666666666666666
+pfxnd0,words,Words over a set / Prefixes of a word / block-0,32,3,3,0,23,0,3,0.09375,0.09375,0.0,0.71875,0.0,0.09375
+addlenpfx,words,Words over a set / Prefixes of a word / block-0,9,2,2,0,4,0,1,0.2222222222222222,0.2222222222222222,0.0,0.4444444444444444,0.0,0.1111111111111111
+pfxsuffeqwrdeq,words,Words over a set / Prefixes of a word / block-0,35,7,2,0,22,0,4,0.2,0.05714285714285714,0.0,0.6285714285714286,0.0,0.11428571428571428
+ccatpfx,words,Words over a set / Prefixes of a word / block-0,57,4,5,0,36,0,12,0.07017543859649122,0.08771929824561403,0.0,0.631578947368421,0.0,0.21052631578947367
+pfx1,words,Words over a set / Prefixes of a word / block-0,13,2,0,0,9,0,2,0.15384615384615385,0.0,0.0,0.6923076923076923,0.0,0.15384615384615385
+swrdswrdlem,words,Words over a set / Subwords of subwords / block-0,53,4,6,0,39,0,4,0.07547169811320754,0.11320754716981132,0.0,0.7358490566037735,0.0,0.07547169811320754
+swrdswrd,words,Words over a set / Subwords of subwords / block-0,96,12,10,0,59,7,8,0.125,0.10416666666666667,0.0,0.6145833333333334,0.07291666666666667,0.08333333333333333
+pfxswrd,words,Words over a set / Subwords of subwords / block-0,19,6,2,0,10,0,1,0.3157894736842105,0.10526315789473684,0.0,0.5263157894736842,0.0,0.05263157894736842
+swrdpfx,words,Words over a set / Subwords of subwords / block-0,26,5,1,0,16,0,4,0.19230769230769232,0.038461538461538464,0.0,0.6153846153846154,0.0,0.15384615384615385
+pfxpfx,words,Words over a set / Subwords of subwords / block-0,26,2,1,0,20,0,3,0.07692307692307693,0.038461538461538464,0.0,0.7692307692307693,0.0,0.11538461538461539
+pfxpfxid,words,Words over a set / Subwords of subwords / block-0,6,2,1,0,1,0,2,0.3333333333333333,0.16666666666666666,0.0,0.16666666666666666,0.0,0.3333333333333333
+pfxcctswrd,words,Words over a set / Subwords and concatenations / block-0,8,3,0,0,3,0,2,0.375,0.0,0.0,0.375,0.0,0.25
+lenpfxcctswrd,words,Words over a set / Subwords and concatenations / block-0,2,1,0,0,1,0,0,0.5,0.0,0.0,0.5,0.0,0.0
+lenrevpfxcctswrd,words,Words over a set / Subwords and concatenations / block-0,15,6,2,0,4,0,3,0.4,0.13333333333333333,0.0,0.26666666666666666,0.0,0.2
+ccats1pfxeq,words,Words over a set / Subwords and concatenations / block-0,24,6,0,0,16,0,2,0.25,0.0,0.0,0.6666666666666666,0.0,0.08333333333333333
+ccats1pfxeqrex,words,Words over a set / Subwords and concatenations / block-0,17,2,0,0,11,0,4,0.11764705882352941,0.0,0.0,0.6470588235294118,0.0,0.23529411764705882
+ccatopth,words,Words over a set / Subwords and concatenations / block-0,22,4,0,0,13,0,5,0.18181818181818182,0.0,0.0,0.5909090909090909,0.0,0.22727272727272727
+ccatopth2,words,Words over a set / Subwords and concatenations / block-0,25,6,0,0,13,0,6,0.24,0.0,0.0,0.52,0.0,0.24
+ccatlcan,words,Words over a set / Subwords and concatenations / block-0,7,2,2,0,3,0,0,0.2857142857142857,0.2857142857142857,0.0,0.42857142857142855,0.0,0.0
+ccatrcan,words,Words over a set / Subwords and concatenations / block-0,6,2,1,0,3,0,0,0.3333333333333333,0.16666666666666666,0.0,0.5,0.0,0.0
+wrdeqs1cat,words,Words over a set / Subwords and concatenations / block-0,17,3,1,0,8,0,5,0.17647058823529413,0.058823529411764705,0.0,0.47058823529411764,0.0,0.29411764705882354
+wrdind,words,Words over a set / Subwords and concatenations / block-0,63,4,4,0,39,0,16,0.06349206349206349,0.06349206349206349,0.0,0.6190476190476191,0.0,0.25396825396825395
+wrd2ind,words,Words over a set / Subwords and concatenations / block-0,118,14,7,0,71,20,6,0.11864406779661017,0.059322033898305086,0.0,0.6016949152542372,0.1694915254237288,0.05084745762711865
+swrdccatfn,words,Words over a set / Subwords of concatenations / block-0,10,1,0,0,6,0,3,0.1,0.0,0.0,0.6,0.0,0.3
+swrdccatin1,words,Words over a set / Subwords of concatenations / block-0,67,7,6,0,41,0,13,0.1044776119402985,0.08955223880597014,0.0,0.6119402985074627,0.0,0.19402985074626866
+pfxccatin12lem4,words,Words over a set / Subwords of concatenations / block-0,16,5,2,0,8,0,1,0.3125,0.125,0.0,0.5,0.0,0.0625
+pfxccatin12lem2a,words,Words over a set / Subwords of concatenations / block-0,33,8,2,0,19,0,4,0.24242424242424243,0.06060606060606061,0.0,0.5757575757575758,0.0,0.12121212121212122
+pfxccatin12lem1,words,Words over a set / Subwords of concatenations / block-0,34,5,5,0,20,0,4,0.14705882352941177,0.14705882352941177,0.0,0.5882352941176471,0.0,0.11764705882352941
+swrdccatin2,words,Words over a set / Subwords of concatenations / block-0,92,8,7,0,68,0,9,0.08695652173913043,0.07608695652173914,0.0,0.7391304347826086,0.0,0.09782608695652174
+pfxccatin12lem2c,words,Words over a set / Subwords of concatenations / block-0,16,4,3,0,7,0,2,0.25,0.1875,0.0,0.4375,0.0,0.125
+pfxccatin12lem2,words,Words over a set / Subwords of concatenations / block-0,78,8,3,0,47,8,12,0.10256410256410256,0.038461538461538464,0.0,0.6025641025641025,0.10256410256410256,0.15384615384615385
+pfxccatin12lem3,words,Words over a set / Subwords of concatenations / block-0,65,8,3,0,41,1,12,0.12307692307692308,0.046153846153846156,0.0,0.6307692307692307,0.015384615384615385,0.18461538461538463
+pfxccatin12,words,Words over a set / Subwords of concatenations / block-0,66,9,4,0,42,0,11,0.13636363636363635,0.06060606060606061,0.0,0.6363636363636364,0.0,0.16666666666666666
+pfxccat3,words,Words over a set / Subwords of concatenations / block-0,54,10,4,0,36,0,4,0.18518518518518517,0.07407407407407407,0.0,0.6666666666666666,0.0,0.07407407407407407
+swrdccat,words,Words over a set / Subwords of concatenations / block-0,75,10,7,0,46,2,10,0.13333333333333333,0.09333333333333334,0.0,0.6133333333333333,0.02666666666666667,0.13333333333333333
+pfxccatpfx1,words,Words over a set / Subwords of concatenations / block-0,17,2,1,0,11,0,3,0.11764705882352941,0.058823529411764705,0.0,0.6470588235294118,0.0,0.17647058823529413
+pfxccatpfx2,words,Words over a set / Subwords of concatenations / block-0,37,5,5,0,23,0,4,0.13513513513513514,0.13513513513513514,0.0,0.6216216216216216,0.0,0.10810810810810811
+pfxccat3a,words,Words over a set / Subwords of concatenations / block-0,41,7,3,0,30,0,1,0.17073170731707318,0.07317073170731707,0.0,0.7317073170731707,0.0,0.024390243902439025
+swrdccat3blem,words,Words over a set / Subwords of concatenations / block-0,70,5,7,0,49,0,9,0.07142857142857142,0.1,0.0,0.7,0.0,0.12857142857142856
+swrdccat3b,words,Words over a set / Subwords of concatenations / block-0,29,6,3,0,19,0,1,0.20689655172413793,0.10344827586206896,0.0,0.6551724137931034,0.0,0.034482758620689655
+ccats1pfxeqbi,words,Words over a set / Subwords of concatenations / block-0,18,4,0,0,10,0,4,0.2222222222222222,0.0,0.0,0.5555555555555556,0.0,0.2222222222222222
+swrdccatin1d,words,Words over a set / Subwords of concatenations / block-0,7,1,0,0,3,0,3,0.14285714285714285,0.0,0.0,0.42857142857142855,0.0,0.42857142857142855
+swrdccatin2d,words,Words over a set / Subwords of concatenations / block-0,20,6,0,0,9,0,5,0.3,0.0,0.0,0.45,0.0,0.25
+pfxccatin12d,words,Words over a set / Subwords of concatenations / block-0,11,1,0,0,7,0,3,0.09090909090909091,0.0,0.0,0.6363636363636364,0.0,0.2727272727272727
+reuccatpfxs1lem,words,Words over a set / Subwords of concatenations / block-0,30,5,0,0,18,0,7,0.16666666666666666,0.0,0.0,0.6,0.0,0.23333333333333334
+reuccatpfxs1,words,Words over a set / Subwords of concatenations / block-0,37,4,3,0,15,0,15,0.10810810810810811,0.08108108108108109,0.0,0.40540540540540543,0.0,0.40540540540540543
+reuccatpfxs1v,words,Words over a set / Subwords of concatenations / block-0,2,1,0,0,0,0,1,0.5,0.0,0.0,0.0,0.0,0.5
+splval,words,Words over a set / Splicing words (substring replacement) / block-0,19,3,4,0,9,0,3,0.15789473684210525,0.21052631578947367,0.0,0.47368421052631576,0.0,0.15789473684210525
+splcl,words,Words over a set / Splicing words (substring replacement) / block-0,22,4,2,0,14,0,2,0.18181818181818182,0.09090909090909091,0.0,0.6363636363636364,0.0,0.09090909090909091
+splid,words,Words over a set / Splicing words (substring replacement) / block-0,16,2,2,0,9,0,3,0.125,0.125,0.0,0.5625,0.0,0.1875
+spllen,words,Words over a set / Splicing words (substring replacement) / block-0,34,4,5,0,17,0,8,0.11764705882352941,0.14705882352941177,0.0,0.5,0.0,0.23529411764705882
+splfv1,words,Words over a set / Splicing words (substring replacement) / block-0,27,4,4,0,14,0,5,0.14814814814814814,0.14814814814814814,0.0,0.5185185185185185,0.0,0.18518518518518517
+splfv2a,words,Words over a set / Splicing words (substring replacement) / block-0,38,3,4,0,24,0,7,0.07894736842105263,0.10526315789473684,0.0,0.631578947368421,0.0,0.18421052631578946
+splval2,words,Words over a set / Splicing words (substring replacement) / block-0,35,4,5,0,20,0,6,0.11428571428571428,0.14285714285714285,0.0,0.5714285714285714,0.0,0.17142857142857143
+revval,words,Words over a set / Reversing words / block-0,12,4,0,0,8,0,0,0.3333333333333333,0.0,0.0,0.6666666666666666,0.0,0.0
+rev0,words,Words over a set / Reversing words / block-0,8,2,0,0,2,0,4,0.25,0.0,0.0,0.25,0.0,0.5
+revs1,words,Words over a set / Reversing words / block-0,23,8,2,0,7,0,6,0.34782608695652173,0.08695652173913043,0.0,0.30434782608695654,0.0,0.2608695652173913
+revccat,words,Words over a set / Reversing words / block-0,73,6,7,0,52,0,8,0.0821917808219178,0.0958904109589041,0.0,0.7123287671232876,0.0,0.1095890410958904
+revrev,words,Words over a set / Reversing words / block-0,32,5,1,0,21,0,5,0.15625,0.03125,0.0,0.65625,0.0,0.15625
+revpfxsfxrev,words,Words over a set / Reversing words / block-0,71,6,6,0,47,0,12,0.08450704225352113,0.08450704225352113,0.0,0.6619718309859155,0.0,0.16901408450704225
+reps,words,Words over a set / Repeated symbol words / block-0,13,3,1,0,6,0,3,0.23076923076923078,0.07692307692307693,0.0,0.46153846153846156,0.0,0.23076923076923078
+repsundef,words,Words over a set / Repeated symbol words / block-0,9,0,2,0,5,0,2,0.0,0.2222222222222222,0.0,0.5555555555555556,0.0,0.2222222222222222
+repsconst,words,Words over a set / Repeated symbol words / block-0,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+repsf,words,Words over a set / Repeated symbol words / block-0,9,3,0,0,2,0,4,0.3333333333333333,0.0,0.0,0.2222222222222222,0.0,0.4444444444444444
+repswsymb,words,Words over a set / Repeated symbol words / block-0,6,1,0,0,4,0,1,0.16666666666666666,0.0,0.0,0.6666666666666666,0.0,0.16666666666666666
+repsw,words,Words over a set / Repeated symbol words / block-0,3,2,0,0,1,0,0,0.6666666666666666,0.0,0.0,0.3333333333333333,0.0,0.0
+repswlen,words,Words over a set / Repeated symbol words / block-0,7,1,2,0,3,0,1,0.14285714285714285,0.2857142857142857,0.0,0.42857142857142855,0.0,0.14285714285714285
+repsw0,words,Words over a set / Repeated symbol words / block-0,7,0,0,0,5,0,2,0.0,0.0,0.0,0.7142857142857143,0.0,0.2857142857142857
+repsdf2,words,Words over a set / Repeated symbol words / block-0,33,7,0,0,20,0,6,0.21212121212121213,0.0,0.0,0.6060606060606061,0.0,0.18181818181818182
+repswsymball,words,Words over a set / Repeated symbol words / block-0,12,4,0,0,5,0,3,0.3333333333333333,0.0,0.0,0.4166666666666667,0.0,0.25
+repswsymballbi,words,Words over a set / Repeated symbol words / block-0,32,8,0,0,17,0,7,0.25,0.0,0.0,0.53125,0.0,0.21875
+repswfsts,words,Words over a set / Repeated symbol words / block-0,7,1,0,0,4,0,2,0.14285714285714285,0.0,0.0,0.5714285714285714,0.0,0.2857142857142857
+repswlsw,words,Words over a set / Repeated symbol words / block-0,14,2,0,0,5,0,7,0.14285714285714285,0.0,0.0,0.35714285714285715,0.0,0.5
+repsw1,words,Words over a set / Repeated symbol words / block-0,12,3,0,0,8,0,1,0.25,0.0,0.0,0.6666666666666666,0.0,0.08333333333333333
+repswswrd,words,Words over a set / Repeated symbol words / block-0,112,8,9,0,72,11,12,0.07142857142857142,0.08035714285714286,0.0,0.6428571428571429,0.09821428571428571,0.10714285714285714
+repswpfx,words,Words over a set / Repeated symbol words / block-0,32,4,1,0,20,0,7,0.125,0.03125,0.0,0.625,0.0,0.21875
+repswccat,words,Words over a set / Repeated symbol words / block-0,43,4,1,0,28,0,10,0.09302325581395349,0.023255813953488372,0.0,0.6511627906976745,0.0,0.23255813953488372
+repswrevw,words,Words over a set / Repeated symbol words / block-0,30,2,0,0,22,0,6,0.06666666666666667,0.0,0.0,0.7333333333333333,0.0,0.2
+cshfn,words,Words over a set / Cyclical shifts of words / block-0,13,3,0,0,10,0,0,0.23076923076923078,0.0,0.0,0.7692307692307693,0.0,0.0
+cshword,words,Words over a set / Cyclical shifts of words / block-0,22,5,0,0,16,0,1,0.22727272727272727,0.0,0.0,0.7272727272727273,0.0,0.045454545454545456
+cshnz,words,Words over a set / Cyclical shifts of words / block-0,9,0,2,0,7,0,0,0.0,0.2222222222222222,0.0,0.7777777777777778,0.0,0.0
+0csh0,words,Words over a set / Cyclical shifts of words / block-0,26,3,0,0,17,0,6,0.11538461538461539,0.0,0.0,0.6538461538461539,0.0,0.23076923076923078
+cshwmodn,words,Words over a set / Cyclical shifts of words / block-0,25,6,2,0,14,0,3,0.24,0.08,0.0,0.56,0.0,0.12
+cshwsublen,words,Words over a set / Cyclical shifts of words / block-0,27,6,2,0,16,0,3,0.2222222222222222,0.07407407407407407,0.0,0.5925925925925926,0.0,0.1111111111111111
+cshwf,words,Words over a set / Cyclical shifts of words / block-0,8,5,0,0,3,0,0,0.625,0.0,0.0,0.375,0.0,0.0
+cshwfn,words,Words over a set / Cyclical shifts of words / block-0,2,1,0,0,1,0,0,0.5,0.0,0.0,0.5,0.0,0.0
+cshwrn,words,Words over a set / Cyclical shifts of words / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+cshwidxmodr,words,Words over a set / Cyclical shifts of words / block-0,36,7,2,0,24,0,3,0.19444444444444445,0.05555555555555555,0.0,0.6666666666666666,0.0,0.08333333333333333
+cshwidx0mod,words,Words over a set / Cyclical shifts of words / block-0,13,1,0,0,10,0,2,0.07692307692307693,0.0,0.0,0.7692307692307693,0.0,0.15384615384615385
+cshwidxm1,words,Words over a set / Cyclical shifts of words / block-0,26,3,5,0,15,0,3,0.11538461538461539,0.19230769230769232,0.0,0.5769230769230769,0.0,0.11538461538461539
+cshwidxm,words,Words over a set / Cyclical shifts of words / block-0,19,3,4,0,11,0,1,0.15789473684210525,0.21052631578947367,0.0,0.5789473684210527,0.0,0.05263157894736842
+cshwidxn,words,Words over a set / Cyclical shifts of words / block-0,27,4,3,0,18,0,2,0.14814814814814814,0.1111111111111111,0.0,0.6666666666666666,0.0,0.07407407407407407
+cshf1,words,Words over a set / Cyclical shifts of words / block-0,57,11,3,0,24,10,9,0.19298245614035087,0.05263157894736842,0.0,0.42105263157894735,0.17543859649122806,0.15789473684210525
+repswcshw,words,Words over a set / Cyclical shifts of words / block-0,55,4,5,0,38,0,8,0.07272727272727272,0.09090909090909091,0.0,0.6909090909090909,0.0,0.14545454545454545
+2cshw,words,Words over a set / Cyclical shifts of words / block-0,57,5,5,0,36,0,11,0.08771929824561403,0.08771929824561403,0.0,0.631578947368421,0.0,0.19298245614035087
+2cshwcom,words,Words over a set / Cyclical shifts of words / block-0,8,1,0,0,6,0,1,0.125,0.0,0.0,0.75,0.0,0.125
+cshwleneq,words,Words over a set / Cyclical shifts of words / block-0,8,2,0,0,6,0,0,0.25,0.0,0.0,0.75,0.0,0.0
+3cshw,words,Words over a set / Cyclical shifts of words / block-0,14,3,0,0,7,0,4,0.21428571428571427,0.0,0.0,0.5,0.0,0.2857142857142857
+cshweqdif2,words,Words over a set / Cyclical shifts of words / block-0,27,7,1,0,16,0,3,0.25925925925925924,0.037037037037037035,0.0,0.5925925925925926,0.0,0.1111111111111111
+cshweqdifid,words,Words over a set / Cyclical shifts of words / block-0,6,2,0,0,4,0,0,0.3333333333333333,0.0,0.0,0.6666666666666666,0.0,0.0
+cshweqrep,words,Words over a set / Cyclical shifts of words / block-1,64,9,9,0,43,0,3,0.140625,0.140625,0.0,0.671875,0.0,0.046875
+cshw1,words,Words over a set / Cyclical shifts of words / block-1,61,7,3,0,43,0,8,0.11475409836065574,0.04918032786885246,0.0,0.7049180327868853,0.0,0.13114754098360656
+cshw1repsw,words,Words over a set / Cyclical shifts of words / block-1,5,2,0,0,2,0,1,0.4,0.0,0.0,0.4,0.0,0.2
+cshwsexa,words,Words over a set / Cyclical shifts of words / block-1,8,1,0,0,5,0,2,0.125,0.0,0.0,0.625,0.0,0.25
+cshimadifsn,words,Words over a set / Cyclical shifts of words / block-1,51,10,3,0,27,1,10,0.19607843137254902,0.058823529411764705,0.0,0.5294117647058824,0.0196078431372549,0.19607843137254902
+wrdco,words,Words over a set / Mapping words by a function / block-0,7,3,0,0,4,0,0,0.42857142857142855,0.0,0.0,0.5714285714285714,0.0,0.0
+lenco,words,Words over a set / Mapping words by a function / block-0,9,3,1,0,4,0,1,0.3333333333333333,0.1111111111111111,0.0,0.4444444444444444,0.0,0.1111111111111111
+s1co,words,Words over a set / Mapping words by a function / block-0,17,4,1,0,6,0,6,0.23529411764705882,0.058823529411764705,0.0,0.35294117647058826,0.0,0.35294117647058826
+revco,words,Words over a set / Mapping words by a function / block-0,33,3,0,0,23,0,7,0.09090909090909091,0.0,0.0,0.696969696969697,0.0,0.21212121212121213
+ccatco,words,Words over a set / Mapping words by a function / block-0,49,7,2,0,29,0,11,0.14285714285714285,0.04081632653061224,0.0,0.5918367346938775,0.0,0.22448979591836735
+cshco,words,Words over a set / Mapping words by a function / block-0,39,8,0,0,19,0,12,0.20512820512820512,0.0,0.0,0.48717948717948717,0.0,0.3076923076923077
+swrdco,words,Words over a set / Mapping words by a function / block-0,38,6,1,0,20,0,11,0.15789473684210525,0.02631578947368421,0.0,0.5263157894736842,0.0,0.2894736842105263
+pfxco,words,Words over a set / Mapping words by a function / block-0,18,3,1,0,11,0,3,0.16666666666666666,0.05555555555555555,0.0,0.6111111111111112,0.0,0.16666666666666666
+lswco,words,Words over a set / Mapping words by a function / block-0,22,3,0,0,12,0,7,0.13636363636363635,0.0,0.0,0.5454545454545454,0.0,0.3181818181818182
+repsco,words,Words over a set / Mapping words by a function / block-0,17,3,0,0,7,0,7,0.17647058823529413,0.0,0.0,0.4117647058823529,0.0,0.4117647058823529
+cats1cld,words,Words over a set / Longer string literals / block-0,4,1,0,0,0,0,3,0.25,0.0,0.0,0.0,0.0,0.75
+cats1co,words,Words over a set / Longer string literals / block-0,9,2,0,0,4,0,3,0.2222222222222222,0.0,0.0,0.4444444444444444,0.0,0.3333333333333333
+cats1cli,words,Words over a set / Longer string literals / block-0,4,2,0,0,0,0,2,0.5,0.0,0.0,0.0,0.0,0.5
+cats1fvn,words,Words over a set / Longer string literals / block-0,19,2,4,0,7,0,6,0.10526315789473684,0.21052631578947367,0.0,0.3684210526315789,0.0,0.3157894736842105
+cats1fv,words,Words over a set / Longer string literals / block-0,14,2,2,0,7,0,3,0.14285714285714285,0.14285714285714285,0.0,0.5,0.0,0.21428571428571427
+cats1len,words,Words over a set / Longer string literals / block-0,7,1,0,0,1,0,5,0.14285714285714285,0.0,0.0,0.14285714285714285,0.0,0.7142857142857143
+cats1cat,words,Words over a set / Longer string literals / block-0,7,2,0,0,1,0,4,0.2857142857142857,0.0,0.0,0.14285714285714285,0.0,0.5714285714285714
+cats2cat,words,Words over a set / Longer string literals / block-0,12,2,0,0,7,0,3,0.16666666666666666,0.0,0.0,0.5833333333333334,0.0,0.25
+s2eqd,words,Words over a set / Longer string literals / block-0,4,1,0,0,0,0,3,0.25,0.0,0.0,0.0,0.0,0.75
+s3eqd,words,Words over a set / Longer string literals / block-0,5,1,0,0,0,0,4,0.2,0.0,0.0,0.0,0.0,0.8
+s4eqd,words,Words over a set / Longer string literals / block-0,5,1,0,0,0,0,4,0.2,0.0,0.0,0.0,0.0,0.8
+s5eqd,words,Words over a set / Longer string literals / block-0,5,2,0,0,0,0,3,0.4,0.0,0.0,0.0,0.0,0.6
+s6eqd,words,Words over a set / Longer string literals / block-0,5,1,0,0,0,0,4,0.2,0.0,0.0,0.0,0.0,0.8
+s7eqd,words,Words over a set / Longer string literals / block-0,5,1,0,0,0,0,4,0.2,0.0,0.0,0.0,0.0,0.8
+s8eqd,words,Words over a set / Longer string literals / block-0,5,1,0,0,0,0,4,0.2,0.0,0.0,0.0,0.0,0.8
+s3cld,words,Words over a set / Longer string literals / block-0,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+s4cld,words,Words over a set / Longer string literals / block-0,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+s5cld,words,Words over a set / Longer string literals / block-0,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+s6cld,words,Words over a set / Longer string literals / block-0,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+s8cld,words,Words over a set / Longer string literals / block-0,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+s8cli,words,Words over a set / Longer string literals / block-1,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+s2dm,words,Words over a set / Longer string literals / block-1,10,2,0,0,4,0,4,0.2,0.0,0.0,0.4,0.0,0.4
+s2mapd,words,Words over a set / Longer string literals / block-1,7,4,1,0,1,0,1,0.5714285714285714,0.14285714285714285,0.0,0.14285714285714285,0.0,0.14285714285714285
+s5len,words,Words over a set / Longer string literals / block-1,5,2,1,0,0,0,2,0.4,0.2,0.0,0.0,0.0,0.4
+s6len,words,Words over a set / Longer string literals / block-1,5,2,1,0,0,0,2,0.4,0.2,0.0,0.0,0.0,0.4
+s7len,words,Words over a set / Longer string literals / block-1,5,3,1,0,0,0,1,0.6,0.2,0.0,0.0,0.0,0.2
+s8len,words,Words over a set / Longer string literals / block-1,5,2,1,0,0,0,2,0.4,0.2,0.0,0.0,0.0,0.4
+lsws2,words,Words over a set / Longer string literals / block-1,11,2,0,0,6,0,3,0.18181818181818182,0.0,0.0,0.5454545454545454,0.0,0.2727272727272727
+lsws3,words,Words over a set / Longer string literals / block-1,11,2,1,0,5,0,3,0.18181818181818182,0.09090909090909091,0.0,0.45454545454545453,0.0,0.2727272727272727
+s2dmALT,words,Words over a set / Longer string literals / block-1,4,1,0,0,3,0,0,0.25,0.0,0.0,0.75,0.0,0.0
+s3tpop,words,Words over a set / Longer string literals / block-1,15,3,0,0,7,0,5,0.2,0.0,0.0,0.4666666666666667,0.0,0.3333333333333333
+s4prop,words,Words over a set / Longer string literals / block-1,24,6,0,0,12,0,6,0.25,0.0,0.0,0.5,0.0,0.25
+s3fn,words,Words over a set / Longer string literals / block-2,9,1,0,0,5,0,3,0.1111111111111111,0.0,0.0,0.5555555555555556,0.0,0.3333333333333333
+s2f1o,words,Words over a set / Longer string literals / block-2,19,2,0,0,13,0,4,0.10526315789473684,0.0,0.0,0.6842105263157895,0.0,0.21052631578947367
+f1oun2prg,words,Words over a set / Longer string literals / block-2,47,5,0,0,29,0,13,0.10638297872340426,0.0,0.0,0.6170212765957447,0.0,0.2765957446808511
+s4dom,words,Words over a set / Longer string literals / block-2,12,5,0,0,5,0,2,0.4166666666666667,0.0,0.0,0.4166666666666667,0.0,0.16666666666666666
+s2co,words,Words over a set / Longer string literals / block-2,5,1,0,0,2,0,2,0.2,0.0,0.0,0.4,0.0,0.4
+s3co,words,Words over a set / Longer string literals / block-2,4,1,0,0,2,0,1,0.25,0.0,0.0,0.5,0.0,0.25
+s1s2,words,Words over a set / Longer string literals / block-2,4,2,0,0,0,0,2,0.5,0.0,0.0,0.0,0.0,0.5
+s1s3,words,Words over a set / Longer string literals / block-2,6,2,0,0,0,0,4,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+s1s4,words,Words over a set / Longer string literals / block-2,6,3,0,0,0,0,3,0.5,0.0,0.0,0.0,0.0,0.5
+s1s5,words,Words over a set / Longer string literals / block-2,6,2,0,0,0,0,4,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+s1s7,words,Words over a set / Longer string literals / block-2,6,3,0,0,0,0,3,0.5,0.0,0.0,0.0,0.0,0.5
+s2s2,words,Words over a set / Longer string literals / block-2,6,3,0,0,0,0,3,0.5,0.0,0.0,0.0,0.0,0.5
+s4s2,words,Words over a set / Longer string literals / block-2,6,2,0,0,0,0,4,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+s4s4,words,Words over a set / Longer string literals / block-2,6,2,0,0,0,0,4,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+s2eq2s1eq,words,Words over a set / Longer string literals / block-2,12,3,0,0,5,0,4,0.25,0.0,0.0,0.4166666666666667,0.0,0.3333333333333333
+s2eq2seq,words,Words over a set / Longer string literals / block-2,6,1,0,0,2,0,3,0.16666666666666666,0.0,0.0,0.3333333333333333,0.0,0.5
+s3eqs2s1eq,words,Words over a set / Longer string literals / block-2,14,3,0,0,7,0,4,0.21428571428571427,0.0,0.0,0.5,0.0,0.2857142857142857
+s3eq3seq,words,Words over a set / Longer string literals / block-2,10,3,0,0,2,0,5,0.3,0.0,0.0,0.2,0.0,0.5
+swrds2,words,Words over a set / Longer string literals / block-2,36,2,3,0,27,0,4,0.05555555555555555,0.08333333333333333,0.0,0.75,0.0,0.1111111111111111
+swrds2m,words,Words over a set / Longer string literals / block-2,29,4,4,0,20,0,1,0.13793103448275862,0.13793103448275862,0.0,0.6896551724137931,0.0,0.034482758620689655
+wrdlen2i,words,Words over a set / Longer string literals / block-2,42,5,1,0,23,0,13,0.11904761904761904,0.023809523809523808,0.0,0.5476190476190477,0.0,0.30952380952380953
+wrd2pr2op,words,Words over a set / Longer string literals / block-3,12,3,0,0,8,0,1,0.25,0.0,0.0,0.6666666666666666,0.0,0.08333333333333333
+wrdlen2,words,Words over a set / Longer string literals / block-3,8,4,0,0,3,0,1,0.5,0.0,0.0,0.375,0.0,0.125
+wrdl2exs2,words,Words over a set / Longer string literals / block-3,22,2,0,0,15,0,5,0.09090909090909091,0.0,0.0,0.6818181818181818,0.0,0.22727272727272727
+pfx2,words,Words over a set / Longer string literals / block-3,45,6,0,0,30,0,9,0.13333333333333333,0.0,0.0,0.6666666666666666,0.0,0.2
+wrd3tpop,words,Words over a set / Longer string literals / block-3,13,3,0,0,8,0,2,0.23076923076923078,0.0,0.0,0.6153846153846154,0.0,0.15384615384615385
+s3rex,words,Words over a set / Longer string literals / block-3,41,3,6,0,27,0,5,0.07317073170731707,0.14634146341463414,0.0,0.6585365853658537,0.0,0.12195121951219512
+s3rexrd,words,Words over a set / Longer string literals / block-3,7,3,1,0,1,0,2,0.42857142857142855,0.14285714285714285,0.0,0.14285714285714285,0.0,0.2857142857142857
+repsw2,words,Words over a set / Longer string literals / block-3,11,2,0,0,8,0,1,0.18181818181818182,0.0,0.0,0.7272727272727273,0.0,0.09090909090909091
+repsw3,words,Words over a set / Longer string literals / block-3,13,3,0,0,9,0,1,0.23076923076923078,0.0,0.0,0.6923076923076923,0.0,0.07692307692307693
+swrd2lsw,words,Words over a set / Longer string literals / block-3,52,5,1,0,43,0,3,0.09615384615384616,0.019230769230769232,0.0,0.8269230769230769,0.0,0.057692307692307696
+2swrd2eqwrdeq,words,Words over a set / Longer string literals / block-3,63,7,2,0,51,0,3,0.1111111111111111,0.031746031746031744,0.0,0.8095238095238095,0.0,0.047619047619047616
+ccatw2s1ccatws2,words,Words over a set / Longer string literals / block-3,6,2,0,0,3,0,1,0.3333333333333333,0.0,0.0,0.5,0.0,0.16666666666666666
+wwlktovf,words,Words over a set / Longer string literals / block-3,28,1,0,0,22,0,5,0.03571428571428571,0.0,0.0,0.7857142857142857,0.0,0.17857142857142858
+wwlktovf1,words,Words over a set / Longer string literals / block-3,38,5,0,0,25,0,8,0.13157894736842105,0.0,0.0,0.6578947368421053,0.0,0.21052631578947367
+wwlktovfo,words,Words over a set / Longer string literals / block-3,51,10,0,0,28,3,10,0.19607843137254902,0.0,0.0,0.5490196078431373,0.058823529411764705,0.19607843137254902
+wwlktovf1o,words,Words over a set / Longer string literals / block-3,5,3,0,0,1,0,1,0.6,0.0,0.0,0.2,0.0,0.2
+s2rn,words,Words over a set / Longer string literals / block-3,13,3,0,0,5,0,5,0.23076923076923078,0.0,0.0,0.38461538461538464,0.0,0.38461538461538464
+s3rn,words,Words over a set / Longer string literals / block-3,15,3,0,0,6,0,6,0.2,0.0,0.0,0.4,0.0,0.4
+s7rn,words,Words over a set / Longer string literals / block-3,15,4,0,0,9,0,2,0.26666666666666666,0.0,0.0,0.6,0.0,0.13333333333333333
+s7f1o,words,Words over a set / Longer string literals / block-3,36,5,4,0,21,0,6,0.1388888888888889,0.1111111111111111,0.0,0.5833333333333334,0.0,0.16666666666666666
+s3sndisj,words,Words over a set / Longer string literals / block-3,29,5,0,0,23,0,1,0.1724137931034483,0.0,0.0,0.7931034482758621,0.0,0.034482758620689655
+s3iunsndisj,words,Words over a set / Longer string literals / block-3,49,5,3,0,35,0,6,0.10204081632653061,0.061224489795918366,0.0,0.7142857142857143,0.0,0.12244897959183673
+ofccat,words,Words over a set / Longer string literals / block-3,46,5,10,0,24,0,7,0.10869565217391304,0.21739130434782608,0.0,0.5217391304347826,0.0,0.15217391304347827
+ofs1,words,Words over a set / Longer string literals / block-3,17,3,1,0,10,0,3,0.17647058823529413,0.058823529411764705,0.0,0.5882352941176471,0.0,0.17647058823529413
+ofs2,words,Words over a set / Longer string literals / block-3,17,2,0,0,11,0,4,0.11764705882352941,0.0,0.0,0.6470588235294118,0.0,0.23529411764705882
+trrelssd,relation_closure,Reflexive and transitive closures of relations / The reflexive and transitive properties of relations / block-0,2,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,1.0
+xpcogend,relation_closure,Reflexive and transitive closures of relations / The reflexive and transitive properties of relations / block-0,15,1,0,0,5,0,9,0.06666666666666667,0.0,0.0,0.3333333333333333,0.0,0.6
+xpcoidgend,relation_closure,Reflexive and transitive closures of relations / The reflexive and transitive properties of relations / block-0,3,1,1,0,1,0,0,0.3333333333333333,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0
+cotr2g,relation_closure,Reflexive and transitive closures of relations / The reflexive and transitive properties of relations / block-0,32,2,2,0,15,0,13,0.0625,0.0625,0.0,0.46875,0.0,0.40625
+cotr2,relation_closure,Reflexive and transitive closures of relations / The reflexive and transitive properties of relations / block-0,3,1,0,0,2,0,0,0.3333333333333333,0.0,0.0,0.6666666666666666,0.0,0.0
+cotr3,relation_closure,Reflexive and transitive closures of relations / The reflexive and transitive properties of relations / block-0,4,1,0,0,2,0,1,0.25,0.0,0.0,0.5,0.0,0.25
+coemptyd,relation_closure,Reflexive and transitive closures of relations / The reflexive and transitive properties of relations / block-0,2,1,0,0,0,0,1,0.5,0.0,0.0,0.0,0.0,0.5
+xptrrel,relation_closure,Reflexive and transitive closures of relations / The reflexive and transitive properties of relations / block-0,17,1,0,0,7,0,9,0.058823529411764705,0.0,0.0,0.4117647058823529,0.0,0.5294117647058824
+0trrel,relation_closure,Reflexive and transitive closures of relations / The reflexive and transitive properties of relations / block-0,2,0,0,0,1,0,1,0.0,0.0,0.0,0.5,0.0,0.5
+cleq1lem,relation_closure,Reflexive and transitive closures of relations / Basic properties of closures / block-0,2,0,0,0,1,0,1,0.0,0.0,0.0,0.5,0.0,0.5
+cleq1,relation_closure,Reflexive and transitive closures of relations / Basic properties of closures / block-0,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+clsslem,relation_closure,Reflexive and transitive closures of relations / Basic properties of closures / block-0,5,1,1,0,1,0,2,0.2,0.2,0.0,0.2,0.0,0.4
+trcleq2lem,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,5,0,0,0,1,0,4,0.0,0.0,0.0,0.2,0.0,0.8
+cvbtrcl,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,2,0,0,0,1,0,1,0.0,0.0,0.0,0.5,0.0,0.5
+trcleq12lem,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,3,2,0,0,0,0,1,0.6666666666666666,0.0,0.0,0.0,0.0,0.3333333333333333
+trclexlem,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,5,0,1,0,1,0,3,0.0,0.2,0.0,0.2,0.0,0.6
+trclublem,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,33,5,1,0,17,0,10,0.15151515151515152,0.030303030303030304,0.0,0.5151515151515151,0.0,0.30303030303030304
+trclubi,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,7,2,2,0,1,0,2,0.2857142857142857,0.2857142857142857,0.0,0.14285714285714285,0.0,0.2857142857142857
+trclubgi,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,3,1,1,0,1,0,0,0.3333333333333333,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0
+trclub,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,9,2,1,0,3,0,3,0.2222222222222222,0.1111111111111111,0.0,0.3333333333333333,0.0,0.3333333333333333
+trclubg,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,3,2,1,0,0,0,0,0.6666666666666666,0.3333333333333333,0.0,0.0,0.0,0.0
+trclfv,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,8,3,1,0,3,0,1,0.375,0.125,0.0,0.375,0.0,0.125
+brintclab,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,4,3,1,0,0,0,0,0.75,0.25,0.0,0.0,0.0,0.0
+brtrclfv,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,8,1,0,0,2,0,5,0.125,0.0,0.0,0.25,0.0,0.625
+brcnvtrclfv,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,5,1,0,0,2,0,2,0.2,0.0,0.0,0.4,0.0,0.4
+brtrclfvcnv,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,3,2,0,0,1,0,0,0.6666666666666666,0.0,0.0,0.3333333333333333,0.0,0.0
+brcnvtrclfvcnv,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,3,1,0,0,2,0,0,0.3333333333333333,0.0,0.0,0.6666666666666666,0.0,0.0
+trclfvss,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,6,0,0,0,6,0,0,0.0,0.0,0.0,1.0,0.0,0.0
+trclfvub,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,3,0,0,0,2,0,1,0.0,0.0,0.0,0.6666666666666666,0.0,0.3333333333333333
+trclfvlb,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,3,0,1,0,0,0,2,0.0,0.3333333333333333,0.0,0.0,0.0,0.6666666666666666
+trclfvcotr,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,20,1,1,0,8,0,10,0.05,0.05,0.0,0.4,0.0,0.5
+trclfvlb2,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,3,2,0,0,0,0,1,0.6666666666666666,0.0,0.0,0.0,0.0,0.3333333333333333
+trclfvlb3,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,3,2,0,0,0,0,1,0.6666666666666666,0.0,0.0,0.0,0.0,0.3333333333333333
+cotrtrclfv,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,13,2,1,0,5,0,5,0.15384615384615385,0.07692307692307693,0.0,0.38461538461538464,0.0,0.38461538461538464
+trclidm,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,4,2,0,0,1,0,1,0.5,0.0,0.0,0.25,0.0,0.25
+trclun,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,31,1,2,0,17,0,11,0.03225806451612903,0.06451612903225806,0.0,0.5483870967741935,0.0,0.3548387096774194
+trclfvg,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,5,1,0,0,0,0,4,0.2,0.0,0.0,0.0,0.0,0.8
+trclfvcotrg,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,9,3,0,0,4,0,2,0.3333333333333333,0.0,0.0,0.4444444444444444,0.0,0.2222222222222222
+reltrclfv,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,12,2,0,0,6,0,4,0.16666666666666666,0.0,0.0,0.5,0.0,0.3333333333333333
+dmtrclfv,relation_closure,Reflexive and transitive closures of relations / Definitions and basic properties of transitive closures / block-0,23,2,0,0,13,0,8,0.08695652173913043,0.0,0.0,0.5652173913043478,0.0,0.34782608695652173
+reldmrelexp,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,2,1,0,0,1,0,0,0.5,0.0,0.0,0.5,0.0,0.0
+relexp0g,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,25,5,1,0,14,0,5,0.2,0.04,0.0,0.56,0.0,0.2
+relexp0,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,5,2,0,0,2,0,1,0.4,0.0,0.0,0.4,0.0,0.2
+relexp0d,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+relexpsucnnr,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,66,7,7,0,43,0,9,0.10606060606060606,0.10606060606060606,0.0,0.6515151515151515,0.0,0.13636363636363635
+relexp1g,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,23,2,2,0,14,0,5,0.08695652173913043,0.08695652173913043,0.0,0.6086956521739131,0.0,0.21739130434782608
+dfid5,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,4,0,1,0,1,0,2,0.0,0.25,0.0,0.25,0.0,0.5
+dfid6,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,8,1,1,0,5,0,1,0.125,0.125,0.0,0.625,0.0,0.125
+relexp1d,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+relexpsucnnl,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,26,2,2,0,8,0,14,0.07692307692307693,0.07692307692307693,0.0,0.3076923076923077,0.0,0.5384615384615384
+relexpsucl,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,22,3,2,0,10,0,7,0.13636363636363635,0.09090909090909091,0.0,0.45454545454545453,0.0,0.3181818181818182
+relexpsucr,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,23,2,2,0,11,0,8,0.08695652173913043,0.08695652173913043,0.0,0.4782608695652174,0.0,0.34782608695652173
+relexpsucrd,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,12,4,1,0,4,0,3,0.3333333333333333,0.08333333333333333,0.0,0.3333333333333333,0.0,0.25
+relexpsucld,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,12,3,1,0,5,0,3,0.25,0.08333333333333333,0.0,0.4166666666666667,0.0,0.25
+relexpcnv,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,40,6,2,0,25,0,7,0.15,0.05,0.0,0.625,0.0,0.175
+relexpcnvd,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,2,2,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+relexp0rel,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,4,0,0,0,1,0,3,0.0,0.0,0.0,0.25,0.0,0.75
+relexprelg,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,27,7,2,0,14,0,4,0.25925925925925924,0.07407407407407407,0.0,0.5185185185185185,0.0,0.14814814814814814
+relexprel,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,3,1,0,0,2,0,0,0.3333333333333333,0.0,0.0,0.6666666666666666,0.0,0.0
+relexpreld,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,11,2,1,0,6,0,2,0.18181818181818182,0.09090909090909091,0.0,0.5454545454545454,0.0,0.18181818181818182
+relexpnndm,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,16,1,1,0,5,0,9,0.0625,0.0625,0.0,0.3125,0.0,0.5625
+relexpdmg,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,18,4,1,0,6,0,7,0.2222222222222222,0.05555555555555555,0.0,0.3333333333333333,0.0,0.3888888888888889
+relexpdm,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+relexpdmd,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,11,2,1,0,5,0,3,0.18181818181818182,0.09090909090909091,0.0,0.45454545454545453,0.0,0.2727272727272727
+relexpnnrn,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,11,3,0,0,5,0,3,0.2727272727272727,0.0,0.0,0.45454545454545453,0.0,0.2727272727272727
+relexprng,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,18,2,1,0,6,0,9,0.1111111111111111,0.05555555555555555,0.0,0.3333333333333333,0.0,0.5
+relexprn,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,3,1,0,0,0,0,2,0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666
+relexprnd,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,11,2,1,0,5,0,3,0.18181818181818182,0.09090909090909091,0.0,0.45454545454545453,0.0,0.2727272727272727
+relexpfld,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,38,6,1,0,22,0,9,0.15789473684210525,0.02631578947368421,0.0,0.5789473684210527,0.0,0.23684210526315788
+relexpfldd,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,11,3,1,0,4,0,3,0.2727272727272727,0.09090909090909091,0.0,0.36363636363636365,0.0,0.2727272727272727
+relexpaddnn,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-0,31,2,2,0,17,0,10,0.06451612903225806,0.06451612903225806,0.0,0.5483870967741935,0.0,0.3225806451612903
+relexpuzrel,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-1,9,1,2,0,5,0,1,0.1111111111111111,0.2222222222222222,0.0,0.5555555555555556,0.0,0.1111111111111111
+relexpaddg,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-1,73,5,6,0,53,0,9,0.0684931506849315,0.0821917808219178,0.0,0.726027397260274,0.0,0.1232876712328767
+relexpaddd,relation_closure,Reflexive and transitive closures of relations / Exponentiation of relations / block-1,12,2,1,0,6,0,3,0.16666666666666666,0.08333333333333333,0.0,0.5,0.0,0.25
+rtrclreclem1,relation_closure,Reflexive and transitive closures of relations / Reflexive-transitive closure as an indexed union / block-0,25,3,3,0,12,0,7,0.12,0.12,0.0,0.48,0.0,0.28
+dfrtrclrec2,relation_closure,Reflexive and transitive closures of relations / Reflexive-transitive closure as an indexed union / block-0,31,2,3,0,19,0,7,0.06451612903225806,0.0967741935483871,0.0,0.6129032258064516,0.0,0.22580645161290322
+rtrclreclem2,relation_closure,Reflexive and transitive closures of relations / Reflexive-transitive closure as an indexed union / block-0,25,3,3,0,15,0,4,0.12,0.12,0.0,0.6,0.0,0.16
+rtrclreclem3,relation_closure,Reflexive and transitive closures of relations / Reflexive-transitive closure as an indexed union / block-0,51,4,0,0,36,0,11,0.0784313725490196,0.0,0.0,0.7058823529411765,0.0,0.21568627450980393
+rtrclreclem4,relation_closure,Reflexive and transitive closures of relations / Reflexive-transitive closure as an indexed union / block-0,57,6,2,0,41,0,8,0.10526315789473684,0.03508771929824561,0.0,0.7192982456140351,0.0,0.14035087719298245
+dfrtrcl2,relation_closure,Reflexive and transitive closures of relations / Reflexive-transitive closure as an indexed union / block-0,55,9,3,0,29,3,11,0.16363636363636364,0.05454545454545454,0.0,0.5272727272727272,0.05454545454545454,0.2
+relexpindlem,relation_closure,Reflexive and transitive closures of relations / Principle of transitive induction / block-0,76,8,4,0,39,13,12,0.10526315789473684,0.05263157894736842,0.0,0.5131578947368421,0.17105263157894737,0.15789473684210525
+relexpind,relation_closure,Reflexive and transitive closures of relations / Principle of transitive induction / block-0,9,2,1,0,3,0,3,0.2222222222222222,0.1111111111111111,0.0,0.3333333333333333,0.0,0.3333333333333333
+rtrclind,relation_closure,Reflexive and transitive closures of relations / Principle of transitive induction / block-0,15,1,0,0,10,0,4,0.06666666666666667,0.0,0.0,0.6666666666666666,0.0,0.26666666666666666

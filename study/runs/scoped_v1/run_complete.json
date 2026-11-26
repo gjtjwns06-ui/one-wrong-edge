@@ -1,0 +1,9 @@
+{
+  "seconds": 227.73024760000408,
+  "model_fit_seconds": 3.470391100010602,
+  "training_cases": 4626,
+  "validation_cases": 1608,
+  "test_cases": 3969,
+  "result_rows": 154791,
+  "selection_sha256": "9066c3f36d8ce332f69a5ad946ed30b7c8b62ad88bfa5c74237887e355b6cc06"
+}

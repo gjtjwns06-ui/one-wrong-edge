@@ -1,0 +1,36 @@
+{
+  "queries": 567,
+  "source_blocks": 25,
+  "zero_traversal_queries": 188,
+  "zero_gold_seed_queries": 263,
+  "zero_hits_queries": 161,
+  "no_more_than_20_candidate_queries": 305,
+  "seed_types_all": {
+    "heldout_proof_hidden": 1108,
+    "expandable": 846,
+    "boundary_terminal": 279,
+    "intrinsic_terminal": 35
+  },
+  "seed_types_zero_traversal": {
+    "heldout_proof_hidden": 543,
+    "boundary_terminal": 191,
+    "intrinsic_terminal": 18
+  },
+  "zero_traversal_category_combinations": {
+    "heldout_proof_hidden": 97,
+    "boundary_terminal+heldout_proof_hidden": 60,
+    "boundary_terminal": 15,
+    "heldout_proof_hidden+intrinsic_terminal": 10,
+    "boundary_terminal+heldout_proof_hidden+intrinsic_terminal": 4,
+    "boundary_terminal+intrinsic_terminal": 2
+  },
+  "background_vocabulary_dimensions": 2314,
+  "invariants": {
+    "saved_baselines_match": true,
+    "first_four_results_are_fixed_seeds": true,
+    "seeds20_top20_equals_global_lexical": true,
+    "deletion_cannot_improve_underfilled_candidates": true,
+    "no_future_or_same_signature_nodes_in_diagnostic_results": true
+  },
+  "seconds": 23.82980460001272
+}

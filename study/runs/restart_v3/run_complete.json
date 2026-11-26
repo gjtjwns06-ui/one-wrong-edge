@@ -1,0 +1,9 @@
+{
+  "test_queries": 582,
+  "conditions": 8,
+  "methods": 12,
+  "measurement_rows": 167616,
+  "test_seconds": 683.8636138000002,
+  "test_previously_indexed_signature_count": 0,
+  "all_selections_locked_before_test": true
+}

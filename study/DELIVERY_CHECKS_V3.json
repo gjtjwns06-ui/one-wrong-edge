@@ -1,0 +1,75 @@
+{
+  "protocol": "restart-v3",
+  "prior_delivery_files_unchanged": 186,
+  "prior_manifest_included": "ARTIFACTS_V2.json",
+  "prior_manifest_sha256": "ed7e25745448e90909aabf4d29ddad0b6972cb730f4a50ea48a18b28c6b34ee2",
+  "frozen_model_code_config_and_selection_hashes_valid": 21,
+  "complete_data_input_and_output_hashes_valid": true,
+  "full_independent_audit": {
+    "all_passed": true,
+    "old_files_unchanged": 186,
+    "data_checks": {
+      "queries": {
+        "rank_train": 2306,
+        "policy_train": 735,
+        "validation": 639,
+        "test": 582
+      },
+      "fresh_test_signatures_absent_all_prior_index_nodes": 582,
+      "split_group_and_signature_disjoint": true,
+      "hidden_sources": 2205,
+      "reference_edges_checked": 29862,
+      "public_boundary_provenance_records_checked": 2223,
+      "full_gold_and_unindexed_denominators_verified": true,
+      "unindexed_gold_counts": {
+        "rank_train": 0,
+        "policy_train": 286,
+        "validation": 197,
+        "test": 597
+      },
+      "fresh_raw_verification_receipt_present": true
+    },
+    "audit_scope": "full_experiment",
+    "audit_script_sha256": "3ab208117d0d4dcdc7a3ef24fb44ab0cda808aaf126e5553e63037102b385082",
+    "experiment_checks": {
+      "all_frozen_file_hashes_valid": 21,
+      "fresh_idf_fit_reconstructed_without_heldout_nodes": 4661,
+      "global_graph_contexts_checked": 12,
+      "rank_policy_training_queries_disjoint": true,
+      "rank_training_queries": 2306,
+      "policy_training_queries": 735,
+      "policy_effect_targets_and_features_reconstructed": 52217,
+      "text_ranker_excludes_graph_columns": true,
+      "all_metric_rows_independently_recalculated": 167616,
+      "candidate_and_output_eligibility_checked_for_all_saved_rankings": true,
+      "inference_query_contains_only_qid_node_signature": true,
+      "future_edge_prefix_invariance_checks": 48,
+      "single_deletion_materialized_replays": 132,
+      "production_policy_and_materialized_replays": 96,
+      "policy_replays_with_nonempty_actions": 33,
+      "timing_sample_policy_rows": 96,
+      "timing_note": "Already indexed formal queries and loaded models; pairwise-feature caches may be warm; model/index loading and offline intervention labels excluded."
+    },
+    "audit_seconds": 56.84860299999855
+  },
+  "analysis_checks": {
+    "unique_query_condition_method_budget": true,
+    "all_output_caps_respected": true,
+    "finite_metrics": true,
+    "metrics_in_unit_interval": true,
+    "action_rate_bounded_by_mean_deletions": true,
+    "wrong_deletions_bounded_by_all_deletions": true,
+    "fresh_test_signature_overlap_zero": true,
+    "clean_gold_mass_accounting_sums_to_one": true,
+    "single_oracle_nonnegative_at20": true,
+    "stored_deltas_match_paired_recall": true,
+    "utility_matched_action_counts_equal": true,
+    "wrongness_matched_action_counts_equal": true,
+    "source_verification_restores_clean_for_additions": true
+  },
+  "measurement_rows_verified": 167616,
+  "local_document_links_validated": 24,
+  "raw_set_mm_and_reparsed_frames_included": true,
+  "old_archives_excluded": true,
+  "archive_validation": "The packager tests ZIP CRCs and its exact entry set before printing the final receipt."
+}

@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.artifacts/
+*.zip
+*.tmp
+study/data/processed/
+study/data/raw/*.mm
+study/runs/**/*.pkl
+study/runs/**/*.gz
+study/runs/**/results.csv
+study/runs/**/test_*.csv
+study/runs/**/stage2_validation.csv
+study/runs/**/stage3_validation_grid.json
+study/runs/**/ranker_training_cases.csv
+study/runs/**/oof*_ranker_training_cases.csv

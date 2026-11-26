@@ -1,0 +1,9 @@
+{
+  "all_passed": true,
+  "original_files_unchanged": 70,
+  "OOF_fold_audits_passed": 3,
+  "single_deletion_materialized_replays": 126,
+  "production_inference_and_materialized_policy_replays": 210,
+  "timing_queries": 42,
+  "timing_note": "stored formal-query vectors; excludes index/model loading and all offline intervention-label calculations"
+}

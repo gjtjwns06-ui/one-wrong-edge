@@ -1,0 +1,10 @@
+{
+  "test_queries": 567,
+  "test_blocks": 25,
+  "finite_metrics": true,
+  "recall_in_unit_interval": true,
+  "oracle_never_worse_at_primary_budget": true,
+  "all_output_caps_respected": true,
+  "lexical_is_invariant_to_graph_noise": true,
+  "additive_source_verification_matches_clean": true
+}

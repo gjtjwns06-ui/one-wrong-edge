@@ -1,0 +1,28 @@
+{
+  "original_files_unchanged": 70,
+  "frozen_prediction_code_and_selection_hashes_valid": true,
+  "protocol_config_dataset_hashes_valid": true,
+  "local_document_links_validated": 24,
+  "measurement_rows_verified": 226233,
+  "analysis_checks": {
+    "test_queries": 567,
+    "blocks": 25,
+    "all_output_caps_respected": true,
+    "finite_scores": true,
+    "lexical_and_stage1_text_identical": true,
+    "source_filter_restores_clean_for_additions": true,
+    "action_rate_within_mean_deletion_bound": true,
+    "single_oracle_never_worse_at20": true
+  },
+  "independent_materialized_replays": {
+    "all_passed": true,
+    "original_files_unchanged": 70,
+    "OOF_fold_audits_passed": 3,
+    "single_deletion_materialized_replays": 126,
+    "production_inference_and_materialized_policy_replays": 210,
+    "timing_queries": 42,
+    "timing_note": "stored formal-query vectors; excludes index/model loading and all offline intervention-label calculations"
+  },
+  "automated_tests_passed_during_completed_execution": 14,
+  "test_reuse_is_exploratory": true
+}

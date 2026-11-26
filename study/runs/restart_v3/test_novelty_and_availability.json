@@ -1,0 +1,18 @@
+{
+  "test_queries": 582,
+  "test_blocks": 38,
+  "test_topics": {
+    "words": 282,
+    "equivalence_relations": 121,
+    "relation_closure": 83,
+    "relations_functions_cont": 70,
+    "orderings": 26
+  },
+  "old_index_signature_overlaps": 0,
+  "gold_count": 9752,
+  "indexed_gold_count": 9155,
+  "mean_indexed_gold_fraction": 0.9491088079849769,
+  "questions_with_unindexed_gold": 247,
+  "questions_with_gold_over20": 153,
+  "availability_note": "Use manifest/index construction notes to distinguish fixed-index availability from a transductive proof-informed corpus."
+}

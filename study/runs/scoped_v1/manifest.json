@@ -1,0 +1,63 @@
+{
+  "protocol_lock": {
+    "protocol": "scoped-v1",
+    "python": "3.13.5",
+    "hashes": {
+      "configs\\scoped_v1.json": "d8a1a162dad8c56a617ea63468debdbc5072c422540621c9ef9972aa8e3921e2",
+      "RESEARCH_DESIGN.md": "a5861adc540ff9d8dd5c99802a51164a38cbbdfa3331fbda762d70eda8d0d4bb",
+      "data\\processed\\scoped\\nodes.jsonl": "cc1cb68a694c2a7a57ffbd451017eb434d14284d8824a1c0fc9245bf53718a92",
+      "data\\processed\\scoped\\queries_and_gold.jsonl": "7141d18c863030150b2c40b8e74d27b95ad473fdad0b667234b2817d5f72f23a",
+      "data\\processed\\scoped\\reference_edges.csv": "7a2ea3e16ccb969c377ac9477cac101a4ea356dd82c9927e726cb9aabb7ba4ed"
+    }
+  },
+  "python": "3.13.5",
+  "numpy": "2.2.2",
+  "scipy": "1.15.3",
+  "sklearn": "1.8.0",
+  "feature_names": [
+    "q_source_similarity",
+    "q_target_similarity",
+    "q_similarity_difference",
+    "endpoint_similarity",
+    "log_source_outdegree",
+    "log_target_outdegree",
+    "log_historical_target_indegree",
+    "source_query_depth",
+    "target_query_depth",
+    "target_is_seed",
+    "log_query_first_parents",
+    "log_query_path_support",
+    "source_hypothesis_count",
+    "target_hypothesis_count",
+    "log_source_tokens",
+    "log_target_tokens",
+    "same_source_section",
+    "source_is_boundary",
+    "target_is_boundary",
+    "log_source_order_gap"
+  ],
+  "edge_only_columns": [
+    3,
+    4,
+    5,
+    6,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "code_sha256": {
+    "owe\\acquire.py": "ea3360fbbcbc29690bfb9292deb32377d9b2e1650cafb95aab70bb320e720279",
+    "owe\\experiment.py": "fe4ae4591da3662e851d5e33796cdffc8b3c501409006f8e6b588e7d72159469",
+    "owe\\metamath.py": "759558533bf53aa0c037287b9854fc6c3e015a87ac60d04de9dc22a8cb029246",
+    "owe\\prepare.py": "d3f820923c876770987632c017f3e2aad4a4105de12a5522142506e29ced4199",
+    "owe\\retrieval.py": "543819d953869d57dbb4d7c5030fc8e0ff3c7ae52df9dcd5821870d7d5783ae7",
+    "owe\\__init__.py": "700d21c99dd8e5d8a40aef7ee1651a2011b43c68e7cf572658aa7caeb09b54bd"
+  },
+  "source_commit": "7d1aa054166171211aa5c3f5e497024031bdbd27",
+  "test_used_for_selection": false
+}

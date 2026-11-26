@@ -1,0 +1,31 @@
+{
+  "version": "sequential-v2",
+  "source_run": "runs/scoped_v1",
+  "dataset": "data/processed/scoped/dataset.pkl",
+  "training_conditions": ["clean", "random20_s17"],
+  "candidate_cap": 256,
+  "transition_budget": 2048,
+  "candidate_variants": [
+    {"name": "hybrid64_h1", "lexical": 64, "prior": 32, "seed_pool": 128, "expandable_seeds": 16, "lexical_seeds": 8, "hops": 1},
+    {"name": "hybrid64_h2", "lexical": 64, "prior": 32, "seed_pool": 128, "expandable_seeds": 16, "lexical_seeds": 8, "hops": 2},
+    {"name": "hybrid128_h2", "lexical": 128, "prior": 16, "seed_pool": 128, "expandable_seeds": 16, "lexical_seeds": 8, "hops": 2}
+  ],
+  "ranker_negative_top": 32,
+  "ranker_negative_random": 32,
+  "ranker_boost_iterations": 180,
+  "ranker_boost_leaf_nodes": [15, 31],
+  "ranker_logistic_C": [0.1, 1.0],
+  "utility_candidate_cap": 24,
+  "utility_boost_iterations": 140,
+  "utility_boost_leaf_nodes": 15,
+  "utility_ridge_alpha": [1.0, 10.0],
+  "utility_thresholds": [0.0, 0.002, 0.005, 0.01, 0.02, 0.05, 0.1, 1.0],
+  "wrongness_thresholds": [0.5, 0.7, 0.9, 1.01],
+  "deletion_budgets": [1, 3],
+  "oof_folds": 3,
+  "random_seed": 20261123,
+  "bootstrap_repetitions": 2000,
+  "bootstrap_seed": 811,
+  "output_budgets": [10, 20, 40],
+  "primary_budget": 20
+}

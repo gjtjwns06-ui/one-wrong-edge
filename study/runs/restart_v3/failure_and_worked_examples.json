@@ -1,0 +1,244 @@
+[
+  {
+    "kind": "base_improvement",
+    "qid": "cnvex",
+    "topic": "relations_functions_cont",
+    "condition": "clean",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L78891",
+    "gold_count": 2,
+    "old_recall20": 0.0,
+    "new_recall20": 1.0,
+    "delta_recall20": 1.0,
+    "lost_gold": [],
+    "gained_gold": [
+      "ax-mp",
+      "cnvexg"
+    ]
+  },
+  {
+    "kind": "base_improvement",
+    "qid": "coex",
+    "topic": "relations_functions_cont",
+    "condition": "clean",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L78931",
+    "gold_count": 2,
+    "old_recall20": 0.0,
+    "new_recall20": 1.0,
+    "delta_recall20": 1.0,
+    "lost_gold": [],
+    "gained_gold": [
+      "mp2an",
+      "coexg"
+    ]
+  },
+  {
+    "kind": "base_improvement",
+    "qid": "coexd",
+    "topic": "relations_functions_cont",
+    "condition": "clean",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L78940",
+    "gold_count": 2,
+    "old_recall20": 0.0,
+    "new_recall20": 1.0,
+    "delta_recall20": 1.0,
+    "lost_gold": [],
+    "gained_gold": [
+      "syl2anc",
+      "coexg"
+    ]
+  },
+  {
+    "kind": "base_regression",
+    "qid": "ab2rexex",
+    "topic": "relations_functions_cont",
+    "condition": "clean",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L79645",
+    "gold_count": 2,
+    "old_recall20": 1.0,
+    "new_recall20": 0.0,
+    "delta_recall20": -1.0,
+    "lost_gold": [
+      "abrexex",
+      "abrexex2"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "base_regression",
+    "qid": "issod",
+    "topic": "orderings",
+    "condition": "clean",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L54153",
+    "gold_count": 3,
+    "old_recall20": 0.6666666666666666,
+    "new_recall20": 0.0,
+    "delta_recall20": -0.6666666666666666,
+    "lost_gold": [
+      "ralrimivva",
+      "df-so"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "base_regression",
+    "qid": "errel",
+    "topic": "equivalence_relations",
+    "condition": "clean",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L91125",
+    "gold_count": 2,
+    "old_recall20": 0.5,
+    "new_recall20": 0.0,
+    "delta_recall20": -0.5,
+    "lost_gold": [
+      "df-er"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "policy_harm",
+    "qid": "ercl",
+    "topic": "equivalence_relations",
+    "condition": "missing20_s431",
+    "policy": "utility",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L91140",
+    "gold_count": 6,
+    "delta_recall20": -0.1666666666666666,
+    "actions": [
+      {
+        "source": "sstrd",
+        "target": "syl2anc",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "errel"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "policy_harm",
+    "qid": "elfzelfzccat",
+    "topic": "words",
+    "condition": "mixed20_s433",
+    "policy": "wrongness",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L164423",
+    "gold_count": 7,
+    "delta_recall20": -0.1428571428571428,
+    "actions": [
+      {
+        "source": "fvco2",
+        "target": "eleq2d",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "eleq2d"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "policy_harm",
+    "qid": "snecg",
+    "topic": "equivalence_relations",
+    "condition": "missing20_s431",
+    "policy": "utility",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L91806",
+    "gold_count": 8,
+    "delta_recall20": -0.125,
+    "actions": [
+      {
+        "source": "sneq",
+        "target": "abbidv",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "abbidv"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "policy_harm",
+    "qid": "uniqs2",
+    "topic": "equivalence_relations",
+    "condition": "clean",
+    "policy": "wrongness",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L91796",
+    "gold_count": 9,
+    "delta_recall20": -0.1111111111111111,
+    "actions": [
+      {
+        "source": "fveq12d",
+        "target": "eqtrd",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "eqtrd"
+    ],
+    "gained_gold": []
+  },
+  {
+    "kind": "policy_gain",
+    "qid": "soeq2",
+    "topic": "orderings",
+    "condition": "hard20_s421",
+    "policy": "utility",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L54032",
+    "gold_count": 6,
+    "delta_recall20": 0.1666666666666666,
+    "actions": [
+      {
+        "source": "sseq12d",
+        "target": "bitrd",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [],
+    "gained_gold": [
+      "eqss"
+    ]
+  },
+  {
+    "kind": "policy_gain",
+    "qid": "relelec",
+    "topic": "equivalence_relations",
+    "condition": "mixed20_s433",
+    "policy": "utility",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L91501",
+    "gold_count": 8,
+    "delta_recall20": 0.125,
+    "actions": [
+      {
+        "source": "relbrcnvg",
+        "target": "a1i",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [],
+    "gained_gold": [
+      "adantl"
+    ]
+  },
+  {
+    "kind": "policy_gain",
+    "qid": "lenco",
+    "topic": "words",
+    "condition": "hard20_s421",
+    "policy": "utility",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L168814",
+    "gold_count": 9,
+    "delta_recall20": 0.1111111111111111,
+    "actions": [
+      {
+        "source": "ffvelcdmi",
+        "target": "mpan",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [],
+    "gained_gold": [
+      "syl2anc"
+    ]
+  }
+]

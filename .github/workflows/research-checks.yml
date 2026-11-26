@@ -1,0 +1,30 @@
+name: Research checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  publication-and-unit-tests:
+    name: Publication integrity and lightweight tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the research publication
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Set up Python
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.13'
+          cache: pip
+          cache-dependency-path: study/requirements*.txt
+      - name: Check publication and result provenance
+        run: python scripts/check_publication.py
+      - name: Install the pinned research dependencies
+        run: python -m pip install -r study/requirements_v2.txt
+      - name: Run data-independent research tests
+        working-directory: study
+        run: python -m pytest -q tests

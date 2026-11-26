@@ -1,0 +1,58 @@
+[
+  {
+    "condition": "clean",
+    "nodes": 6616,
+    "edges": 27946,
+    "changes": 0,
+    "actual_rate": 0.0,
+    "edge_sha256": "d7bcb0e3a9b3759db849f000409f0402b6ae77014adbc6a838c91a5ec07d17d8"
+  },
+  {
+    "condition": "random05_s17",
+    "nodes": 6616,
+    "edges": 29343,
+    "changes": 1397,
+    "actual_rate": 0.04998926501109282,
+    "edge_sha256": "34de36a0003472424449abac8cd6b623fdf6bff80bfbbcf121c757280bb14479"
+  },
+  {
+    "condition": "random20_s17",
+    "nodes": 6616,
+    "edges": 33535,
+    "changes": 5589,
+    "actual_rate": 0.19999284334072856,
+    "edge_sha256": "7f124bb83a7c5d2a85f50b7f921f2eb69b09c25d9ab68a206dfabe69b29f1d77"
+  },
+  {
+    "condition": "random20_s29",
+    "nodes": 6616,
+    "edges": 33534,
+    "changes": 5588,
+    "actual_rate": 0.19995706004437128,
+    "edge_sha256": "01562cd5eab5c46a61cb6bd170d6559ffe2922dc2c6a10c22f176f3b2faec97e"
+  },
+  {
+    "condition": "random20_s43",
+    "nodes": 6616,
+    "edges": 33535,
+    "changes": 5589,
+    "actual_rate": 0.19999284334072856,
+    "edge_sha256": "a0611fd43179aff6476a3eb2d8e8a73cdd553ce5eda321218e68bc6fee31dd8c"
+  },
+  {
+    "condition": "hard20_s17",
+    "nodes": 6616,
+    "edges": 33535,
+    "changes": 5589,
+    "actual_rate": 0.19999284334072856,
+    "edge_sha256": "82968dd62081d4c12843926b7f99b871b32cae702c571091084ffc2bf1ffc1e5"
+  },
+  {
+    "condition": "missing20_s17",
+    "nodes": 6616,
+    "edges": 22357,
+    "changes": 5589,
+    "actual_rate": 0.19999284334072856,
+    "edge_sha256": "0780b1cc943da672c6c68a688970a2e089ca9c815623aefce68816272046656b"
+  }
+]

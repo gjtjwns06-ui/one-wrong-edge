@@ -1,0 +1,13 @@
+{
+  "queries": 582,
+  "source_blocks": 38,
+  "macro_gold_mass": {
+    "retrieved": 0.2641247428760671,
+    "out_of_index": 0.05089119201502295,
+    "indexed_but_ineligible": 0.0,
+    "eligible_but_outside_pool": 0.40104833713169485,
+    "capacity20": 0.0029786464592346197,
+    "avoidable_within_pool": 0.28095708151798043
+  },
+  "note": "Disjoint gold mass per query, then macro averaged; exact stored-proof citations, K20."
+}

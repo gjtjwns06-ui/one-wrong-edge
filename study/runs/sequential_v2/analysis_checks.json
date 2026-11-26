@@ -1,0 +1,10 @@
+{
+  "test_queries": 567,
+  "blocks": 25,
+  "all_output_caps_respected": true,
+  "finite_scores": true,
+  "lexical_and_stage1_text_identical": true,
+  "source_filter_restores_clean_for_additions": true,
+  "action_rate_within_mean_deletion_bound": true,
+  "single_oracle_never_worse_at20": true
+}

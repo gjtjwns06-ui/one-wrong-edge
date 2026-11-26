@@ -1,0 +1,12 @@
+{
+  "model": "boost_31",
+  "validation": {
+    "model": "boost_31",
+    "recall": 0.38162396795074915,
+    "ndcg": 0.3374560488080886,
+    "complete": 0.1189358372456964,
+    "complexity": 3
+  },
+  "stage1_sha256": "07150039a8e3555c9d26b1e9eef48742679c48f53acade363ecb99f0a462af99",
+  "selected_before_policy": true
+}

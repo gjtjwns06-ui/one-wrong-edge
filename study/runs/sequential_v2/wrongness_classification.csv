@@ -1,0 +1,6 @@
+condition,unique_edges,wrong_edges,ROC_AUC,average_precision,note
+hard20_s17,5430,788,0.5198001802128874,0.15180681988321332,unique-edge mean prediction; no independent-edge significance claim
+random05_s17,5216,243,0.757821453958371,0.20765532195943576,unique-edge mean prediction; no independent-edge significance claim
+random20_s17,5356,810,0.8251604992586075,0.48561456270013637,unique-edge mean prediction; no independent-edge significance claim
+random20_s29,5451,813,0.7884662611179798,0.4246283402680132,unique-edge mean prediction; no independent-edge significance claim
+random20_s43,5421,798,0.7743420307203224,0.4324619952822698,unique-edge mean prediction; no independent-edge significance claim

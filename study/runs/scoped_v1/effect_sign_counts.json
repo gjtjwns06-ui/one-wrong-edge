@@ -1,0 +1,212 @@
+[
+  {
+    "condition": "clean",
+    "source_supported": 1,
+    "sign": "negative",
+    "count": 258
+  },
+  {
+    "condition": "clean",
+    "source_supported": 1,
+    "sign": "positive",
+    "count": 248
+  },
+  {
+    "condition": "clean",
+    "source_supported": 1,
+    "sign": "zero",
+    "count": 11572
+  },
+  {
+    "condition": "hard20_s17",
+    "source_supported": 0,
+    "sign": "negative",
+    "count": 24
+  },
+  {
+    "condition": "hard20_s17",
+    "source_supported": 0,
+    "sign": "positive",
+    "count": 55
+  },
+  {
+    "condition": "hard20_s17",
+    "source_supported": 0,
+    "sign": "zero",
+    "count": 2701
+  },
+  {
+    "condition": "hard20_s17",
+    "source_supported": 1,
+    "sign": "negative",
+    "count": 183
+  },
+  {
+    "condition": "hard20_s17",
+    "source_supported": 1,
+    "sign": "positive",
+    "count": 166
+  },
+  {
+    "condition": "hard20_s17",
+    "source_supported": 1,
+    "sign": "zero",
+    "count": 10137
+  },
+  {
+    "condition": "missing20_s17",
+    "source_supported": 1,
+    "sign": "negative",
+    "count": 286
+  },
+  {
+    "condition": "missing20_s17",
+    "source_supported": 1,
+    "sign": "positive",
+    "count": 277
+  },
+  {
+    "condition": "missing20_s17",
+    "source_supported": 1,
+    "sign": "zero",
+    "count": 9674
+  },
+  {
+    "condition": "random05_s17",
+    "source_supported": 0,
+    "sign": "positive",
+    "count": 8
+  },
+  {
+    "condition": "random05_s17",
+    "source_supported": 0,
+    "sign": "zero",
+    "count": 530
+  },
+  {
+    "condition": "random05_s17",
+    "source_supported": 1,
+    "sign": "negative",
+    "count": 249
+  },
+  {
+    "condition": "random05_s17",
+    "source_supported": 1,
+    "sign": "positive",
+    "count": 162
+  },
+  {
+    "condition": "random05_s17",
+    "source_supported": 1,
+    "sign": "zero",
+    "count": 11410
+  },
+  {
+    "condition": "random20_s17",
+    "source_supported": 0,
+    "sign": "negative",
+    "count": 9
+  },
+  {
+    "condition": "random20_s17",
+    "source_supported": 0,
+    "sign": "positive",
+    "count": 36
+  },
+  {
+    "condition": "random20_s17",
+    "source_supported": 0,
+    "sign": "zero",
+    "count": 1915
+  },
+  {
+    "condition": "random20_s17",
+    "source_supported": 1,
+    "sign": "negative",
+    "count": 222
+  },
+  {
+    "condition": "random20_s17",
+    "source_supported": 1,
+    "sign": "positive",
+    "count": 203
+  },
+  {
+    "condition": "random20_s17",
+    "source_supported": 1,
+    "sign": "zero",
+    "count": 10942
+  },
+  {
+    "condition": "random20_s29",
+    "source_supported": 0,
+    "sign": "negative",
+    "count": 6
+  },
+  {
+    "condition": "random20_s29",
+    "source_supported": 0,
+    "sign": "positive",
+    "count": 28
+  },
+  {
+    "condition": "random20_s29",
+    "source_supported": 0,
+    "sign": "zero",
+    "count": 1893
+  },
+  {
+    "condition": "random20_s29",
+    "source_supported": 1,
+    "sign": "negative",
+    "count": 226
+  },
+  {
+    "condition": "random20_s29",
+    "source_supported": 1,
+    "sign": "positive",
+    "count": 175
+  },
+  {
+    "condition": "random20_s29",
+    "source_supported": 1,
+    "sign": "zero",
+    "count": 11016
+  },
+  {
+    "condition": "random20_s43",
+    "source_supported": 0,
+    "sign": "negative",
+    "count": 13
+  },
+  {
+    "condition": "random20_s43",
+    "source_supported": 0,
+    "sign": "positive",
+    "count": 25
+  },
+  {
+    "condition": "random20_s43",
+    "source_supported": 0,
+    "sign": "zero",
+    "count": 1834
+  },
+  {
+    "condition": "random20_s43",
+    "source_supported": 1,
+    "sign": "negative",
+    "count": 220
+  },
+  {
+    "condition": "random20_s43",
+    "source_supported": 1,
+    "sign": "positive",
+    "count": 190
+  },
+  {
+    "condition": "random20_s43",
+    "source_supported": 1,
+    "sign": "zero",
+    "count": 10913
+  }
+]

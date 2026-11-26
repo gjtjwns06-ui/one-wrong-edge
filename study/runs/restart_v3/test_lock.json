@@ -1,0 +1,27 @@
+{
+  "files": {
+    "configs/restart_v3.json": "acf43b081a1dff733dc8343766eff76e455b92f12062f611d8b5792e2c1e7946",
+    "RESTART_V3_PROTOCOL.md": "f975e2aff622b37a434940c32c049eb7f94f87bd8de1325f33059d48823d6ca1",
+    "data/processed/restart_v3/dataset.pkl": "04066e6f1ea16b5938f727abbcf148bca746eae89dea8f44a736e68d269f3689",
+    "runs/restart_v3/index_manifest.json": "7813d8345a0bc4016d8e807db1cc051623c3dd31a1313a1599d182fea6dd95a9",
+    "runs/restart_v3/stage1_selection.json": "07150039a8e3555c9d26b1e9eef48742679c48f53acade363ecb99f0a462af99",
+    "runs/restart_v3/stage2_selection.json": "2870edf724eaddaab0d6044717eefae5336450c49364754990f406a939407289",
+    "runs/restart_v3/stage3_selection.json": "9a3ee38bed3e28f897136f7168ba6772b7859019d9a61b079b769e4f96eee66d",
+    "runs/restart_v3/ranker.pkl": "4fac2743bff03b6a068f9be8d37be8fc89a1c3f61b8e9d5ee3a7b73e062a072b",
+    "runs/restart_v3/text_ranker.pkl": "f6a8df387157a927ba193b8fb3baa1b0d7103613ca88e1ad7c9c24c8893e1b7c",
+    "runs/restart_v3/utility_models.pkl": "2da76baa4f7402cb41171cc68eaec754bd8bcf9380f856ab8db088da6b0e2f95",
+    "runs/restart_v3/graphs.pkl": "ffd1efd0fd1cefaa0e59095440136bef9a459c55d8037ec5646efc971d9a8dba",
+    "runs/restart_v3/vectorizer.pkl": "2e2a6b08db6b9d1b857248603ace0e290f4c5095d04396c4330e46e876c56cb0",
+    "runs/restart_v3/environment.json": "23a1e18866f9f572c10666b3a403bb2ce158b4959011e437d430bb51aa4f54fa",
+    "owe/restart_v3.py": "f0750d5aedbf1b1ee2fbd7215b3cbe065d8b92f994a58330b5a716c42965921d",
+    "owe/restart_support.py": "75b4d7d53bcaed9f69072649630a87e69c237f6e4274be46ef96b503ff5a6000",
+    "owe/restart_workers.py": "3ede05f3c66960a07e98d9ea3dffab49c8b428c1da03b4eb0b99deb95451236e",
+    "owe/sequential_retriever.py": "6d4f7d285d38766ce36bdc1a147980dd76355038725cba1d9b3f357874fbf0ef",
+    "owe/sequential_interventions.py": "7f9452938f7b68a775c1cb7c54f12d589e94a59df78c739eec84f0fcbd848472",
+    "owe/sequential_stage12.py": "1e8fce5878d1a0249c3924b04c4d95b9e404bed37b0f6bb992cf33514a917530",
+    "owe/retrieval.py": "543819d953869d57dbb4d7c5030fc8e0ff3c7ae52df9dcd5821870d7d5783ae7",
+    "owe/experiment.py": "fe4ae4591da3662e851d5e33796cdffc8b3c501409006f8e6b588e7d72159469"
+  },
+  "selected_before_test": true,
+  "fresh_signature_test": true
+}

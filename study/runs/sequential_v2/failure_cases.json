@@ -1,0 +1,160 @@
+[
+  {
+    "qid": "n0i",
+    "condition": "clean",
+    "policy": "utility3",
+    "delta_recall20": -0.5,
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L40759",
+    "actions": [
+      {
+        "source": "ssnpss",
+        "target": "con2i",
+        "source_supported": true
+      },
+      {
+        "source": "eqsstrrdi",
+        "target": "eqcomd",
+        "source_supported": true
+      },
+      {
+        "source": "nelss",
+        "target": "ssel",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "con2i"
+    ],
+    "gained_gold": []
+  },
+  {
+    "qid": "usgrfs",
+    "condition": "missing20_s17",
+    "policy": "utility3",
+    "delta_recall20": -0.5,
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L456898",
+    "actions": [
+      {
+        "source": "upgrf",
+        "target": "ibi",
+        "source_supported": true
+      },
+      {
+        "source": "umgrf",
+        "target": "ibi",
+        "source_supported": true
+      },
+      {
+        "source": "ushgrf",
+        "target": "ibi",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "ibi"
+    ],
+    "gained_gold": []
+  },
+  {
+    "qid": "elopaba",
+    "condition": "random20_s43",
+    "policy": "utility3",
+    "delta_recall20": -0.3333333333333333,
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L56015",
+    "actions": [
+      {
+        "source": "bropaex12",
+        "target": "bitri",
+        "source_supported": true
+      },
+      {
+        "source": "opeq12",
+        "target": "vex",
+        "source_supported": false
+      },
+      {
+        "source": "relssi",
+        "target": "ssrel",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "bitri"
+    ],
+    "gained_gold": []
+  },
+  {
+    "qid": "funopabeq",
+    "condition": "hard20_s17",
+    "policy": "utility3",
+    "delta_recall20": -0.3333333333333333,
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L63397",
+    "actions": [
+      {
+        "source": "relssi",
+        "target": "mpgbir",
+        "source_supported": true
+      },
+      {
+        "source": "dmopabelb",
+        "target": "elab2g",
+        "source_supported": true
+      },
+      {
+        "source": "rnopab",
+        "target": "reeanv",
+        "source_supported": false
+      }
+    ],
+    "lost_gold": [
+      "mpgbir"
+    ],
+    "gained_gold": []
+  },
+  {
+    "qid": "xpeq12",
+    "condition": "missing20_s17",
+    "policy": "utility3",
+    "delta_recall20": -0.3333333333333333,
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L54928",
+    "actions": [
+      {
+        "source": "opeq12",
+        "target": "sylan9eq",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "sylan9eq"
+    ],
+    "gained_gold": []
+  },
+  {
+    "qid": "cnveq",
+    "condition": "random20_s43",
+    "policy": "utility3",
+    "delta_recall20": -0.25,
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L56685",
+    "actions": [
+      {
+        "source": "disjeq0",
+        "target": "com12",
+        "source_supported": true
+      },
+      {
+        "source": "eqsstrdi",
+        "target": "a1i",
+        "source_supported": true
+      },
+      {
+        "source": "coeq1",
+        "target": "eqss",
+        "source_supported": true
+      }
+    ],
+    "lost_gold": [
+      "eqss"
+    ],
+    "gained_gold": []
+  }
+]

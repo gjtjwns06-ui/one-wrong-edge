@@ -1,0 +1,450 @@
+[
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.0,
+    "validation_gain": -7.131998774720662e-05,
+    "validation_mean_deletions": 0.9129353233830846
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.002,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.005,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.01,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.02,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.05,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.1,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 1.0,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.0,
+    "validation_gain": 0.00042416645212115824,
+    "validation_mean_deletions": 2.5012437810945274
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.002,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.005,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.01,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.02,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.05,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.1,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_1",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 1.0,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.0,
+    "validation_gain": -7.131998774720662e-05,
+    "validation_mean_deletions": 0.9129353233830846
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.002,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.005,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.01,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.02,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.05,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.1,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 1.0,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.0,
+    "validation_gain": 0.00042416645212115824,
+    "validation_mean_deletions": 2.5012437810945274
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.002,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.005,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.01,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.02,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.05,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.1,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "ridge_10",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 1.0,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.0,
+    "validation_gain": 0.00088760625357874,
+    "validation_mean_deletions": 0.9203980099502488
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.002,
+    "validation_gain": 0.00019969661900801446,
+    "validation_mean_deletions": 0.1722636815920398
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.005,
+    "validation_gain": 0.00015547264144936604,
+    "validation_mean_deletions": 0.05783582089552239
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.01,
+    "validation_gain": 0.00015547264144936604,
+    "validation_mean_deletions": 0.017412935323383085
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.02,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.003109452736318408
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.05,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0006218905472636816
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 0.1,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 1,
+    "threshold": 1.0,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.0,
+    "validation_gain": 0.000738908901417426,
+    "validation_mean_deletions": 2.5478855721393034
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.002,
+    "validation_gain": 0.00019969661437456882,
+    "validation_mean_deletions": 0.292910447761194
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.005,
+    "validation_gain": 0.00015547264299384795,
+    "validation_mean_deletions": 0.10758706467661691
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.01,
+    "validation_gain": 0.00015547264144936604,
+    "validation_mean_deletions": 0.030472636815920398
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.02,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.004975124378109453
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.05,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0012437810945273632
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 0.1,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "utility_boost",
+    "kind": "utility",
+    "budget": 3,
+    "threshold": 1.0,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "budget": 1,
+    "threshold": 0.5,
+    "validation_gain": -8.699987593352498e-05,
+    "validation_mean_deletions": 0.9496268656716418
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "budget": 1,
+    "threshold": 0.7,
+    "validation_gain": -5.676908492671317e-05,
+    "validation_mean_deletions": 0.8401741293532339
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "budget": 1,
+    "threshold": 0.9,
+    "validation_gain": 0.0001446242717590498,
+    "validation_mean_deletions": 0.08084577114427861
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "budget": 1,
+    "threshold": 1.01,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "budget": 3,
+    "threshold": 0.5,
+    "validation_gain": -0.0001218590255838167,
+    "validation_mean_deletions": 2.7313432835820897
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "budget": 3,
+    "threshold": 0.7,
+    "validation_gain": 2.4178491367794324e-05,
+    "validation_mean_deletions": 1.8936567164179106
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "budget": 3,
+    "threshold": 0.9,
+    "validation_gain": 0.0001446242717590498,
+    "validation_mean_deletions": 0.09017412935323384
+  },
+  {
+    "model": "wrongness_boost",
+    "kind": "wrongness",
+    "budget": 3,
+    "threshold": 1.01,
+    "validation_gain": 0.0,
+    "validation_mean_deletions": 0.0
+  }
+]

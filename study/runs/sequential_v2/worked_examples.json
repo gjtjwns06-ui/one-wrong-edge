@@ -1,0 +1,130 @@
+[
+  {
+    "qid": "eulerpathpr",
+    "kind": "named_diagnostic",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L474930",
+    "gold_count": 26,
+    "old_recall20": 0.0,
+    "new_pool_coverage": 0.5384615384615384,
+    "proof_recall20": 0.3076923076923077,
+    "utility3_recall20": 0.3076923076923077,
+    "lost_vs_old": [],
+    "gained_vs_old": [
+      "a1i",
+      "syl",
+      "adantr",
+      "simpr",
+      "eqid",
+      "fveq2",
+      "fveq2d",
+      "fvex"
+    ]
+  },
+  {
+    "qid": "konigsberg",
+    "kind": "named_diagnostic",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L475398",
+    "gold_count": 25,
+    "old_recall20": 0.04,
+    "new_pool_coverage": 0.52,
+    "proof_recall20": 0.28,
+    "utility3_recall20": 0.28,
+    "lost_vs_old": [],
+    "gained_vs_old": [
+      "ax-mp",
+      "syl",
+      "mp2an",
+      "eqeltri",
+      "fveq2i",
+      "konigsberglem5"
+    ]
+  },
+  {
+    "qid": "usgrfs",
+    "kind": "named_diagnostic",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L456898",
+    "gold_count": 2,
+    "old_recall20": 0.5,
+    "new_pool_coverage": 1.0,
+    "proof_recall20": 1.0,
+    "utility3_recall20": 1.0,
+    "lost_vs_old": [],
+    "gained_vs_old": [
+      "isusgrs"
+    ]
+  },
+  {
+    "qid": "relopab",
+    "kind": "base_ranker_regression",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L56168",
+    "gold_count": 2,
+    "old_recall20": 0.5,
+    "new_pool_coverage": 0.5,
+    "proof_recall20": 0.0,
+    "utility3_recall20": 0.0,
+    "lost_vs_old": [
+      "relopabi"
+    ],
+    "gained_vs_old": []
+  },
+  {
+    "qid": "elimf",
+    "kind": "base_ranker_regression",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L64635",
+    "gold_count": 2,
+    "old_recall20": 0.5,
+    "new_pool_coverage": 1.0,
+    "proof_recall20": 0.0,
+    "utility3_recall20": 0.0,
+    "lost_vs_old": [
+      "feq1"
+    ],
+    "gained_vs_old": []
+  },
+  {
+    "qid": "fssdmd",
+    "kind": "base_ranker_regression",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L64767",
+    "gold_count": 2,
+    "old_recall20": 0.5,
+    "new_pool_coverage": 1.0,
+    "proof_recall20": 0.0,
+    "utility3_recall20": 0.0,
+    "lost_vs_old": [
+      "sseqtrd"
+    ],
+    "gained_vs_old": []
+  },
+  {
+    "qid": "fssdm",
+    "kind": "base_ranker_regression",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L64777",
+    "gold_count": 2,
+    "old_recall20": 0.5,
+    "new_pool_coverage": 1.0,
+    "proof_recall20": 0.0,
+    "utility3_recall20": 0.0,
+    "lost_vs_old": [
+      "sseqtrid"
+    ],
+    "gained_vs_old": []
+  },
+  {
+    "qid": "upgr1pthond",
+    "kind": "base_ranker_regression",
+    "source": "https://github.com/metamath/set.mm/blob/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm#L473180",
+    "gold_count": 4,
+    "old_recall20": 0.75,
+    "new_pool_coverage": 1.0,
+    "proof_recall20": 0.25,
+    "utility3_recall20": 0.25,
+    "lost_vs_old": [
+      "1pthond",
+      "upgr1wlkdlem1",
+      "upgr1wlkdlem2"
+    ],
+    "gained_vs_old": [
+      "eqid"
+    ]
+  }
+]

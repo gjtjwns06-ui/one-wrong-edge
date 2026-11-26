@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this research snapshot and consult the manuscript for claim boundaries."
+title: "One Wrong Edge: Question-Conditioned Interventions for Mathematical Evidence Retrieval"
+type: software
+authors:
+  - name: "One Wrong Edge contributors"
+version: 0.3.0
+date-released: 2026-11-26
+repository-code: "https://github.com/gjtjwns06-ui/one-wrong-edge"
+url: "https://github.com/gjtjwns06-ui/one-wrong-edge"
+keywords:
+  - mathematical evidence retrieval
+  - knowledge graphs
+  - graph retrieval
+  - Metamath
+  - reproducible research

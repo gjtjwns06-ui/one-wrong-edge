@@ -1,0 +1,39 @@
+{
+  "repository": "https://github.com/metamath/set.mm",
+  "commit": "7d1aa054166171211aa5c3f5e497024031bdbd27",
+  "commit_date": "2026-11-22T00:01:57Z",
+  "requested_cutoff": "2026-11-23T14:59:59Z",
+  "licence": "CC0-1.0",
+  "files": {
+    "set.mm": {
+      "url": "https://raw.githubusercontent.com/metamath/set.mm/7d1aa054166171211aa5c3f5e497024031bdbd27/set.mm",
+      "bytes": 52001131,
+      "sha256": "f7049883bd7eaba65fa79e9d7fa25fc6b8c04ec8777589d81fec9561352b93b9"
+    },
+    "iset.mm": {
+      "url": "https://raw.githubusercontent.com/metamath/set.mm/7d1aa054166171211aa5c3f5e497024031bdbd27/iset.mm",
+      "bytes": 12116120,
+      "sha256": "a9ab99af199db029ad6c1b624c8a11ab6fba9cee4e08dbc3d9b67e334886bd17"
+    },
+    "hol.mm": {
+      "url": "https://raw.githubusercontent.com/metamath/set.mm/7d1aa054166171211aa5c3f5e497024031bdbd27/hol.mm",
+      "bytes": 96899,
+      "sha256": "47a1e96538143ff382be54425beceddbd656e1105553f395c9bd9a4c1b6c3cde"
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/metamath/set.mm/7d1aa054166171211aa5c3f5e497024031bdbd27/LICENSE",
+      "bytes": 7238,
+      "sha256": "8a5f6a2b110cdecd3543c2b18c4d17fa2f08d16ca61c1fe0a1e41b1343464b5c"
+    },
+    "README.md": {
+      "url": "https://raw.githubusercontent.com/metamath/set.mm/7d1aa054166171211aa5c3f5e497024031bdbd27/README.md",
+      "bytes": 5850,
+      "sha256": "33c057d3c5fcf9c20f836030a20b05cb7578231af0bc90c521c560e629b3baa9"
+    },
+    "verifiers.md": {
+      "url": "https://raw.githubusercontent.com/metamath/set.mm/7d1aa054166171211aa5c3f5e497024031bdbd27/verifiers.md",
+      "bytes": 2233,
+      "sha256": "362dfba67ca6dbfc3aca7fc0b356563edf20410e91f90044f38d01b7be47bbf6"
+    }
+  }
+}
