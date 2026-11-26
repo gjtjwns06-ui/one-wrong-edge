@@ -42,5 +42,7 @@ fig.subplots_adjust(left=0, right=1, top=1, bottom=0)
 (ROOT / "assets").mkdir(exist_ok=True)
 fig.savefig(ROOT / "assets/banner.png", facecolor=fig.get_facecolor())
 fig.savefig(ROOT / "assets/banner.svg", facecolor=fig.get_facecolor())
+svg_path = ROOT / "assets/banner.svg"
+svg_path.write_text("\n".join(line.rstrip() for line in svg_path.read_text(encoding="utf-8").splitlines()) + "\n", encoding="utf-8", newline="\n")
 plt.close(fig)
 print("Rendered assets/banner.png and assets/banner.svg")
